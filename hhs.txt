@@ -1,0 +1,3100 @@
+DEPARTMENT OF HEALTH AND
+HUMAN SERVICES
+Food and Drug Administration
+21 CFR Parts 882 and 895
+[Docket No. FDA–2023–N–3902]
+RIN 0910–AI84
+Banned Devices; Proposal To Ban
+Electrical Stimulation Devices for SelfInjurious or Aggressive Behavior
+AGENCY: Food and Drug Administration,
+HHS.
+ACTION: Proposed rule.
+SUMMARY: The Food and Drug
+Administration (FDA, the Agency, or
+we) is proposing to ban electrical
+stimulation devices (ESDs) intended for
+self-injurious behavior (SIB) or
+aggressive behavior (AB). FDA has
+determined these devices present an
+unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling. This proposal
+follows a court decision vacating a prior
+ban and amendment to the Federal
+Food, Drug, and Cosmetic Act clarifying
+our authority to ban a device for one or
+more intended uses. This action, if
+finalized, will mean ESDs for SIB and
+AB are adulterated and not legally
+marketed.
+DATES: Either electronic or written
+comments on the proposed rule must be
+submitted by May 28, 2024.
+ADDRESSES: You may submit comments
+as follows. Please note that late,
+untimely filed comments will not be
+considered. The https://
+www.regulations.gov electronic filing
+system will accept comments until
+11:59 p.m. Eastern Time at the end of
+May 28, 2024. Comments received by
+mail/hand delivery/courier (for written/
+paper submissions) will be considered
+timely if they are received on or before
+that date.
+Electronic Submissions
+Submit electronic comments in the
+following way:
+• Federal eRulemaking Portal:
+https://www.regulations.gov. Follow the
+instructions for submitting comments.
+Comments submitted electronically,
+including attachments, to https://
+www.regulations.gov will be posted to
+the docket unchanged. Because your
+comment will be made public, you are
+solely responsible for ensuring that your
+comment does not include any
+confidential information that you or a
+third party may not wish to be posted,
+such as medical information, your or
+anyone else’s Social Security number, or
+confidential business information, such
+as a manufacturing process. Please note
+that if you include your name, contact
+information, or other information that
+identifies you in the body of your
+comments, that information will be
+posted on https://www.regulations.gov.
+• If you want to submit a comment
+with confidential information that you
+do not wish to be made available to the
+public, submit the comment as a
+written/paper submission and in the
+manner detailed (see ‘‘Written/Paper
+Submissions’’ and ‘‘Instructions’’).
+Written/Paper Submissions
+Submit written/paper submissions as
+follows:
+• Mail/Hand Delivery/Courier (for
+written/paper submissions): Dockets
+Management Staff (HFA–305), Food and
+Drug Administration, 5630 Fishers
+Lane, Rm. 1061, Rockville, MD 20852.
+• For written/paper comments
+submitted to the Dockets Management
+Staff, FDA will post your comment, as
+well as any attachments, except for
+information submitted, marked and
+identified, as confidential, if submitted
+as detailed in ‘‘Instructions.’’
+Instructions: All submissions received
+must include the Docket No. FDA–
+2023–N–3902 for ‘‘Banned Devices;
+Proposal to Ban Electrical Stimulation
+Devices for Self-Injurious or Aggressive
+Behavior.’’ Received comments, those
+filed in a timely manner (see
+ADDRESSES), will be placed in the docket
+and, except for those submitted as
+‘‘Confidential Submissions,’’ publicly
+viewable at https://www.regulations.gov
+or at the Dockets Management Staff
+between 9 a.m. and 4 p.m., Monday
+through Friday, 240–402–7500.
+• Confidential Submissions—To
+submit a comment with confidential
+information that you do not wish to be
+made publicly available, submit your
+comments only as a written/paper
+submission. You should submit two
+copies total. One copy will include the
+information you claim to be confidential
+with a heading or cover note that states
+‘‘THIS DOCUMENT CONTAINS
+CONFIDENTIAL INFORMATION.’’ The
+Agency will review this copy, including
+the claimed confidential information, in
+its consideration of comments. The
+second copy, which will have the
+claimed confidential information
+redacted/blacked out, will be available
+for public viewing and posted on
+https://www.regulations.gov. Submit
+both copies to the Dockets Management
+Staff. If you do not wish your name and
+contact information to be made publicly
+available, you can provide this
+information on the cover sheet and not
+in the body of your comments and you
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00004 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20883
+must identify this information as
+‘‘confidential.’’ Any information marked
+as ‘‘confidential’’ will not be disclosed
+except in accordance with 21 CFR 10.20
+and other applicable disclosure law. For
+more information about FDA’s posting
+of comments to public dockets, see 80
+FR 56469, September 18, 2015, or access
+the information at: https://
+www.govinfo.gov/content/pkg/FR-2015-
+09-18/pdf/2015-23389.pdf.
+Docket: For access to the docket to
+read background documents, the plain
+language summary of the proposed rule
+of not more than 100 words as required
+by the ‘‘Providing Accountability
+Through Transparency Act,’’ or the
+electronic and written/paper comments
+received, go to https://
+www.regulations.gov and insert the
+docket number, found in brackets in the
+heading of this document, into the
+‘‘Search’’ box and follow the prompts
+and/or go to the Dockets Management
+Staff, 5630 Fishers Lane, Rm. 1061,
+Rockville, MD 20852, 240–402–7500.
+FOR FURTHER INFORMATION CONTACT:
+Rebecca Nipper, Center for Devices and
+Radiological Health, Food and Drug
+Administration, 10903 New Hampshire
+Ave., Bldg. 66, Rm. 1540, Silver Spring,
+MD 20993–0002, 301–796–6527,
+Rebecca.Nipper@fda.hhs.gov.
+SUPPLEMENTARY INFORMATION:
+Table of Contents
+I. Executive Summary
+A. Purpose of the Proposed Rule
+B. Summary of the Major Provisions of the
+Proposed Rule
+C. Legal Authority
+D. Costs and Benefits
+II. Table of Abbreviations/Commonly Used
+Acronyms in This Document
+III. Background
+A. Introduction
+B. Need for the Regulation
+C. FDA’s Current Regulatory Framework
+D. History of the Rulemaking
+IV. Legal Authority
+V. Evaluation and Discussion of Data and
+Information
+A. Risks of ESDs for SIB or AB
+B. Effects of ESDs for SIB or AB
+C. State of the Art for Treating SIB or AB
+D. Labeling and Correcting or Eliminating
+Substantial and Unreasonable Risks
+VI. Description of the Proposed Rule
+A. Applicability (Proposed § 895.105)
+B. Proposed Conforming Amendment
+(§ 882.5235)
+VII. Proposed Effective and Compliance
+Dates
+VIII. Preliminary Economic Analysis of
+Impacts
+A. Introduction
+B. Summary of Benefits, Costs, and
+Transfers
+IX. Analysis of Environmental Impact
+X. Paperwork Reduction Act of 1995
+XI. Federalism
+XII. Consultation and Coordination With
+Indian Tribal Governments
+XIII. References
+I. Executive Summary
+A. Purpose of the Proposed Rule
+FDA is proposing to ban ESDs
+intended for self-injurious behavior
+(SIB) or aggressive behavior (AB)
+pursuant to the Agency’s authority
+under the Federal Food, Drug, and
+Cosmetic Act (FD&C Act) after
+determining that the devices present an
+unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling. FDA
+previously issued a final rule in 2020
+banning these devices (2020 Final Rule)
+(85 FR 13312, March 6, 2020), which
+was vacated by the U.S. Court of
+Appeals for the District of Columbia
+Circuit (D.C. Circuit) on July 6, 2021.
+The D.C. Circuit opined that FDA’s
+authority to ban devices intended for
+human use under the FD&C Act, as it
+existed at the time, did not permit FDA
+to ban a device for some (but not all) of
+its intended uses. Following the D.C.
+Circuit’s decision, Congress amended
+the FD&C Act to expressly state that
+FDA’s authority to ban a device
+includes the authority to ban some
+intended uses of a device, even if the
+Agency does not seek to ban it for all
+intended uses. The amendment to the
+FD&C Act thereby authorizes FDA to
+issue a ban that applies to specific
+intended uses, such as the previous ban
+on ESDs for self-injurious and
+aggressive behavior. This proposed rule,
+if finalized, would reestablish the ban
+now that it is clear that FDA has the
+authority to do so.
+ESDs are aversive conditioning
+devices that apply a noxious electrical
+stimulus (a shock) to a person’s skin to
+condition behavior to reduce or cease
+SIB and AB. SIB and AB frequently
+manifest in the same individual, and
+people with intellectual or
+developmental disabilities exhibit these
+behaviors at disproportionately high
+rates. Notably, some people with
+intellectual or developmental
+disabilities who exhibit SIB and AB
+have difficulty communicating and
+cannot make their own treatment
+decisions because of such disabilities,
+meaning they are part of a vulnerable
+population.
+In issuing the 2020 Final Rule, FDA
+determined that the medical literature
+shows that ESDs for SIB or AB pose a
+number of psychological harms
+including depression, post-traumatic
+stress disorder (PTSD), anxiety, fear,
+panic, substitution of other negative
+behaviors, worsening of underlying
+symptoms, and learned helplessness
+(becoming unable or unwilling to
+respond in any way to the ESD); and the
+devices present the physical risks of
+pain, skin burns, and tissue damage. We
+also found that other sources, such as
+experts in the field, State agencies that
+regulate ESD use, and records from the
+only facility that has recently
+manufactured and is currently using
+ESDs for SIB or AB, indicate that ESDs
+pose additional risks such as suicidality,
+chronic stress, acute stress disorder,
+neuropathy, withdrawal, nightmares,
+flashbacks of panic and rage,
+hypervigilance, insensitivity to fatigue
+or pain, changes in sleep patterns, loss
+of interest, difficulty concentrating, and
+injuries from falling. We also
+determined that state-of-the-art
+treatments for this patient population
+have evolved away from ones that
+include ESD use and toward various
+positive behavioral treatments,
+sometimes combined with
+pharmacological treatments. Although
+the available data and information
+suggest that some individuals subject to
+ESDs exhibit an immediate reduction or
+cessation of the targeted behavior, the
+available evidence has not established a
+durable long-term conditioning effect or
+an overall favorable benefit-risk profile
+for ESDs for SIB and AB.
+For this proposed rule, FDA has
+determined that there have been no
+material changes regarding these topics
+in the available literature that impact
+our findings and assessments in the
+2020 Final Rule. Accordingly, FDA has
+determined on the basis of all available
+data and information that ESDs for SIB
+or AB present an unreasonable and
+substantial risk of illness or injury and
+that such risk cannot be corrected or
+eliminated by labeling or by a change in
+labeling. FDA is issuing this proposed
+rule to give notice of FDA’s
+determination and give interested
+persons an opportunity to comment on
+the determination and FDA’s proposal
+to ban ESDs for SIB and AB. All
+references to section numbers are
+references to section numbers in this
+proposed rule unless otherwise
+specified.
+B. Summary of the Major Provisions of
+the Proposed Rule
+We are proposing to amend part 895
+(21 CFR part 895) to designate ESDs for
+SIB or AB as banned devices. If this
+proposed rule is finalized as proposed,
+the ban would include only aversive
+conditioning devices intended to apply
+a noxious electrical stimulus to a
+person’s skin to reduce or cease
+aggressive or self-injurious behavior.
+The proposed ban would apply to
+devices already in commercial
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00005 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20884 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+1On September 7, 2023, the Supreme Judicial
+Court of Massachusetts considered the narrow
+question of whether the probate judge abused her
+discretion in making that finding based upon the
+evidence before her at the time of that decision (all
+of which was from 2016 and earlier), and concluded
+that she had not. See Judge Rotenberg Educational
+Center, Inc. v. Commissioner of the Department of
+Developmental Services, 492 Mass. 772 (September
+7, 2023).
+distribution and devices already in use
+by the ultimate (end) user, as well as
+devices to be sold or commercially
+distributed in the future. A banned
+device is an adulterated device, subject
+to enforcement action. Additionally, a
+device that is banned for one or more
+intended uses is not legally marketed
+within the meaning of section 1006 of
+the FD&C Act (21 U.S.C. 396) when
+intended for such use or uses. The ban
+would not, however, prevent further
+study of such devices pursuant to an
+investigational device exemption if the
+requirements for such an exemption are
+met. We also are proposing conforming
+edits to 21 CFR part 882 to clarify that
+ESDs are banned when used to reduce
+or cease SIB or AB.
+C. Legal Authority
+We are proposing to issue this rule
+pursuant to FDA’s authority to ban
+devices intended for human use, as
+recently amended by Congress. We also
+are proposing to issue this rule under
+the authority to issue regulations for the
+efficient enforcement of the FD&C Act.
+D. Costs and Benefits
+This proposed rule, if finalized,
+would reestablish the ban of ESDs for
+SIB or AB. FDA has determined that
+these devices present an unreasonable
+and substantial risk of illness or injury
+that cannot be corrected or eliminated
+by labeling or a change in labeling. The
+proposed rule, if finalized, would apply
+to both new devices and devices already
+in distribution and use. Unquantified
+benefits would include reduction in
+physical and psychological adverse
+effects from using ESDs on individuals,
+as well as benefits to society in terms of
+protecting vulnerable populations. We
+quantify costs for the case in which the
+affected individuals might move to
+another facility and costs to the affected
+entities, who use the device on such
+individuals, to read and understand the
+rule. We estimate that the annualized
+costs over 10 years would range from
+$0.00 million to $9.17 million with a
+primary estimate of $4.59 million at
+both a 7 percent and a 3 percent
+discount rate.
+II. Table of Abbreviations/Commonly
+Used Acronyms in This Document
+Abbreviation/
+acronym What it means
+AB .................... Aggressive Behavior.
+ABA ................. Applied Behavior Analysis.
+ABAI ................ Association for Behavior Analysis
+International.
+AE .................... Adverse Event.
+DBT ................. Dialectical Behavioral Therapy.
+EA .................... Environmental Assessment.
+ESD ................. Electrical Stimulation Device.
+FA .................... Analogue Functional Analysis.
+Abbreviation/
+acronym What it means
+FDORA ............ Food and Drug Omnibus Reform
+Act of 2022.
+FONSI ............. Finding of No Significant Impact.
+FD&C Act ........ Federal Food, Drug, and Cosmetic
+Act.
+GED ................. Graduated Electronic Decelerator.
+mA ................... Milliampere.
+MSW ................ Municipal Solid Waste.
+PBS ................. Positive Behavioral Support.
+PTSD ............... Post-traumatic Stress Disorder.
+SIB ................... Self-Injurious Behavior.
+III. Background
+FDA is proposing to ban certain
+devices that apply a noxious electrical
+stimulus to attempt to reduce or stop
+undesirable, injurious behaviors
+frequently manifested by vulnerable
+people. Specifically, this rulemaking
+would ban ESDs for SIB or AB because
+the devices present an unreasonable and
+substantial risk of illness or injury that
+cannot be corrected or eliminated by
+labeling or a change in labeling. This is
+the second ban on these devices we are
+undertaking to protect and promote the
+public health. As we will explain in
+more detail, the U.S. Court of Appeals
+for the District of Columbia Circuit (D.C.
+Circuit) vacated the first ban.
+A. Introduction
+ESDs for SIB or AB give people an
+often-painful electric shock to try to
+make them stop behaving in ways that
+are harmful and/or dangerous and that
+are often related to other underlying
+intellectual or developmental
+disabilities. More specifically, ESDs are
+a type of aversive conditioning device
+that apply a noxious electrical stimulus
+(the shock) to a person’s skin in an
+attempt to reduce or cease self-injurious
+or aggressive behaviors. SIB commonly
+includes head-banging, hand-biting,
+excessive scratching, and picking of the
+skin. However, SIB can be more extreme
+and result in bleeding; broken, even
+protruding bones; blindness from eyegouging or poking; other permanent
+tissue damage; or injuries from
+swallowing dangerous objects or
+substances. AB can involve repeated
+physical assaults and can be a danger to
+the individual, others, or property. In
+this proposed rule, like much of the
+scientific literature, we discuss SIB and
+AB in tandem and use the phrase ‘‘SIB
+or AB’’ to refer to SIB, AB, or both. A
+more detailed discussion of SIB and AB
+and intellectual or developmental
+disabilities as they relate to individuals
+with SIB or AB can be found in section
+I.B of the previous proposed rule to ban
+these devices (2016 Proposed Rule) (81
+FR 24386 at 24389).
+ESDs that are subject to this proposed
+ban are intended to reduce SIB or AB
+according to the principle of aversive
+conditioning. Aversive conditioning
+pairs a noxious stimulus (such as, here,
+a noxious electric shock delivered to an
+individual’s skin) with a target behavior;
+the goal is that the individual eventually
+associates the noxious stimulus with the
+behavior. Pairing a target behavior with
+shocks from an ESD is intended to affect
+behavior in two ways: by interrupting
+the target behavior as an immediate
+response to the stimulus—for example,
+in response to pain—and, over time,
+through a conditioned reduction in the
+target behavior if the person learns to
+associate the shock with the target
+behavior (and can learn to control the
+behavior). Associating the unwanted
+behavior with the shock is intended to
+decrease the frequency of the behavior
+or stop it altogether.
+However, as explained here, ESDs
+pose a number of serious risks and have
+not been shown to be effective, and
+modern treatments for SIB or AB have
+been generally successful without
+involving the use of ESDs. State-of-theart treatments instead include
+conducting a functional behavioral
+assessment to determine the causes and
+triggers of self-injury or aggression, then
+using that information to design a plan
+with supportive approaches, consisting
+of multiple elements, to modify the
+behavior. In some cases,
+pharmacotherapy is an appropriate
+element of a treatment plan, depending
+on the specific patient. These
+approaches have generally been
+successful, even for some of the most
+difficult cases. The use of ESDs was
+mostly abandoned decades ago, in part
+because the shocks can be painful or
+very painful for the recipients. Only one
+facility in the United States still applies
+these devices to individuals.
+Although in 2018 a Massachusetts
+court found, for the purpose of
+considering whether to lift a consent
+decree, that there was no professional
+consensus as to whether ESDs are part
+of standard of care for treating
+individuals with intellectual and
+developmental disabilities,1 the
+professional consensus regarding the
+accepted standard of care and such use
+of ESDs is not an issue in this
+rulemaking (see discussion in the 2020
+Final Rule, 85 FR 13312 at 13314
+through 13315). Rather, to ban a device
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00006 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20885
+under section 516 of the FD&C Act (21
+U.S.C. 360f), FDA must determine the
+device presents an ‘‘unreasonable and
+substantial risk of illness or injury.’’ In
+making this determination, FDA
+analyzes whether the risks the device
+poses to individuals are important,
+material, or significant in relation to its
+benefits to the public health, and FDA
+compares those risks and benefits to the
+risks and benefits posed by alternative
+treatments being used in current
+medical practice (which relates to what
+FDA refers to as ‘‘the state of the art’’)
+(85 FR 13312 at 13315; 81 FR 24386 at
+24388). The purpose of considering the
+alternatives used in current medical
+practice to treat a particular patient
+population is to assess and compare the
+risks and benefits of those alternatives
+to the risks and benefits of the device
+that is the subject of the ban, not to
+determine whether the device that is the
+subject of the ban is part of the standard
+of care or state of the art. For these
+reasons, as stated in the 2020 Final
+Rule, whether punishment, contingent
+shock, or ESDs are within the standard
+of care or state of the art is not an issue
+in this rulemaking (85 FR 13312 at
+13341). In sum, the court’s decision has
+no legal or scientific bearing on this
+proposed ban.
+B. Need for the Regulation
+This rulemaking would protect and
+promote the public health by banning
+ESDs for SIB or AB, which would
+prevent this patient population from
+being subjected to a device that poses a
+substantial and unreasonable risk of
+illness or injury. As we explained in the
+previous rulemaking to ban ESDs for
+SIB and AB, people who manifest SIB
+or AB often have intellectual and
+developmental disabilities including,
+but not limited to, autism spectrum
+disorder, Down syndrome, or Tourette
+syndrome, as well as other cognitive or
+psychiatric disorders and severe
+intellectual impairment (including a
+broad range of intellectual measures)
+(see, e.g., 81 FR 24386 at 24389).
+Notably, some people with such
+intellectual and developmental
+disabilities may have difficulty
+communicating and may not be able to
+make their own treatment decisions
+because of such disabilities (see, e.g., 85
+FR 13312 at 13329). This, among other
+reasons, means that many people who
+exhibit SIB or AB constitute a
+vulnerable population. For people who
+manifest SIB or AB, ESDs intended for
+those conditions present a substantial
+and unreasonable risk of illness or
+injury that cannot be corrected or
+eliminated by labeling or a change in
+labeling. As such, a ban on these
+devices for these intended uses is
+warranted.
+As discussed in section IV below,
+section 516(a) of the FD&C Act
+authorizes FDA to ban a device for one
+or more intended uses, by regulation, if
+we find, on the basis of all available
+data and information, that such a device
+presents substantial deception or an
+unreasonable and substantial risk of
+illness or injury. Accordingly, based on
+the serious risks posed by ESDs for SIB
+or AB, the inadequacy of data to support
+their effectiveness, and the positive
+benefit-risk profiles of the state-of-theart alternatives for the treatment of SIB
+or AB, FDA has determined that ESDs
+present an unreasonable and substantial
+risk of illness or injury that cannot be
+corrected or eliminated by labeling. The
+proposed rule would apply to devices
+already in distribution and use, as well
+as to future sale and distribution of
+these devices. The purpose of this
+notice is to seek comments on FDA’s
+proposal to ban ESDs used for SIB or AB
+and comments on any other associated
+issues. Section V of this document
+discusses the information and data that
+support these proposed findings.
+C. FDA’s Current Regulatory Framework
+The FD&C Act, as amended by the
+Medical Device Amendments of 1976
+(1976 Amendments) (Pub. L. 94–295),
+establishes a comprehensive system for
+the regulation of medical devices
+intended for human use. Section 513 of
+the FD&C Act establishes three
+categories (classes) of devices, reflecting
+the regulatory controls needed to
+provide reasonable assurance of their
+safety and effectiveness: class I (general
+controls), class II (special controls), and
+class III (premarket approval) (see 21
+U.S.C. 360c).
+In 1979, FDA classified aversive
+conditioning devices as class II (see
+§ 882.5235 (21 CFR 882.5235)), which
+was consistent with the
+recommendation of the Neurological
+Device Classification Panel in 1978.
+Class II devices are those devices for
+which general controls by themselves
+are insufficient to provide reasonable
+assurance of safety and effectiveness,
+but for which there is sufficient
+information to establish special controls
+to provide such assurance, including the
+promulgation of performance standards,
+postmarket surveillance, patient
+registries, development and
+dissemination of guidelines,
+recommendations, and other
+appropriate actions the Agency deems
+necessary to provide such assurance
+(section 513(a)(1)(B) of the FD&C Act).
+Aversive conditioning devices, as a
+device type, administer an electric
+shock or another noxious stimulus to a
+patient to modify undesirable
+behavioral characteristics (see
+§ 882.5235). Thus, ESDs intended for
+SIB and AB, which administer shocks to
+modify target behaviors, are within the
+aversive conditioning device
+classification regulation. As discussed
+in more detail in section I.D. of the
+previous proposed rule (81 FR 24386 at
+24391), in the late 1970s, FDA and the
+panelists of the Neurological Device
+Classification Panel believed that
+performance standards could adequately
+assure the safety and effectiveness of
+aversives and proposed a classification
+accordingly. We received no comments
+from the public on the proposed rule,
+and we issued the final rule classifying
+aversives as proposed at § 882.5235 (44
+FR 51726 at 51765, September 4, 1979).
+As we explained during the previous
+rulemaking to ban ESDs for SIB and AB,
+and as remains true, FDA now has a
+better understanding of the risks and
+benefits presented by these devices than
+we did 44 years ago when these devices
+were classified. As summarized in
+section III.B and explained more fully in
+section V.E. of the 2020 Final Rule, the
+state of the art for the treatment of SIB
+and AB has progressed significantly
+over that time period (85 FR 13312 at
+13337 through 13344). The development
+of the scientific literature and
+treatments for these conditions only
+underscores that the risk of illness or
+injury from the use of ESDs for SIB and
+AB is unreasonable and substantial.
+D. History of the Rulemaking
+FDA previously banned ESDs for SIB
+and AB in a final rule issued on March
+6, 2020, pursuant to the Agency’s
+authority under section 516 of the FD&C
+Act (85 FR 13312 at 13354).
+Specifically, section 516 of the FD&C
+Act provides that FDA may ban a device
+intended for human use if the Agency
+determines that the device presents
+substantial deception or an
+unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling or change in
+labeling. Leading up to the final ban,
+FDA held a public meeting of the
+Neurological Devices Panel of the
+Medical Devices Advisory Committee
+on April 24, 2014 (see 79 FR 17155,
+March 27, 2014) (Ref. 1), issued a
+proposed ban in the Federal Register of
+April 25, 2016, and considered
+comments on the proposal from
+interested stakeholders (81 FR 24386).
+These activities garnered significant
+interest, and FDA received and
+reviewed voluminous information to
+develop the final rule banning ESDs for
+SIB and AB.
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00007 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20886 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+FDA issued the 2020 ban because we
+determined, based on all available
+information and data at that time, that
+ESDs for SIB or AB present an
+unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling or a change in
+labeling. FDA found the weight of the
+evidence indicates that ESDs for SIB or
+AB present a number of psychological
+and physical risks. We determined the
+evidence does not establish that ESDs
+improve the underlying causative
+disorder or effectively condition
+individuals to achieve durable
+reduction of SIB or AB for a clinically
+meaningful period of time. FDA also
+found the weight of the evidence
+indicates that the state-of-the-art
+treatment for individuals with SIB or
+AB relies on multielement positive
+interventions, for example, paradigms
+such as positive behavior support (PBS)
+or dialectical behavioral therapy (DBT),
+sometimes in conjunction with
+pharmacological treatments (85 FR
+13312 at 13315 and 13337). Even in
+cases in which behavioral modification
+plans include punishment techniques,
+the techniques are significantly less
+intrusive than ESDs and do not inflict
+pain; for example, they include
+timeouts.
+Following the publication of the 2020
+ban, the sole manufacturer and only
+facility to use ESDs for SIB and AB, The
+Judge Rotenberg Educational Center,
+Inc. (JRC), challenged in court FDA’s
+authority to issue the 2020 ban. On July
+6, 2021, the D.C. Circuit vacated the
+2020 ban. See Judge Rotenberg
+Educational Center, Inc. v. FDA, 3 F.4th
+390 (D.C. Cir. 2021). The court
+interpreted section 516 of the FD&C Act,
+as it existed at the time, and section
+1006 of the FD&C Act, as not permitting
+FDA to ban devices for specific
+intended uses, in that instance ESDs for
+SIB or AB, without banning the device
+for all intended uses.
+Following the court’s decision,
+Congress enacted the Food and Drug
+Omnibus Reform Act of 2022 (FDORA)
+(Pub. L. 117–328). FDORA amended
+section 516(a) of the FD&C Act to
+expressly state that FDA’s authority to
+ban a device intended for human use
+includes the authority to ban a device
+for one or more intended uses, and that
+a device banned for one or more
+intended uses is not a legally marketed
+device under section 1006 of the FD&C
+Act. As amended, the statute is clear
+that FDA may issue a ban such as the
+previous ban on ESDs for SIB or AB,
+which applies to one or more specific
+intended uses. After reviewing
+publications and other information that
+have become known to the Agency in
+the brief interim between the issuance
+of the previous ban in 2020 and now,
+and determining that it does not change
+our conclusion that ESDs for SIB or AB
+present an unreasonable and substantial
+risk of illness or injury that cannot be
+corrected or eliminated by labeling or a
+change in labeling, FDA is proposing to
+ban ESDs intended for SIB or AB under
+section 516 of the FD&C Act, as
+amended.
+IV. Legal Authority
+Under section 516 of the FD&C Act,
+FDA may ban a device by regulation if
+we find, on the basis of all available
+data and information, that such a device
+with the relevant intended use(s)
+presents substantial deception or an
+unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling or change in
+labeling (see 21 U.S.C. 360f(a)(1) and
+(2), as amended by section 3306 of
+FDORA).
+Section 3306 of FDORA expressly
+provides that FDA has the authority to
+ban a device for one or more intended
+uses and that FDA’s authority under
+section 516 of the FD&C Act is not
+limited only to bans of a device for all
+of its intended uses. The legislative
+history reinforces that section 516 of the
+FD&C Act, as amended, authorizes FDA
+to ban a device regardless of whether or
+not the ban includes other devices that
+are technologically similar but have
+different intended uses (see H. Rept.
+117–348 at 65). The regulatory status of
+a device has long depended on its
+intended use(s), even before the
+enactment of the 1976 Amendments (see
+id.). A product’s status as a device
+regulated by FDA, along with its
+classification, premarket pathway,
+labeling, and other requirements all
+‘‘very much depend on its intended
+use’’ (id. at 65–66). The amendment to
+section 516 of the FD&C Act makes clear
+that the same principle applies to FDA’s
+banning authority, permitting FDA to
+ban certain intended use(s) of a type of
+technology that meet the standard to
+ban devices, while not banning others
+that do not (see id. at 66).
+A banned device, as defined in part
+by its intended use(s), is adulterated
+under section 501(g) of the FD&C Act
+(21 U.S.C. 351(g)), except to the extent
+it is being studied pursuant to an
+investigational device exemption under
+section 520(g) of the FD&C Act (21
+U.S.C. 360j(g)). The FD&C Act defines
+various prohibited acts respecting
+adulterated devices (see 21 U.S.C. 331).
+This proposed rule is also issued
+under section 701(a) of the FD&C Act,
+which provides FDA authority to issue
+regulations for the efficient enforcement
+of the FD&C Act (see 21 U.S.C. 371(a)).
+This rule, if finalized, would enable
+FDA to efficiently enforce the FD&C
+Act.
+Part 895 sets forth the regulations that
+apply to banning devices under section
+516 of the FD&C Act. Consistent with
+those regulations (and other applicable
+legal provisions), we are proposing
+findings, based on all available
+information and data, that ESDs for SIB
+or AB present a substantial and
+unreasonable risk of illness or injury.
+In determining whether a risk of
+illness or injury is ‘‘substantial,’’ FDA
+considers whether the risk posed by the
+continued marketing of the device, or
+continued marketing of the device as
+presently labeled, is important, material,
+or significant in relation to the benefit
+to the public health from its continued
+marketing (see § 895.21(a)(1) (21 CFR
+895.21(a)(1))).
+Although FDA’s device banning
+regulations do not define ‘‘unreasonable
+risk,’’ we explained in the preamble to
+the final rule establishing part 895 that,
+with respect to ‘‘unreasonable risk,’’ we
+will conduct a careful analysis of risks
+associated with the use of the device
+relative to the state of the art and the
+potential hazard to patients and users
+(44 FR 29214 at 29215, May 18, 1979).
+The state of the art with respect to this
+rule is the state of current technical and
+scientific knowledge and medical
+practice with regard to the treatment of
+patients exhibiting self-injurious and
+aggressive behavior.
+Thus, in determining whether a
+device presents an ‘‘unreasonable and
+substantial risk of illness or injury’’ for
+one or more intended uses, FDA
+analyzes the risks and the benefits the
+device poses to individuals when used
+for such intended use or uses,
+comparing those risks and benefits to
+the risks and benefits posed by
+alternative treatments being used in
+current medical practice. Actual proof
+of illness or injury is not required; FDA
+need only find that a device presents the
+requisite degree of risk on the basis of
+all available data and information (H.
+Rept. 94–853 at 19; 44 FR 29214 at
+29215).
+If FDA determines that the risk can be
+corrected through labeling, FDA will
+notify the responsible person of the
+required labeling or change in labeling
+necessary to eliminate or correct such
+risk (see 21 CFR 895.25). Because FDA
+is proposing to determine that the risk
+associated with using ESDs for SIB or
+AB cannot be corrected or eliminated by
+labeling, we are not at this time
+notifying responsible persons regarding
+labeling. If FDA finalizes this ban as
+proposed, ESDs intended for SIB or AB
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00008 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20887
+will be adulterated and not legally
+marketed within the meaning of section
+1006 of the FD&C Act when intended
+for SIB or AB.
+To ban a device intended for human
+use, § 895.21(d) requires that a proposed
+ban briefly summarize:
+• the Agency’s findings regarding
+substantial deception or an
+unreasonable and substantial risk of
+illness or injury;
+• the reasons why FDA initiated the
+proceeding;
+• the evaluation of the data and
+information FDA obtained under
+provisions (other than section 516) of
+the FD&C Act, as well as information
+submitted by the device manufacturer,
+distributer, or importer, or any other
+interested party;
+• the consultation with the
+classification panel;
+• the determination that labeling, or a
+change in labeling, cannot correct or
+eliminate the deception or risk;
+• the determination of whether, and
+the reasons why, the ban should apply
+to devices already in commercial
+distribution, sold to ultimate users, or
+both; and
+• any other data and information that
+FDA believes are pertinent to the
+proceeding.
+The previous proposed and final ban
+on ESDs for SIB or AB describe this
+information extensively, and we do not
+repeat that information in full here.
+Instead, because the primary change in
+circumstances leading to this
+rulemaking is of a legal (not scientific)
+nature, this proposed rule references the
+information and findings from the
+previous rulemaking and briefly
+summarizes that information with
+reference to the previous proposed rule,
+final rule, or both, as applicable. In
+addition, this proposed rule discusses
+the new data and information that FDA
+has become aware of since the 2020
+Final Rule.
+FDA notes that, although a banned
+device or banned intended use of a
+device is not barred from clinical study
+under an investigational device
+exemption pursuant to section 520(g) of
+the FD&C Act, any such study must
+meet all applicable requirements. These
+include, but are not limited to,
+requirements for: protection of human
+subjects (21 CFR part 50), financial
+disclosure by clinical investigators (21
+CFR part 54), approval by institutional
+review boards (21 CFR part 56), and
+investigational device exemptions (21
+CFR part 812).
+V. Evaluation and Discussion of Data
+and Information
+FDA has determined, on the basis of
+all available data and information, that
+ESDs for SIB or AB present a substantial
+and unreasonable risk of illness or
+injury. Given the relatively short
+amount of time since the previous ban
+that we finalized in 2020, there is very
+little relevant data or information that
+we have not already considered and
+discussed in the previous rulemaking.
+The few publications and other
+information that have become known to
+the Agency in the brief interim between
+the issuance of the previous ban in 2020
+and now do not change our conclusions
+regarding the risks or effects of ESDs for
+SIB or AB or the state of the art of
+treatment for this patient population.
+We are therefore referencing our
+previous discussion and findings (81 FR
+24386 at 24386 through 24412 and 85
+FR 13312 at 13312 through 13349) in
+this rulemaking and supplementing
+them with an explanation of how sincedeveloped data and information have
+added to our understanding of the
+relevant issues. We also are associating
+with this rulemaking the public dockets
+created for the previous rulemaking
+(Docket No. FDA–2016–N–1111) and
+the Neurological Devices Panel of the
+Medical Devices Advisory Committee
+on April 24, 2014 (Docket No. FDA–
+2014–N–0238) and consider them part
+of this proposed rule. All of the
+documents associated with Docket No.
+FDA–2016–N–1111 and Docket No.
+FDA–2014–N–0238 are contained in the
+docket for this proposed rule as well.
+With regard to the available data and
+information, this proposed rule
+therefore focuses on new information
+and data that we have become aware of
+since we issued the previous ban.
+To identify and assess information
+that we had not previously considered,
+we conducted a search for literature on
+the risks and effects of ESDs for SIB or
+AB published since our systematic
+literature review for the 2016 Proposed
+Rule and again assessed the state of the
+art for treating SIB or AB.
+Our search returned the following
+new sources: (1) 5 research studies (3
+case reports, an open label add-on
+study, and a retrospective chart review);
+(2) 4 policy or consensus statements; a
+task force report; (3) 11 commentaries
+by researchers, academics, or
+practitioners; (4) a set of practice
+guidelines; (5) a followup survey of 88
+former patients of JRC that did and did
+not have ESDs as part of their treatment
+plans; (6) and a meta-analysis. FDA
+weighed the new information according
+to the same factors that we explained in
+the 2016 Proposed Rule and 2020 Final
+Rule.
+During the development of the 2020
+Final Rule, in the form of comments to
+the docket, JRC provided the Agency
+with several JRC studies, information,
+and numerous records of patients with
+SIB or AB whose treatment plans
+include ESD use. Of the five new
+research studies, four are authored or
+coauthored by JRC staff. The four JRC
+research studies appear to be based
+largely on this same information and
+patient data and, as discussed in
+sections V.A and B, have many of the
+same significant limitations identified
+by FDA as the previously submitted
+studies, meaning the studies are less
+likely to support confidence in
+generalizable results than studies with
+more scientifically sound designs and
+methodologies. As a result, while the
+publication process adds some
+reassurances to the credibility of the
+information and data, presenting
+previously submitted data in a different
+form does little to add to overall
+knowledge about the risks and effects of
+ESDs for SIB or AB.
+Generally speaking, little new
+information or data have developed
+since our previous consideration of
+banning ESDs for SIB or AB.
+Nonetheless, the new material is
+consistent with the evidence FDA
+previously considered regarding the
+risks presented by this device, the lack
+of evidence of its effectiveness for the
+treatment of SIB or AB, and the state of
+the art for treating SIB or AB, which
+includes successful interventions that
+are less restrictive and lower risk, as has
+been the case for decades (85 FR 13312
+at 13341). Accordingly, we have again
+found that the devices present a
+substantial and unreasonable risk of
+illness or injury that cannot be corrected
+or eliminated by labeling or change in
+labeling.
+A. Risks of ESDs for SIB or AB
+The new studies and other materials
+that FDA reviewed are consistent with
+our previous findings regarding the risks
+of ESDs for SIB or AB, including likely
+underreporting of adverse events (AEs).
+As explained in the 2016 Proposed Rule
+and 2020 Final Rule, the risks presented
+by ESDs are both psychological
+(including suffering) and physical
+(including pain), each having a complex
+relationship with the electrical
+parameters of the shock. The subjective
+experience of the person receiving the
+shock can therefore be difficult to
+predict. Physical reactions roughly
+correlate with the peak current of the
+shock delivered by the ESD. However,
+various other factors such as sweat,
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00009 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20888 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+2According to the study, only 23 of 173
+individuals were in the planned fading group.
+electrode placement, recent history of
+shocks, and body chemistry can
+physically affect the sensation. As a
+result, the intensity or pain experienced
+by an individual from a particular set of
+shock parameters can vary greatly from
+patient to patient and from shock to
+shock. More information about the
+relationship between the electrical
+parameters of the shock and conditions
+that may affect patient perception can
+be found in section I.C. of the 2016
+Proposed Rule (81 FR 24386 at 24390
+through 24391) and Response 14 of the
+2020 Final Rule (85 FR 13312 at 13322).
+Possible adverse psychological
+reactions are even more loosely
+correlated with shock strength or
+intensity (85 FR 13312 at 13322). To
+cause such adverse reactions, the shock
+needs to be subjectively stressful
+enough to cause trauma or suffering,
+which does not necessarily require a
+strong shock. Trauma becomes more
+likely, for example, when the recipient
+does not have control over the shock or
+has developed a fear of future shocks,
+neither of which is an electrical
+parameter of the shock. A more detailed
+explanation of these phenomena can be
+found in the 2016 Proposed Rule (81 FR
+24386 at 24387) and the 2020 Final Rule
+(85 FR 13312 at 13324 through 13325).
+To summarize, FDA found that the
+medical literature shows ESDs present a
+number of psychological harms
+including depression, PTSD, anxiety,
+fear, panic, substitution of other
+negative behaviors, worsening of
+underlying symptoms, and learned
+helplessness (becoming unable or
+unwilling to respond in any way to the
+ESD); and the devices present the
+physical risks of pain, skin burns, and
+tissue damage.
+FDA also considered risks identified
+through other sources, such as experts
+in the field, State agencies that regulate
+ESD use, and records from the only
+facility that has recently manufactured
+and is currently using ESDs for SIB or
+AB. These sources further support the
+reports of risks in the literature and
+indicate that ESDs pose additional risks
+such as suicidality, chronic stress, acute
+stress disorder, neuropathy, withdrawal,
+nightmares, flashbacks of panic and
+rage, hypervigilance, insensitivity to
+fatigue or pain, changes in sleep
+patterns, loss of interest, difficulty
+concentrating, and injuries from falling
+(85 FR 13312 at 13315). For more
+information about FDA’s analysis
+regarding the risks of ESDs for SIB and
+AB, see section V.C. of the 2020 Final
+Rule (85 FR 13312 at 13321 through
+13332).
+We also concluded that the medical
+literature likely underreports AEs. This
+is attributable to several factors
+including the small number of subjects
+in the studies, many of whom have
+impaired ability to demonstrate and
+communicate AEs; potential attribution
+by clinicians of adverse effects to the
+patients’ cognitive, intellectual, or
+psychiatric conditions rather than to the
+device; methodological limitations such
+as study design and the lack of a
+prespecified systematic plan for
+monitoring AEs; and researcher bias (81
+FR 24386 at 24395 through 24396; 85 FR
+13312 at 13329 and 13331).
+The new sources that are based
+largely on data and information that
+FDA previously reviewed when
+developing the 2020 Final Rule support
+our previous determinations for the
+2020 Final Rule about the types of risks
+posed by ESDs for SIB or AB. As a
+result, these new sources do not
+significantly affect our previous
+assessment of risks. Specifically, one
+meta-analysis of 150 reports and studies
+(Ref. 2) and four commentaries (Refs. 3
+to 6), including one by a JRC staff
+member, report AEs associated with
+ESDs for SIB or AB. These sources
+identify the following physical and
+psychological risks:
+• pain (Refs. 2, 3, 5);
+• escape or avoidance responses
+(Refs. 3 and 5);
+• extreme anxiety manifesting as
+screaming, crying, negative
+vocalizations when ESD was
+implemented, and attack (Refs. 3 and 5);
+• tensing of the body (Ref. 3);
+• emotional behavior (Ref. 3);
+• fear (Refs. 4 to 6);
+• feeling terrorized (Ref. 6);
+• panic (Ref. 5);
+• ‘‘freezing’’ (Ref. 5);
+• attempts to remove the device (Ref.
+5);
+• distress (Refs. 2 and 4);
+• burns (Refs. 3 and 6);
+• tremor in the thigh during
+activation (Ref. 3); and
+• temporary skin discoloration (Ref.
+3).
+In addition, the new sources based
+primarily on data and information that
+FDA had not previously reviewed for
+the 2020 Final Rule generally support
+these risks. A task force of the
+Association for Behavior Analysis
+International (ABAI) reports pain and
+attempts to remove the device (Ref. 7)
+and two of the studies (Refs. 8 and 9)
+report pain, escape/avoidance, and/or
+temporary anxiety, as noted below.
+While some of these new sources
+suggest that there is no strong evidence
+of negative ‘‘side effects’’ of ESDs based
+on research to date (Ref. 7) or no
+occurrence of AEs (Ref. 8), these
+conclusions are based on studies that
+have significant limitations, as
+discussed below and in the previous
+rulemaking (81 FR 24386 at 24400
+through 24401). During the previous
+rulemaking, some experts expressed
+concern about a heightened risk of AEs
+‘‘from exposing a member of a
+vulnerable patient population to
+continual, painful shocks over a period
+of years, in many cases several years’’
+(85 FR 13312 at 13327).
+As discussed in section V.B., the new
+studies continue to demonstrate use of
+ESDs for lengthy, indefinite periods of
+time and adaptation of some patients to
+the shocks (they no longer respond to
+shocks), even at the strongest level. The
+use of ESDs for long periods and on
+patients who have adapted to shocks
+would provide greater opportunity for
+AEs to occur, or for existing AEs to get
+worse due to cumulative effects, in a
+population largely consisting of
+vulnerable individuals. A treatment
+plan that includes use of ESDs for
+individuals with SIB or AB indefinitely
+(Ref. 10) would further heighten the
+concern about the risks of AEs. As
+explained further in section V.B., a 173-
+patient retrospective chart review study
+suggests that JRC attempts ‘‘planned
+fading’’ of ESD use, defined in that
+study as the removal of all ESD devices
+for any period, for only a relatively few
+number of individuals the attending
+clinician believes are likely to succeed
+(Ref. 9).2 Thus, most of the individuals
+would continue to accumulate exposure
+to the risks of ESDs for SIB or AB.
+Further, a decision to use ESDs for
+‘‘long-term management’’ of SIB or AB
+(Ref. 10) could suppress behavior in a
+manner that masks an underlying
+medical condition (Ref. 7). This in turn
+can affect access to (or the desire to
+access) effective treatments, which itself
+represents a risk to health.
+The new sources also add evidence
+for the likelihood of underreporting of
+AEs for the same reasons we previously
+found for the medical literature
+reviewed for the 2020 ban: the impaired
+ability of many subjects to demonstrate
+and communicate AEs, which also
+increases the risk of harm to these
+individuals; difficulty of practitioners to
+recognize feedback from patients
+indicating that an AE occurred;
+methodological limitations in the
+studies; and researcher bias. Thus,
+while some new sources indicate that
+research ‘‘does not provide strong
+evidence that [ESDs are] associated with
+negative side effects’’ and that the ‘‘few
+studies presenting data on the side
+effects of [ESDs] have reported only
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00010 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20889
+positive collateral changes in
+responding,’’ (Ref. 7), these conclusions
+need to be viewed with these limitations
+in mind.
+Like the medical literature considered
+for the 2020 Final Rule, most of the new
+studies involve a small number of
+patients, some of whom likely would
+have difficulty communicating or
+otherwise demonstrating AEs, including
+injuries, due to cognitive, intellectual,
+or psychiatric conditions. As noted in
+the 2016 Proposed Rule (81 FR 24386 at
+24395), this difficulty may prevent
+providers from recognizing feedback
+from patients indicating that an AE has
+occurred.
+None of the new studies prospectively
+planned for the systematic observation
+and collection of data regarding AEs,
+and very few AEs are reported. Only one
+new study on the use of the GED, the
+only ESD still in use for SIB or AB,
+identified any AEs (Ref. 9). That study,
+a retrospective chart review of 173
+patients authored by JRC staff, reports
+only what the authors ‘‘anecdotally’’
+found were ‘‘the most common side
+effects’’: escape/avoidance responses
+and temporary anxiety during the
+period between occurrence of the
+behavior and the ‘‘programmed
+consequence,’’ i.e., shock (Ref. 9). The
+study reports that staff members who
+administered shocks were ‘‘prompted to
+report any adverse conditions,’’ and
+acknowledges that ‘‘a standardized a
+priori system was not employed’’ for
+monitoring AEs (Ref. 9). Thus, the study
+does not report systematic, recorded
+counts of adverse events based on
+specific identification or followup
+protocols. Rather, it reports the authors’
+subjective opinion in hindsight. Three
+of the other new studies, two of which
+were authored or coauthored by JRC
+staff, include no assessment of AEs
+(Refs. 10 to 12).
+The remaining new study, a case
+report coauthored by JRC staff, reports
+‘‘no evidence of physical or
+psychological adverse effects when GED
+is administered per protocol’’ (Ref. 8).
+Despite that statement, the study lists
+temporary pain as a ‘‘con’’ of GED use.
+Further, the JRC coauthor of the study,
+who is also coauthor of three of the
+other new studies, continues to
+acknowledge that ‘‘[t]he obvious effect
+of [the ESD] is pain caused when
+electrical current stimulates nociceptors
+and sensory receptors’’ (Ref. 3). As
+explained in the 2016 Proposed Rule
+and 2020 Final Rule, FDA considers
+pain to be an AE. Such biases against
+recognizing and/or recording certain
+harms as AEs creates doubt that the
+studies adequately considered AEs and,
+therefore, the risks of the device. Such
+biases also would impair an accurate
+benefit-risk assessment; undesirable
+effects should not be presumed
+unavoidable, much less go unaccounted
+for, even if they ultimately prove to be
+reasonable. The pain ESDs cause is
+relevant because, although ESDs are
+intended to apply an aversive stimulus,
+the pain they cause to attempt to
+develop the aversion is nevertheless
+harmful.
+All of the new studies are
+retrospective reviews of clinical
+experience, not prospective studies.
+While retrospective reviews can be
+informative, creating a plan to identify
+AEs in a standardized, forward-looking
+way and ensure a comprehensive record
+from the outset will generally provide
+much stronger support for a conclusion
+that a lack of reported AEs means a lack
+of AEs to report.
+As with the earlier studies, researcher
+bias and author conflicts of interest also
+may have contributed to underreporting
+of AEs. As indicated in section III.D.,
+JRC is the sole manufacturer and only
+facility to use ESDs for SIB or AB. Four
+of the five new studies that looked at
+ESDs for SIB or AB were authored or
+coauthored by current JRC staff and may
+have minimized AEs. As noted earlier,
+only one study reports any AEs
+experienced by patients and limits
+reporting only to the ‘‘most common
+side effects,’’ of which pain was not
+included (Ref. 9).
+The other new sources that FDA
+reviewed also suggest a lack of attention
+to the careful and systematic assessment
+of AEs in research involving ESDs, and
+more generally, in research involving
+intellectually and developmentally
+disabled individuals (Refs. 2, 4 to 6, 8,
+and 13 to 17). For instance, one metaanalysis looking at reporting of AEs in
+research involving young autistic
+children notes that ‘‘[s]tudies of
+effectiveness did not systematically
+define, monitor, or measure adverse
+events; instead they were reported in an
+ad hoc fashion and considered
+tangential to the studies’’ (Ref. 2).
+Another author discussing research
+involving autistic individuals opines
+that the inadequate attention to and
+examination of harms amounts to
+‘‘negligent reporting’’ (Ref. 13). While
+not all individuals with SIB or AB are
+autistic, this information informs our
+general understanding of the limitations
+in research involving individuals with
+intellectual and developmental
+disabilities. This information tends to
+show that research that, in general,
+involves people who have difficulties
+communicating and, more specifically,
+involves the use of ESDs for SIB or AB,
+often does not provide a complete
+picture of AEs.
+Given the foregoing, FDA has not
+changed its determination that AEs very
+likely have been underreported in the
+literature. More information about
+FDA’s prior conclusion that AEs likely
+are underreported in the literature can
+be found in the 2020 Final Rule at
+Responses to Comments 26–29 of (85 FR
+13312 at 13329 through 13332).
+Thus, based on the totality of the
+information available to FDA, our
+determination regarding the risks posed
+by ESDs for SIB or AB identified in the
+2020 Final Rule has not changed.
+B. Effects of ESDs for SIB or AB
+The new information that FDA
+reviewed does not change our previous
+determinations regarding effectiveness
+of ESDs for SIB or AB. For the 2020
+Final Rule, FDA determined that some
+individuals subject to ESDs may exhibit
+an immediate interruption of the
+targeted behavior if the shock is applied
+while the behavior is occurring,
+assuming the individual has not
+adapted to the shocks (85 FR 13312 at
+13333). However, we also determined
+that the available evidence does not
+establish that ESDs improve the
+underlying causative disorder or
+condition an individual to achieve a
+durable reduction of SIB or AB for a
+clinically meaningful period of time (85
+FR 13312 at 13333). A durable effect is
+one where an individual develops a
+conditioned response, so the target
+behavior, along with the frequency of
+shocks, is significantly reduced over a
+clinically meaningful period of time,
+either while the individual continues to
+wear the ESD or after the ESD is
+removed.
+As we discussed in the 2020 Final
+Rule (see 85 FR 13312 at 13332), FDA
+found some information in the scientific
+literature to suggest ESDs may reduce
+SIB and AB in some individuals.
+However, as we explained, the evidence
+cannot be generalized and is insufficient
+to demonstrate effectiveness because the
+studies suffer from serious limitations
+that limit confidence in the results,
+including weak design, small size,
+confounding factors, outdated standards
+for conduct, and study-specific
+methodological limitations. As
+discussed in the 2016 Proposed Rule,
+generally a study’s strength or weakness
+is related to design in a number of ways,
+particularly through randomization,
+control, and the number of study
+subjects. There have been no large,
+randomized, and controlled trials, or
+even any large or randomized trials, of
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00011 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20890 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+3A randomized controlled trial is prospective; the
+researcher creates different conditions across
+groups at the outset and will observe outcomes in
+the future. The researcher will eventually compare
+the outcomes across groups, with the control group
+providing confidence that the researcher-set
+conditions were responsible for any differences.
+ESDs for SIB or AB.3 Although there
+have been some studies with some level
+of controls, the controls have been
+inadequate for effectiveness to be
+demonstrated and they suffer from other
+significant limitations. For further
+discussion about the strengths and
+weaknesses of study designs and the
+limitations in the literature previously
+reviewed by FDA, see section II.B.2 of
+the 2016 Proposed Rule (81 FR 24386 at
+24400 through 24401) and responses to
+Comment 33 of the 2020 Final Rule (85
+FR 13312 at 13332 through 13333).
+For instance, as discussed in the
+previous rulemaking, one study used a
+prospective case-control design. In
+addition to not being randomized, the
+study also suffers from significant
+methodological limitations. The study
+was not blinded, the sample size was
+extremely small, and an unvalidated
+surrogate endpoint (decrease in
+mechanical restraint rather than a direct
+measure of SIB) was used as the primary
+outcome measure (81 FR 24386 at
+24400; 85 FR 13312 at 13333). The
+study also did not systematically assess
+AEs (85 FR 13312 at 13329).
+FDA also reviewed a retrospective
+chart review during the previous
+rulemaking. Retrospective reviews are
+often considered a relatively weaker
+design because they do not include a
+control group. The study also suffers
+from various methodological limitations
+that affected the weight of the evidence
+(see 81 FR 24386 at 24401). The bulk of
+the scientific articles reviewed during
+the prior rulemaking suggesting
+effectiveness of ESDs for SIB and AB
+were case reports or series. Case reports
+or series are even weaker than
+retrospective chart reviews because they
+report on, and attempt to explain, the
+experiences of very few, or even single,
+individuals (81 FR 24386 at 24400).
+Further, designs that take an outcome as
+given and then work backwards in an
+attempt to explain it are more
+vulnerable to bias than prospective
+designs.
+As explained in the 2016 Proposed
+Rule, conclusions drawn from study
+designs that are not randomized or
+controlled are generally considered
+weaker because they do not rule out
+other causes for any differences in
+results, including selection bias, as
+effectively as other study designs. Many
+factors contribute to the manifestation
+or reduction of target behaviors and
+therefore can be significantly
+confounding (81 FR 24386 at 24400). It
+is difficult to draw conclusions
+regarding the effectiveness of ESDs from
+a study that does not control for such
+confounding factors. Studies that do not
+plan for the systematic observation and
+collection of data about AEs also may
+overemphasize benefits, unduly
+implying greater safety and
+reasonableness of the risks because such
+a study would not fully account for the
+risks. Such studies will yield weaker
+conclusions with respect to the benefitrisk profile. As noted in the 2016
+Proposed Rule, in the case of ESDs used
+for SIB or AB, randomization, control,
+large numbers of subjects, and AE
+reporting are critical to understanding
+the benefit-risk profile (81 FR 24386 at
+24400).
+The Agency also has had concerns
+regarding the fact that some of the
+authors of such studies and a member
+of one publication’s editorial board were
+affiliated with JRC, which suggests
+potential researcher bias and conflicts of
+interest (81 FR 24386 at 24401). For
+more information on the limitations
+identified by FDA in the medical
+literature FDA considered for the 2020
+Final Rule, see the 2016 Proposed Rule
+(81 FR 24386 at 24400 and 24401) and
+Responses 31 and 33 in the 2020 Final
+Rule (85 FR 13312 at 13332 and 13333).
+As explained in the 2020 Final Rule,
+the ability to achieve durable effects by
+aversively conditioning behavior is
+critical to the evaluation of the
+effectiveness of ESDs for SIB or AB (see
+85 FR 13312 at 13333). In its comments
+in the previous rulemaking, JRC relied
+on its fading of some individuals off
+ESDs to support its arguments regarding
+the device’s ability to condition an
+individual to achieve a durable
+reduction in SIB and AB. The gradual
+reduction in the use of the device is part
+of ‘‘fading,’’ which would presumably
+be implemented once the individual has
+associated the target behaviors with the
+noxious stimulus. However, both the
+previously reviewed and new evidence
+indicate that only a small percentage of
+individuals at JRC (the only facility that
+applies the devices for SIB or AB) have
+been completely faded off the ESD—and
+that the device has been used on some
+individuals for years and even decades
+(see 85 FR 13312 at 13335 and 13336;
+Refs. 7 to 9). While one study suggests
+that there also are a number of patients
+who have tolerated some degree of
+fading with continued availability of the
+ESD (estimated at 20 percent ranging
+from hours to months) (Ref. 8), the study
+acknowledges that the percentage is
+only an estimate and suffers from a
+number of the limitations discussed
+above.
+Among the new studies, the 173-
+patient retrospective review indicates
+that JRC views fading, defined in that
+study as the removal of all ESD devices
+for any period, as likely to succeed in
+only a small number of individuals. JRC
+selects for ‘‘planned fading’’ only a
+small percentage of individuals whom
+JRC assesses to have likely
+demonstrated low rates of problem
+behaviors over extended periods of
+time, higher rates of alternative
+behaviors, and the acquisition of new
+skills (23 of 173 patients in the study)
+(Ref. 9). Also, as has been observed in
+the literature, once the ESD is removed,
+SIB and AB can exceed pre-baseline
+levels (85 FR 13312 at 13335). This
+evidence undermines the claim that
+ESDs are effective for durable behavior
+conditioning for SIB or AB. Further, JRC
+provided no information regarding
+clinical protocols, treatment plans, or
+behavior frequencies for individuals
+after they stopped use and left JRC. As
+explained in the 2020 Final Rule, such
+data are important in order to
+understand, for example, whether
+behaviors worsened or improved after
+discontinuation of ESD use and whether
+ESDs or other, non-aversive, treatments
+are responsible for any successes (85 FR
+13312 at 13336).
+In the previous rulemaking, FDA also
+discussed evidence indicating that some
+individuals can experience adaptation
+to ESD shocks after being shocked for
+some period of time. This means that, to
+the extent a patient may have been
+responding to ESD shocks, the patient
+no longer responds, at least at the level
+of shock strength that has been used on
+them. For these individuals, even
+immediate interruption of behavior may
+not result from use of shocks. Experts in
+the field consider adaptation to be
+evidence of ineffectiveness (see 85 FR
+13312 at 13336 and 81 FR 24386 at
+24399). JRC has acknowledged that
+adaptation may necessitate an
+alternative method to modify behaviors
+instead of an ESD (see 85 FR 13312 at
+13336). As we stated in the 2020 Final
+Rule, JRC’s Director of Research at the
+time said JRC had ‘‘a very
+comprehensive alternative behavior
+program’’ that was ‘‘very effective’’ after
+adaptation to the stronger version of
+JRC’s ESD, even for patients engaging in
+SIB that could result in serious injury to
+themselves (85 FR 13312 at 13336). That
+JRC’s own providers ultimately turn to
+alternative behavioral programs, even
+for severe behaviors, speaks both to the
+effectiveness of state-of-the-art
+approaches and the ineffectiveness of
+applying electrical shocks for SIB or AB.
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00012 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20891
+Considering such evidence in the
+previous rulemaking, FDA concluded
+that the limited data regarding the
+effects of ESDs for SIB or AB are
+inadequate to demonstrate that ESDs are
+effective for durable behavior
+conditioning. For more information
+about FDA’s previous determination
+regarding the effects of ESDs on SIB and
+AB, see section V.D. of the 2020 Final
+Rule (85 FR 13312 at 13332 through
+13337).
+The information in the new sources
+does not change the Agency’s prior
+determinations about the short- and
+long-term effects of ESDs on SIB or AB.
+Most of the new studies are authored or
+coauthored by JRC staff and appear to be
+based on much of the same or similar
+data JRC previously submitted, with
+similar limitations, albeit presented in a
+different format. As with the studies
+FDA reviewed for the 2020 Final Rule,
+the new studies similarly suggest some
+immediate effects of ESDs for SIB or AB
+for some individuals, in particular that
+the ESDs interrupted the target behavior
+(Refs. 8 to 12). Some commentaries,
+consensus statements, the ABAI task
+force report, and the 88-patient survey
+also offer some support for the
+immediate effect of ESDs on targeted
+behavior (although some individuals
+may not respond and/or may adapt to
+the shock intensity and alternative
+approaches are used) (Refs. 3, 5, 7, 14,
+18, and 19). The new studies also
+conclude that ESDs have some level of
+durable effectiveness for some
+individuals with SIB and AB. Relying
+on information that FDA previously
+reviewed and some of the new studies
+discussed in this proposed rule, the
+ABAI task force similarly states that
+ESDs ‘‘can be effective in suppressing
+problem behavior for up to 5 years’’ and
+that ‘‘responding typically remains
+suppressed under [ESDs] over the long
+run’’ (Ref. 7). However, due to the
+various limitations of these studies as
+well as the evidence indicating
+adaptation to the device and potentially
+unending ESD use for some individuals,
+FDA has determined that the evidence
+still does not demonstrate that the
+devices are effective for durable
+behavior conditioning for SIB or AB for
+a clinically meaningful period of time,
+much less that they present a favorable
+benefit-risk profile.
+The new studies suffer from many of
+the same limitations as those studies
+FDA considered and discussed in the
+2016 Proposed Rule and 2020 Final
+Rule. The three case report studies
+(Refs. 8, 11, and 12) and one open label
+add-on trial (Ref. 10) involve a very
+small number of patients (one to four),
+which makes generalization of any
+results difficult. Four of the five new
+studies were authored or coauthored by
+JRC staff, which may introduce
+researcher bias. All of the studies lack
+robust experimental controls and, as
+explained above, likely underreport
+AEs.
+The new studies also include
+significant confounding factors, such as
+the presence of concurrent treatments or
+changes in other treatments over a
+period of time. The JRC 173-patient
+retrospective chart review acknowledges
+that, ‘‘[d]uring treatment, a given
+participant may have received
+additional treatments including
+psychotherapy, psychopharmacology,
+and/or various behavioral
+interventions.’’ The ABAI task force
+report describes one example of an
+additional treatment, a ‘‘holster
+program,’’ used by JRC in some cases
+where a patient adapts or does not
+respond to the GED–4 to decrease
+problem behavior (see also Ref. 8).
+Individuals in the program receive
+continuous access to a positive reward
+(preferred videos, music, etc.) for
+keeping their hands in a holster for
+increasing amounts of time. If they
+remove their hands, the reward will
+stop, and a shock will be administered.
+Once the individuals can keep their
+hands in the holsters for 10 minutes,
+they continue to receive regular
+‘‘practice sessions’’ to ‘‘maintain the
+effectiveness of holster-wearing to
+decrease problem behavior throughout
+the remainder of the day.’’ While
+wearing the holster during the day, if a
+target behavior occurs, the individual
+receives a shock and a 10-minute holster
+session (Ref. 7). The description of the
+holster program, while unclear in some
+particulars, suggests that increasing
+opportunities for positive reinforcement
+supports any reduction of target
+behaviors. The use of this positive
+reinforcement method introduces a
+confounding factor in the determination
+of the effectiveness of ESDs; the reward
+system, rather than the ESD, may have
+induced or helped induce any desirable
+effects on behavior. Alternatively, or
+perhaps as a complement to the reward
+system, use of the holster may have
+controlled or helped control the
+behavior. Other concurrent treatments
+or changes to treatments may have
+similar confounding effects.
+Another limitation of some of the new
+studies stems from the fact that the
+behaviors targeted for ESD use are not
+consistent across the studies, and they
+were not limited to SIB or AB. Target
+behaviors spanned a wide range, such as
+‘‘members of a chain of behaviors (e.g.,
+posturing and threats) that consistently
+led to the ultimate behavior, attempts to
+engage in the behavior, and vestigial
+versions of the behavior’’ (Ref. 9). Thus,
+vaguely described improvements that
+may, for example, include reductions in
+‘‘vestigial versions of the behavior’’ are
+not obviously evidence of effectiveness
+for treating SIB or AB. Such claims also
+speak to a vulnerable population being
+subject to invasive behavioral control
+techniques; that is, such claims may
+also speak to an increased risk of AEs
+from an overly broad set of targeted
+behaviors. The sources also indicate that
+ESDs may be used for other categories
+of behavior such as noncompliant,
+destructive, and major disruptive
+behaviors as well as attempts to remove
+the device (Refs. 7, 9, and 11).
+Delivering an electric shock, for
+instance, for disruptive behavior is not
+clearly addressing self-injury or
+aggression. In the same vein, use of the
+device in an attempt to prevent its
+removal is not only difficult to rely on
+as evidence of effectiveness for SIB or
+AB, but such use also underscores that
+vulnerable patients are unable to avoid
+the risks presented by the device, such
+as pain. This in turn can increase other
+risks, such as the risk of learned
+helplessness (Ref. 20). Such broad target
+behaviors also suggest that a population
+broader than individuals exhibiting SIB
+and AB may be subject to the invasive
+behavioral control of ESDs and the risks
+they present.
+Some studies acknowledge these
+methodological limitations. The JRC
+173-patient retrospective chart review
+(Ref. 9) explains that ‘‘a wide range of
+behavior topographies [were] targeted’’
+because they ‘‘were associated with
+aggression and self-injury,’’ and the
+‘‘participants lacked homogeneity
+outside of the uniting factor of behavior
+problem severity and refractory nature.’’
+In other words, the study included
+participants with widely differing
+behavioral characteristics, although
+their severity was considered similar.
+The study also recognizes, ‘‘[t]he
+participants carried a variety of
+diagnoses and may have responded
+differently because of their diagnostic
+classification’’ and ‘‘[v]arious
+pathophysiological and environmental
+determinants may lead to such
+behaviors.’’ This study also noted, ‘‘the
+frequency data lacks interobserver
+reliability,’’ meaning it did not account
+for or address variability between
+different observers’ subjective
+judgments. The open label add-on trial
+(Ref. 10) identifies some of the same
+limitations that make it difficult to
+conclude that any observed reductions
+in target behavior are evidence of
+effectiveness of ESDs for SIB or AB.
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00013 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20892 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+New evidence regarding the lengthy,
+often indefinite, time periods that ESDs
+have been used on individuals and the
+adaptation of some individuals to the
+shocks further supports our
+determination that ESDs have not been
+demonstrated to be effective. For
+example, a four-patient case report
+study suggests that, for some patients,
+ESDs would be indicated indefinitely,
+similar to insulin for diabetes or
+antiarrhythmic and antihypertensive
+drugs for cardiovascular disease (Ref. 8).
+The ABAI task force reports that JRC’s
+approach is that ‘‘most clients will need
+to receive treatment [with ESDs] for
+lengthy periods of time (5 to 20 years)’’
+and that ‘‘this does not appear to be a
+treatment that can be effectively faded
+or discontinued quickly’’ (Ref. 7). This
+suggests that the device is not effective
+for durable behavior conditioning for
+SIB or AB, and is, therefore, not
+effective for its intended use.
+The new sources also support FDA’s
+previous finding that ESDs may even
+lose any immediate effect for some
+individuals exhibiting SIB or AB. The
+173-patient retrospective chart review
+from JRC reports that for some
+participants the ‘‘GED lost efficacy or
+was only partially effective and was
+substituted for [sic] a more intense
+stimulus (GED–4)’’ (Ref. 9). The authors
+note that adaptation was consistent with
+earlier studies that identified
+habituation to shock intensity by some
+patients and the need for more-intense
+shocks to eliminate targeted behavior.
+The JRC four patient case report study
+noted this effect in one patient (Ref. 8).
+The ABAI task force also reported
+adaptation to the ESD based on a visit
+by members spanning 2 full days in July
+2022 to assess JRC’s use of ESDs. The
+report states that ‘‘[i]n some cases, the
+intensity of the shock must be increased
+to improve and/or maintain its efficacy’’
+and ‘‘a [JRC] client will be moved from
+the GED–3 to the GED–4 if the GED–3
+does not reduce the behavior
+sufficiently or if the client’s behavior
+begins to show habituation to the GED–
+3’’ (Ref. 7). According to the report,
+patients can even habituate, or may not
+respond to, shocks from the GED–4,
+which provides shocks that are
+significantly stronger than those
+provided by the GED–3 (41 milliampere
+(mA) vs. 15 mA).
+As a result of such weaknesses and
+limitations, the available data, including
+the data and information in the new
+studies and other materials, are not
+sufficient to demonstrate that ESDs for
+SIB or AB are effective for durable
+behavior conditioning or that they have
+a favorable benefit-risk profile.
+Based upon all available information
+and data, FDA continues to find that
+while ESDs may result in the
+interruption and immediate cessation of
+SIB and AB for some individuals if the
+individual has not adapted to the
+shocks, ESDs have not been
+demonstrated to be effective at
+improving the underlying condition or
+conditioning an individual to achieve a
+durable reduction of SIB or AB for a
+clinically meaningful period of time.
+The evidence does not establish a
+favorable benefit-risk profile, and the
+newer evidence suggesting indefinite
+use of the devices for ongoing
+management of symptoms may indicate
+a worse benefit-risk profile.
+C. State of the Art for Treating SIB or
+AB
+In determining whether a device
+presents an unreasonable and
+substantial risk of illness or injury, FDA
+analyzes the risks and benefits that the
+device poses to individuals relative to
+the state-of-the-art of treatment for the
+intended population—that is, the
+current state of technical and scientific
+knowledge and medical practice, and
+the potential hazard to patients and
+users. As explained in the 2020 Final
+Rule, FDA found that scientific and
+medical advances, concerns for ethical
+treatment, and a desire to create
+generalizable interventions that work in
+community settings led behavioral
+scientists to develop treatments for SIB
+and AB that are low risk and have
+generally been successful. The available
+information indicated that state-of-theart treatments of SIB or AB are
+multielement positive interventions
+(e.g., paradigms such as PBS or DBT),
+sometimes in conjunction with
+pharmacological treatments, as
+appropriate (85 FR 13312 at 13341; 81
+FR 24386 at 24410). When restrictive
+elements or punishment techniques
+were used, they supplemented other
+behavioral intervention elements, were
+much less intrusive, and were not
+painful; they were considered both
+compatible with PBS and beneficial (see
+85 FR 13312 at 13341).
+As we said in the 2020 Final Rule, the
+use of ESDs does not teach a person new
+skills or replacement behaviors, does
+not mitigate the underlying cause of
+their SIB or AB, and has not been
+demonstrated to be effective for
+behavioral conditioning, which is
+especially difficult to achieve for those
+who have conditions that impair their
+ability to understand consequences and
+react by changing their behaviors. These
+are some of the reasons that the field of
+applied behavior analysis (ABA) as a
+whole moved away from highly
+intrusive physical aversive conditioning
+techniques such as ESDs decades ago
+(85 FR 13312 at 13340).
+FDA determined that although
+positive behavioral interventions may
+not always be completely successful in
+all patients, positive-only approaches
+have low risk and are typically
+successful, on their own or in
+conjunction with pharmacotherapy,
+regardless of the severity of the behavior
+targeted or the setting, and can achieve
+durable long-term results while
+avoiding the risks posed by ESDs (85 FR
+13312 at 13315). As noted above, when
+practitioners felt punishment
+techniques were helpful, such
+techniques were much less intrusive
+than the use of ESDs; for example, they
+included timeouts, holds, and facial
+screening (85 FR 13312 at 13341). For a
+detailed description of FDA’s
+assessment of state-of-the-art treatments
+for SIB and AB for the 2020 Final Rule,
+see section V.E. of the 2020 Final Rule
+(85 FR 13312 at 13337 through 13344)
+and section II.C. of the 2016 Proposed
+Rule (81 FR 24386 at 24403 through
+24410).
+The evidence still indicates that
+positive-only approaches, such as
+approaches based on differential
+reinforcement and skill-based
+instruction, have been shown to be
+highly successful in treating many types
+of severe problem behaviors (Ref. 7).
+Even when ESDs are used for SIB or AB,
+they generally are supplemented by
+state-of-the-art and/or other less
+intrusive approaches even for severe
+cases (Ref. 9). An example of an
+alternative treatment that practitioners
+may turn to if an individual habituates
+to the strongest ESD available is the
+holster program, which is a less
+intrusive paradigm that increases the
+use of positive rewards. In short, to the
+extent new information and data bear on
+the state of the art, they underscore why
+the field as a whole has, for decades (81
+FR 24386 at 24387), moved away from
+ESDs and turned toward less intrusive
+techniques to treat SIB or AB effectively
+(Ref. 21). Further, the newer information
+and data emphasize that ESDs are not in
+fact treatments of last resort, even at the
+facility that has previously made such
+claims. As discussed further in section
+V.C., the ABAI task force reports that
+JRC rarely conducts analogue functional
+analyses (FAs), despite the fact that
+experts consider FA the ‘‘gold standard’’
+assessment strategy for problem
+behavior (Ref. 7). This practice suggests
+that individuals may not experience the
+‘‘almost unlimited’’ range of alternative
+treatments available (Ref. 7) based on an
+up-to-date, location-specific,
+comprehensive FA prior to JRC
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00014 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20893
+4The labeling of GED devices includes the
+statement that ‘‘[t]he device should be used only on
+patients where alternate forms of therapy have been
+attempted and failed’’ (81 FR 24386 at 24412).
+incorporating ESDs into their treatment
+plan. This failure to systematically
+identify and exhaustively implement
+alternatives undercuts the certainty that
+JRC’s patients would not respond to less
+intrusive treatment, are uniquely
+refractory, and that the devices are
+applied as a last resort, as is suggested
+by the device labeling.4
+Thus, FDA concludes that state-ofthe-art treatment for SIB and AB
+involves positive behavioral techniques,
+with or without pharmacotherapy, and
+that positive-only approaches have low
+risk and are generally successful even
+for challenging SIB and AB, in both
+clinical and community settings.
+Moreover, when punishment techniques
+are used in state-of-the-art behavior
+modification plans, they are not painful
+and are much less intrusive.
+D. Labeling and Correcting or
+Eliminating Substantial and
+Unreasonable Risks
+After considering all available data
+and information for the 2020 Final Rule,
+FDA determined that labeling or a
+change in labeling cannot correct or
+eliminate the unreasonable and
+substantial risk of illness or injury of
+ESDs for SIB or AB (85 FR 13312 at
+13344 and 13345). FDA further
+determined that labeling cannot limit
+the risks to only the most refractory
+patients. The only ESDs for SIB or AB
+that are currently in use, two models of
+GED manufactured and used by JRC, are
+labeled for use only in individuals
+refractory to other treatments. Such a
+subpopulation is difficult or impossible
+to define (85 FR 13312 at 13332).
+Further, FDA found the available
+evidence casts doubt on whether the
+devices are in fact applied as a last
+resort after attempting all other
+approaches as indicated in the labeling
+(and as claimed by one commenter on
+the previous proposed rule (JRC)) (Ref.
+22). These determinations remain true
+after FDA’s updated review of the
+available literature.
+More importantly, no subpopulation
+has been identified in which ESDs are
+effective for SIB or AB or do not pose
+the risks identified in the previous
+rulemaking and discussed earlier in this
+document. There are also no data
+suggesting ESDs are more likely to be
+effective for SIB or AB or less likely to
+pose these risks in a subpopulation that
+is refractory to other treatments or in
+any other subpopulation. Regardless of
+how the device is labeled, the
+individual subject to it will receive
+shocks intended to be painful and
+thereby be subject to the physical and
+psychological risks described in section
+V.A above, without demonstrated
+effectiveness (see also 85 FR 13312 at
+13344).
+Further, individuals with intellectual
+or developmental disabilities may not
+communicate or be able to communicate
+information for the device user to
+change the manner in which the device
+is used to correct or eliminate the risks
+(81 FR 24386 at 24412; 85 FR 13312 at
+13344). Impaired communication of the
+effects of the device further prevents
+labeling from reducing risks.
+Accordingly, we concluded that no
+manner of labeling will correct or
+eliminate the substantial and
+unreasonable risks of these devices (see
+81 FR 24386 at 24411 and 24412; 85 FR
+13312 at 13344).
+No additional information has come
+to FDA’s attention indicating that
+labeling or a change in labeling can
+correct or eliminate the substantial and
+unreasonable risks of these devices. As
+noted in section V.C., the new evidence
+indicates that JRC rarely conducts FAs
+of patients. This absence of FAs
+conducted by JRC suggests that the
+existing limiting language in the
+labeling has little effect on mitigating
+risks by focusing on refractory cases.
+Indeed, as discussed more in section
+V.B. above, refractory cases at JRC are
+ultimately treated with less invasive
+approaches suggesting that as used,
+ESDs are not a treatment of last resort.
+This reinforces our prior determinations
+that labeling specifying a refractory
+population would not correct or
+eliminate the substantial and
+unreasonable risk, and that there are no
+labeling changes that would mitigate the
+risks posed by these ESDs.
+Finally, as explained above and in the
+2020 Final Rule, no manner of labeling
+will correct or eliminate the risks for
+patients receiving shocks, many of
+whom may not communicate or be able
+to communicate information about AEs
+as a result of intellectual or
+developmental disabilities (85 FR 13312
+at 13344). The device will continue to
+present the same unreasonable and
+substantial risk of illness or injury for
+these individuals regardless of the
+labeling. Based on this information and
+data, FDA concludes that labeling, or a
+change in labeling, cannot correct or
+eliminate the unreasonable and
+substantial risk of illness or injury of
+ESDs for SIB or AB.
+VI. Description of the Proposed Rule
+We are proposing to amend part 895
+by adding § 895.105 to ban ESDs for SIB
+or AB. The proposed rule would ban
+ESDs intended to treat patients with SIB
+or AB and would cause ESDs intended
+for these uses not to be legally marketed
+devices, for example, under section
+1006 of the FD&C Act. We are also
+proposing conforming edits to
+§ 882.5235 to exclude ESDs for SIB or
+AB from the class II designation for
+aversive conditioning devices and
+instead to indicate that ESDs for SIB or
+AB are banned devices.
+A. Applicability (Proposed § 895.105)
+FDA is proposing to ban ESDs that
+apply a noxious electrical stimulus to a
+person’s skin to reduce or stop
+aggressive or self-injurious behavior.
+FDA has determined that these devices
+present an unreasonable and substantial
+risk of illness or injury that cannot be
+corrected or eliminated by labeling.
+FDA is not proposing to ban ESDs
+intended for other purposes, such as
+smoking cessation. ESDs are not used in
+electroconvulsive therapy, sometimes
+called electroshock therapy or ECT,
+which is unrelated to this rulemaking.
+1. Distinguishing Technologically
+Similar Devices With Different Intended
+Uses
+Note that, although ESDs for SIB or
+AB may have parallels in technology
+and behavior modification strategy as
+ESDs for other intended uses, ESDs for
+SIB or AB are distinguishable from other
+ESDs based on several factors. These
+factors include device design; whether
+patients have control over the shocks
+and what level of control they have; the
+power output and resulting intensity of
+the electric shock; and how the electric
+shock affects the patient, target
+behavior, and underlying conditions.
+For example, a smoking cessation
+device would generally have different
+output characteristics, resulting in a less
+noxious (perhaps non-painful) shock,
+where the person affected by the shock
+retains complete control of application
+of shocks (or could immediately revoke
+consent to the application of shocks).
+Use of such a device without
+modification for SIB or AB would not be
+expected to induce a response for SIB or
+AB.
+In contrast, patients exhibiting SIB or
+AB have no control over devices
+intended for these uses and these
+devices often deliver a painful or very
+painful shock, strong enough to induce
+fear and other reactions, as opposed to
+a milder shock from other ESDs. The
+SIB or AB patient is made to carry a
+stimulus generation module in a waistpack or backpack 24 hours a day, 7 days
+a week, except during attempts to
+‘‘fade’’ the device (although the user,
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00015 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20894 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+not the patient, still decides whether to
+apply and trigger the device).
+Depending on the targeted behavior,
+ESDs for SIB or AB use up to five
+electrodes strapped to the arms, legs,
+torso, and/or feet simultaneously, but
+the locations are not of the patient’s
+choosing (see Ref. 7). Shocks are from
+one electrode at a time, and the
+electrodes are rotated every hour or after
+discharge, but the patients are not able
+to dictate the rotation for themselves
+(see Ref. 7). Patients subject to ESDs for
+SIB or AB also have no control over
+whether to withdraw from treatment.
+Even for patients with mild to no
+intellectual disabilities, evidence
+indicates that assent from the patient is
+not sought (see Ref. 7). As explained in
+the 2020 Final Rule, lack of control over
+multiple shocks is an additional risk
+factor because learned helplessness may
+be more likely when the recipient does
+not have control over the shocks and
+has previously received multiple shocks
+(85 FR 13312 at 13326). When the
+recipient does not have control over the
+shocks and has previously received
+multiple such shocks, psychological
+trauma such as an anxiety or panic
+reaction can result even when the
+strength is relatively modest (see 85 FR
+13312 at 13324 through 13327).
+Moreover, as explained in the 2020
+Final Rule, devices with similar
+technology intended for other uses
+address different conditions or
+behaviors in different patient
+populations, and as a result, they
+present different benefit-risk profiles. A
+device that presents certain risks or
+benefits for one population may not
+present the same risks or benefits, or
+present them to the same degree, or may
+present different risks or benefits, for a
+different population. An important
+consideration in the benefit-risk profile
+of a device is the intended patient
+population and their vulnerabilities.
+The intended use population for ESDs
+for SIB or AB includes a significant
+number of individuals who have
+disabilities that present vulnerabilities,
+such as difficulty communicating pain
+and other harms caused by ESDs. As a
+result of these vulnerabilities, the
+individual may not communicate or be
+able to communicate information for the
+device user to change the manner in
+which the device is used to correct or
+eliminate the risks (85 FR 13312 at
+13344). In addition, people who exhibit
+SIB or AB may not be able to associate
+cause and effect or, as with some people
+with an autism spectrum disorder
+(ASD), they may express pain atypically
+or not at all (85 FR 13312 at 13317).
+These vulnerabilities are not likely to be
+present in people who use ESDs for
+other purposes. As a result, individuals
+subject to shocks from an ESD for SIB
+or AB would bear a higher risk of injury
+or illness from the shock than, for
+example, smokers who choose to use an
+ESD to help quit smoking (81 FR 24386
+at 24395). Smokers can immediately
+communicate pain to the device’s
+controller or remove the device
+themselves. They can communicate
+symptoms of other harms that may be
+caused by ESDs to their healthcare
+provider, which may lead to
+discontinuation of the device’s use, or
+they can decide to stop using the device
+(85 FR 13312 at 13317).
+2. Banning ESDs for SIB or AB That Are
+Already in Commercial Distribution
+FDA is proposing that the ban apply
+to devices already in commercial
+distribution and use, as well as devices
+sold or commercially distributed in the
+future (see § 895.21(d)(7)). This means
+ESDs for SIB or AB currently in use on
+individuals would be subject to the ban
+and thus, upon the effective date of the
+final rule, adulterated under section
+501(g) of the FD&C Act and subject to
+potential FDA enforcement action. FDA
+is proposing this because the risk of
+illness or injury to individuals on whom
+these devices are already used is just as
+unreasonable and substantial as it is for
+future individuals on whom these
+devices could be used. Indeed, as the
+development of more beneficial, lowerrisk alternative treatments continues,
+the ban’s mitigation of the substantial
+and unreasonable risk may be greatest
+for the individuals on whom ESDs are
+currently used.
+However, as explained in the 2020
+Final Rule, for devices already in use for
+SIB or AB, in light of concerns about
+thorough assessments of the behaviors’
+functions and corresponding
+development of appropriate treatment
+plans, FDA recognizes that affected
+parties may need some period of time to
+establish or adjust treatment plans (85
+FR 13312 at 13349). FDA believes that
+transition off ESDs should occur under
+the supervision of a physician and that
+the transition should occur as soon as
+possible for the individual. FDA is
+proposing, for devices in use on specific
+individuals as of the date of publication
+of any final rule based on this proposal,
+and subject to a physician-directed
+transition plan, compliance would be
+required 180 days after the date of
+publication of any final rule. We
+welcome comment on how long
+transitions may take.
+B. Proposed Conforming Amendment
+(§ 882.5235)
+We are proposing conforming edits to
+paragraph (b) of § 882.5235 to exclude
+ESDs for SIB or AB from the
+classification of aversive conditioning
+devices into class II. This amendment
+would indicate that ESDs for SIB or AB
+are banned devices rather than class II
+devices.
+VII. Proposed Effective and Compliance
+Dates
+FDA proposes that any final rule
+based on this proposed rule be effective
+30 days after its date of publication in
+the Federal Register.
+FDA proposes that, for devices in use
+on specific individuals as of the date of
+publication of the final rule and subject
+to a physician-directed transition plan,
+compliance be required 180 days after
+the date of publication of the final rule
+in the Federal Register. For all other
+devices, FDA proposes that compliance
+be required 30 days after publication in
+the Federal Register.
+VIII. Preliminary Economic Analysis of
+Impacts
+A. Introduction
+We have examined the impacts of the
+proposed rule under Executive Order
+12866, Executive Order 13563,
+Executive Order 14094, the Regulatory
+Flexibility Act (5 U.S.C. 601–612), and
+the Unfunded Mandates Reform Act of
+1995 (Pub. L. 104–4).
+Executive Orders 12866, 13563, and
+14094 direct us to assess all benefits,
+costs, and transfers of available
+regulatory alternatives and, when
+regulation is necessary, to select
+regulatory approaches that maximize
+net benefits (including potential
+economic, environmental, public health
+and safety, and other advantages;
+distributive impacts; and equity). Rules
+are ‘‘significant’’ under Executive Order
+12866 Section 3(f)(1) (as amended by
+Executive Order 14094) if they ‘‘have an
+annual effect on the economy of $200
+million or more (adjusted every 3 years
+by the Administrator of [the Office of
+Information and Regulatory Affairs
+(OIRA)] for changes in gross domestic
+product); or adversely affect in a
+material way the economy, a sector of
+the economy, productivity, competition,
+jobs, the environment, public health or
+safety, or State, local, territorial, or tribal
+governments or communities.’’ OIRA
+has determined that this proposed rule
+is not a significant regulatory action
+under Executive Order 12866 Section
+3(f)(1).
+The Regulatory Flexibility Act
+requires us to analyze regulatory options
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00016 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20895
+that would minimize any significant
+impact of a rule on small entities.
+Because the proposed rule would only
+affect one entity—one that is not
+classified as small—we propose to
+certify that the proposed rule will not
+have a significant economic impact on
+a substantial number of small entities.
+The Unfunded Mandates Reform Act
+of 1995 (section 202(a)) requires us to
+prepare a written statement, which
+includes estimates of anticipated
+impacts, before proposing ‘‘any rule that
+includes any Federal mandate that may
+result in the expenditure by State, local,
+and tribal governments, in the aggregate,
+or by the private sector, of $100,000,000
+or more (adjusted annually for inflation)
+in any one year.’’ The 2022 threshold
+after adjustment for inflation is $177
+million, using the 2022 Implicit Price
+Deflator for the Gross Domestic Product.
+This proposed rule would not result in
+an expenditure in any year that meets or
+exceeds this amount.
+B. Summary of Benefits, Costs, and
+Transfers
+The proposed rule, if finalized, would
+ban ESDs used for self-injurious or
+aggressive behavior. FDA has
+determined that these devices present
+an unreasonable and substantial risk of
+illness or injury that cannot be corrected
+or eliminated by labeling or a change in
+labeling. The proposed rule would
+apply to devices already in distribution
+and use, as well as to future sales and
+commercial distribution of these
+devices. The costs associated with this
+proposed rule include costs of
+individuals who are subject to the
+device if they move to another facility
+or another program within the affected
+entities. Affected entities, who use the
+device on such individuals, would also
+incur costs from reading and
+understanding the rule. The present
+value of total estimated costs range
+between $0.00 million and $68.93
+million at a 7 percent discount rate,
+with a primary estimate of $34.47
+million. At a 3 percent discount rate, the
+present value of costs range between
+$0.00 million and $80.59 million, with
+a primary estimate of $40.3 million. We
+estimate that the annualized costs over
+10 years would range from $0.00 million
+to $9.17 million with a primary estimate
+of $4.59 million at a 7 percent discount
+rate and a 3 percent discount rate.
+The benefits would include avoided
+negative physical and psychological
+effects from using ESDs on individuals
+and benefits to society in terms of
+protecting vulnerable populations,
+which we are not able to quantify. We
+estimate that between 51 to 54
+individuals would be affected by the
+proposed rule, if finalized, and benefit
+from avoided adverse effects associated
+with using ESDs. Any transfers
+associated with the rule would occur if
+individuals enroll at facilities other than
+the affected entities. The present value
+of total transfer ranges between $0.00
+million and $118.26 million at a 7
+percent discount rate, with a primary
+estimate of $59.13 million. At a 3
+percent discount rate, the present value
+of transfers ranges between $0.00
+million and $138.26 million, with a
+primary estimate of $69.13 million. The
+annualized value of transfers range
+between $0.00 million and $15.74
+million, with a primary estimate of
+$7.87 million, at both 7 percent and 3
+percent discount rates. We provide a
+summary of the benefits, costs, and
+transfers of the proposed rule, if
+finalized, in table 1. We request
+comment on our estimates of benefits,
+costs, and transfers of this proposed
+rule.
+TABLE 1—SUMMARY OF BENEFITS, COSTS, AND DISTRIBUTIONAL EFFECTS OF THE PROPOSED RULE
+[Millions of 2022 dollars]
+Category Primary
+estimate
+Low
+estimate
+High
+estimate
+Units
+Notes
+Year dollar Discount
+rate Period covered
+Benefits:
+Annualized Monetized ($m/year) ............................ .................... .................... .................... .................... 7%
+3%
+Annualized Quantified ............................................ .................... .................... .................... .................... 7%
+3%
+Qualitative ...................................................................... Reduction in injuries or adverse psychological effects of ESDs on individuals subject to the
+device.
+Costs:
+Annualized Monetized ($m/year) ............................ $4.59
+$4.59
+$0.00
+$0.00
+$9.17
+$9.17
+2022
+2022
+7%
+3%
+10 years
+10 years.
+Annualized Quantified ............................................ .................... .................... .................... .................... 7%
+3%
+Qualitative ............................................................... Transition costs to affected entities and individuals for transitioning to alternative treatments.
+Transfers:
+Federal Annualized Monetized ($m/year) .............. .................... .................... .................... .................... 7%
+3%
+Other Annualized Monetized ($m/year) ................. $7.87
+$7.87
+$0.00
+$0.00
+$15.74
+$15.74
+2022
+2022
+7%
+3%
+10 years
+10 years.
+From: Affected entities that currently use
+the device
+To: Other facilities that treat aggressive or selfinjurious behavior
+Effects: State, Local, or Tribal Government: State expenditures may rise or fall if individuals move
+across state boundaries
+Small Business: No effect
+Wages: No effect
+Growth: No effect
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00017 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+20896 Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules
+We have developed a comprehensive
+Preliminary Economic Analysis of
+Impacts that assesses the impacts of the
+proposed rule. The full preliminary
+analysis of economic impacts is
+available in the docket for this proposed
+rule (Ref. 23) and at https://
+www.fda.gov/about-fda/economicsstaff/regulatory-impact-analyses-ria.
+IX. Analysis of Environmental Impact
+FDA has carefully considered the
+potential environmental effects of this
+proposed rule and of possible
+alternative actions. In doing so, the
+Agency focused on the environmental
+impacts of its action as a result of
+disposal of unused ESDs that will need
+to be handled after the effective date of
+the final rule.
+The environmental assessment (EA)
+considered each of the alternatives in
+terms of the need to provide maximum
+reasonable protection of human health
+without resulting in a significant impact
+on the environment. The EA considered
+environmental impacts related to
+landfill and incineration of solid waste
+at municipal solid waste (MSW)
+facilities. The proposed action will
+result in an initial batch disposal of
+used and unused ESDs primarily at a
+single geographic and affiliated
+locations followed by a gradual,
+intermittent disposal of a small number
+of remaining devices in this and other
+affected communities where these
+devices are used. The total number of
+devices to be disposed is small, i.e.,
+approximately less than 300 units.
+Overall, given the limited number of
+ESDs in commerce, the proposed action
+is expected to have no significant
+impact on MSW and landfill facilities
+and the environment in affected
+communities.
+The Agency has concluded that the
+proposed rule will not have a significant
+impact on the human environment, and
+that an environmental impact statement
+is not required. FDA’s finding of no
+significant impact (FONSI) and the
+evidence supporting that finding,
+contained in an EA prepared under 21
+CFR 25.40, may be seen in the Dockets
+Management Staff (see ADDRESSES)
+between 9 a.m. and 4 p.m., Monday
+through Friday; they are also available
+electronically at https://
+www.regulations.gov. FDA invites
+comments and submission of data
+concerning the EA and FONSI.
+X. Paperwork Reduction Act of 1995
+FDA tentatively concludes that this
+proposed rule contains no collection of
+information. Therefore, clearance by the
+Office of Management and Budget under
+the Paperwork Reduction Act of 1995 is
+not required.
+XI. Federalism
+FDA has analyzed this proposed rule
+in accordance with the principles set
+forth in Executive Order 13132. Section
+4(a) of the Executive order requires
+Agencies to ‘‘construe . . . a Federal
+statute to preempt State law only where
+the statute contains an express
+preemption provision or there is some
+other clear evidence that the Congress
+intended preemption of State law, or
+where the exercise of State authority
+conflicts with the exercise of Federal
+authority under the Federal statute.’’
+Federal law includes an express
+preemption provision that preempts
+certain State requirements ‘‘different
+from or in addition to’’ certain Federal
+requirements applicable to devices (see
+section 521 of the FD&C Act (21 U.S.C.
+360k); Medtronic v. Lohr, 518 U.S. 470
+(1996); and Riegel v. Medtronic, 128 S.
+Ct. 999 (2008)). If this proposed rule is
+made final, it would create a Federal
+requirement under section 521 of the
+FD&C Act that bans ESDs for SIB or AB.
+XII. Consultation and Coordination
+With Indian Tribal Governments
+We have analyzed this proposed rule
+in accordance with the principles set
+forth in Executive Order 13175. We
+have tentatively determined that the
+rule does not contain policies that
+would have a substantial direct effect on
+one or more Indian Tribes, on the
+relationship between the Federal
+Government and Indian Tribes, or on
+the distribution of power and
+responsibilities between the Federal
+Government and Indian Tribes. The
+Agency solicits comments from tribal
+officials on any potential impact on
+Indian Tribes from this proposed action.
+XIII. References
+The following references marked with
+an asterisk (*) are on display at the
+Dockets Management Staff (see
+ADDRESSES) and are available for
+viewing by interested persons between
+9 a.m. and 4 p.m., Monday through
+Friday; they also are available
+electronically at https://
+www.regulations.gov. References
+without asterisks are not on public
+display at https://www.regulations.gov
+because they have copyright restriction.
+Some may be available at the website
+address, if listed. References without
+asterisks are available for viewing only
+at the Dockets Management Staff.
+Although FDA verified the website
+addresses in this document, please note
+that websites are subject to change over
+time.
+*1. FDA, ‘‘Meeting Materials of the
+Neurological Devices Panel.’’ April 24, 2014.
+Available at: https://wayback.archive-it.org/
+7993/20170405192749/https:/www.fda.gov/
+AdvisoryCommittees/
+CommitteesMeetingMaterials/
+MedicalDevices/
+MedicalDevicesAdvisoryCommittee/
+NeurologicalDevicesPanel/ucm394252.htm.
+2. Bottema-Beutel, K., S. Crowley, M.
+Sandbank, et al. ‘‘Adverse Event Reporting in
+Intervention Research for Young Autistic
+Children.’’ Autism, 25:322–335, 2021.
+Available at: https://doi.org/10.1177/
+1362361320965331.
+3. Blenkush, N.A. ‘‘A Risk-Benefit Analysis
+of Antipsychotic Medication and Contingent
+Skin Shock for the Treatment of Destructive
+Behaviors.’’ International Journal of
+Psychology & Behavior Analysis, 3(121):1–14,
+2017. Available at: https://doi.org/10.15344/
+2455-3867/2017/121.
+4. Schuck, R.K., D.M. Tagavi, K.M.P.
+Baiden, et al. ‘‘Neurodiversity and Autism
+Intervention: Reconciling Perspectives
+Through a Naturalistic Developmental
+Behavioral Intervention Framework.’’ Journal
+of Autism and Developmental Disorders,
+52(10):4625–4645, October 13, 2021.
+Available at: https://doi.org/10.1007/s10803-
+021-05316-x.
+5. Zarcone, J.R., M.P. Mullane, P.E.
+Langdon, et al. ‘‘Contingent Electric Shock as
+a Treatment for Challenging Behavior for
+People With Intellectual and Developmental
+Disabilities: Support for the IASSIDD Policy
+Statement Opposing Its Use.’’ Journal of
+Policy and Practice in Intellectual
+Disabilities, 17(4):291–296, 2020. Available
+at: https://doi.org/10.1111/jppi.12342.
+6. Mercer, J. ‘‘Evidence of Potentially
+Harmful Psychological Treatments for
+Children and Adolescents.’’ Child and
+Adolescent Social Work Journal, 34(2):107–
+125, 2017. Available at: https://doi.org/
+10.1007/s10560-016-0480-2.
+7. Perone, M., D.C. Lerman, S.M. Peterson,
+et al. ‘‘Report of the ABAI Task Force on
+Contingent Electric Skin Shock.’’
+Perspectives on Behavior Science, 46(2):261–
+304, 2023. Available at: https://doi.org/
+10.1007/s40614-023-00379-w.
+8. Yadollahikhales, G., N. Blenkush, and
+M. Cunningham. ‘‘Response Patterns for
+Individuals Receiving Contingent Skin Shock
+Aversion Intervention To Treat Violent SelfInjurious and Assaultive Behaviours.’’ BMJ
+Case Reports CP, 14(5):e241204, 2021.
+Available at: http://dx.doi.org/10.1136/bcr2020-241204.
+9. Blenkush, N.A. and J. O’Neill.
+‘‘Contingent Skin-Shock Treatment in 173
+Cases of Severe Problem Behavior.’’
+International Journal of Psychology &
+Behavior Analysis, 6:167, 2020. Available at:
+https://doi.org/10.15344/2455-3867/2020/
+167.
+10. O’Neill, J. and N. Blenkush.
+‘‘Contingent Skin-Shock Treatment and the
+Reversal of Effects on Severe Problem
+Behavior.’’ International Journal of
+Psychology & Behavior Analysis, 6:168, 2020.
+Available at: https://doi.org/10.15344/2455-
+3867/2020/168.
+11. Blenkush, N. and M. Cunningham.
+‘‘Elimination of Refractory Aggression and
+VerDate Sep<11>2014 17:01 Mar 25, 2024 Jkt 262001 PO 00000 Frm 00018 Fmt 4702 Sfmt 4702 E:\FR\FM\26MRP1.SGM 26MRP1
+ddrumheller on DSK120RN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 59 / Tuesday, March 26, 2024 / Proposed Rules 20897
+Self-Injury With Contingent Skin Shock.’’
+The Journal of Neuropsychiatry and Clinical
+Neurosciences, 35:264–268, 2023. Available
+at: https://doi.org/10.1176/
+appi.neuropsych.21020049.
+12. Salerno, J. ‘‘Efficacy, Risks, and Ethics
+of Aversive or Positive Therapy in Identical
+Twins.’’ Ph.D. diss., Walden University,
+2019. Available at: https://
+scholarworks.waldenu.edu/dissertations/
+6946.
+13. Dawson, M. and S. Fletcher-Watson.
+‘‘When Autism Researchers Disregard Harms:
+A Commentary.’’ Autism, 26(2):564–566,
+2022. Available at: https://doi.org/10.1177/
+13623613211031403.
+14. Foxx, R.M. ‘‘The National Institutes of
+Health Consensus Development Conference
+on the Treatment of Destructive Behaviors: A
+25-Year Update of a Study in Hardball
+Politics.’’ In: Controversial Therapies for
+Autism and Intellectual Disabilities (Second
+ed.). New York, NY: Routledge; part VI,
+chapter 27, pp. 451–471, 2016. Foxx, R.M.
+and J.A. Mulick (Eds.) Available at: https://
+www.routledge.com/Controversial-Therapiesfor-Autism-and-Intellectual-Disabilities-FadFashion/Foxx-Mulick/p/book/
+9781138802230.
+15. Leaf, J.B., J.H. Cihon, R. Leaf, et al.
+‘‘Concerns About ABA-Based Intervention:
+An Evaluation and Recommendations.’’
+Journal of Autism and Developmental
+Disorders, 52(6):2838–2853, 2022. Available
+at: https://doi.org/10.1007/s10803-021-
+05137-y.
+16. Shkedy, G., D. Shkedy, and A.H.
+Sandoval-Norton. ‘‘Treating Self-Injurious
+Behaviors in Autism Spectrum Disorder.’’
+Cogent Psychology, 6(1):1682766, 2019.
+Available at: https://doi.org/10.1080/
+23311908.2019.1682766.
+17. Benevides T.W., S.M. Shore, K. Palmer,
+et al. ‘‘Listening to the autistic voice: Mental
+health priorities to guide research and
+practice in autism from a stakeholder-driven
+project.’’ Autism, 24(4):822–833, 2020.
+Available at https://doi.org/10.1177/
+1362361320908410.
+18. Yadollahikhales, G., M. Cunningham,
+and N. Blenkush. ‘‘Graduated Electrical
+Decelerator Effectiveness for Severe
+Dangerous Behaviors in Autistic Children:
+Case Study.’’ The Journal of
+Neuropsychology and Clinical
+Neurosciences, 31(3): E28–E28, 2019.
+Available at https://doi.org/10.1176/
+appi.neuropsych.18100235.
+19. Lowther, N. and M. Newman. ‘‘Does
+the Behavioral Progress Made at JRC
+Generalize Across Settings and Over Time? A
+Follow-Up Study of Former JRC Students.’’
+ABA, 2014.
+20. Mu¨ller M.J. ‘‘Helplessness and
+Perceived Pain Intensity: Relations to
+Cortisol Concentrations After
+Electrocutaneous Stimulation in Healthy
+Young Men.’’ BioPsychoSocial Medicine,
+5:1–7, 2011. Available at https://
+pubmed.ncbi.nlm.nih.gov/21718526/.
+21. Association for Behavior Analysis
+International. ‘‘Position Statement on the Use
+of CESS.’’ 2022. Available at https://
+www.abainternational.org/about-us/policiesand-positions/position-statement-on-the-useof-cess-2022.aspx. (Accessed August 18,
+2023.)
+*22. JRC, Inc., public docket comment to
+the 2016 Proposed Rule, tracking number
+1k0–8ref-d5le. Received July 25, 2016.
+Available at: https://www.regulations.gov/
+comment/FDA-2016-N-1111-1637.
+*23. ‘‘Preliminary Regulatory Impact
+Analysis, Initial Regulatory Flexibility
+Analysis, and Unfunded Mandates Reform
+Act Analysis; Banned Devices; Proposal To
+Ban Electrical Stimulation Devices for SelfInjurious or Aggressive Behavior’’. Available
+at: https://www.fda.gov/about-fda/
+economics-staff/regulatory-impact-analysesria.
+List of Subjects
+21 CFR Part 882
+Medical devices.
+21 CFR Part 895
+Administrative practice and
+procedure, Labeling, Medical devices.
+Therefore, under the Federal Food,
+Drug, and Cosmetic Act and under
+authority delegated to the Commissioner
+of Food and Drugs, we propose that 21
+CFR parts 882 and 895 be amended as
+follows:
+PART 882—NEUROLOGICAL DEVICES
+■ 1. The authority citation for part 882
+continues to read as follows:
+Authority: 21 U.S.C. 351, 360, 360c, 360e,
+360j, 360l, 371.
+■ 2. In § 882.5235, revise paragraph (b)
+to read as follows:
+§ 882.5235 Aversive conditioning device.
+* * * * *
+(b) Classification. Class II (special
+controls), except for electrical
+stimulation devices for self-injurious or
+aggressive behavior. Electrical
+stimulation devices for self-injurious or
+aggressive behavior are banned. See
+§ 895.105 of this chapter.
+PART 895—BANNED DEVICES
+■ 3. The authority citation for part 895
+continues to read as follows:
+Authority: 21 U.S.C. 352, 360f, 360h, 360i,
+371.
+■ 4. Add § 895.105 to subpart B to read
+as follows:
+§ 895.105 Electrical stimulation devices for
+self-injurious or aggressive behavior.
+Electrical stimulation devices for selfinjurious or aggressive behavior are
+aversive conditioning devices that apply
+a noxious electrical stimulus to a
+person’s skin to reduce or cease selfinjurious or aggressive behavior.
+Dated: March 12, 2024.
+Robert M. Califf,
+Commissioner of Food and Drugs.
+[FR Doc. 2024–06037 Filed 3–25–24; 8:45 am]
+BILLING CODE 4164–01–P
