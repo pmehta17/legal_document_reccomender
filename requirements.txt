@@ -1,0 +1,2 @@
+pinecone-client==4.1.1
+pinecone-plugin-interface==0.0.7
