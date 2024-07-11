@@ -1,0 +1,2151 @@
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40439
+DEPARTMENT OF COMMERCE
+Patent and Trademark Office
+37 CFR Part 1
+[Docket No. PTO–P–2024–0003]
+RIN 0651–AD76
+Terminal Disclaimer Practice To
+Obviate Nonstatutory Double Patenting
+AGENCY: United States Patent and
+Trademark Office, Department of
+Commerce.
+ACTION: Notice of proposed rulemaking.
+SUMMARY: The USPTO proposes to
+amend the rules of practice to add a new
+requirement for an acceptable terminal
+disclaimer that is filed to obviate (that
+is, overcome) nonstatutory double
+patenting. The proposed rule change
+would require terminal disclaimers filed
+to obviate nonstatutory double patenting
+to include an agreement by the
+disclaimant that the patent in which the
+terminal disclaimer is filed, or any
+patent granted on an application in
+which a terminal disclaimer is filed,
+will be enforceable only if the patent is
+not tied and has never been tied directly
+or indirectly to a patent by one or more
+terminal disclaimers filed to obviate
+nonstatutory double patenting in which:
+any claim has been finally held
+unpatentable or invalid as anticipated or
+obvious by a Federal court in a civil
+action or by the USPTO, and all appeal
+rights have been exhausted; or a
+statutory disclaimer of a claim is filed
+after any challenge based on
+anticipation or obviousness to that
+claim has been made. This action is
+being taken to prevent multiple patents
+directed to obvious variants of an
+invention from potentially deterring
+competition and to promote innovation
+and competition by allowing a
+competitor to avoid enforcement of
+patents tied by one or more terminal
+disclaimers to another patent having a
+claim finally held unpatentable or
+invalid over prior art.
+DATES: Comments must be received by
+July 9, 2024 to ensure consideration.
+ADDRESSES: For reasons of government
+efficiency, comments must be submitted
+through the Federal eRulemaking Portal
+at www.regulations.gov. To submit
+comments via the portal, one should
+enter docket number PTO–P–2024–0003
+on the homepage and click ‘‘search.’’
+The site will provide search results
+listing all documents associated with
+this docket. Commenters can find a
+reference to this proposed rule and click
+on the ‘‘Comment’’ icon, complete the
+required fields, and enter or attach their
+comments. Attachments to electronic
+comments will be accepted in Adobe®
+portable document format (PDF) or
+Microsoft Word® format. Because
+comments will be made available for
+public inspection, information that the
+submitter does not desire to make
+public, such as an address or phone
+number, should not be included in the
+comments.
+Visit the Federal eRulemaking Portal
+for additional instructions on providing
+comments via the portal. If electronic
+submission of or access to comments is
+not feasible due to a lack of access to a
+computer and/or the internet, please
+contact the USPTO using the contact
+information below for special
+instructions.
+FOR FURTHER INFORMATION CONTACT:
+Susy Tsang-Foster, Senior Legal
+Advisor, Office of Patent Legal
+Administration, at 571–272–7711; or
+Nicholas Hill, Legal Advisor, Office of
+Patent Legal Administration, at 571–
+270–1485.
+SUPPLEMENTARY INFORMATION: Under
+U.S. law, a person is entitled to a patent,
+absent certain exceptions, for an
+invention that is new and not obvious
+as of the effective filing date of the
+claimed invention. Because a patent
+owner may file continuing applications
+and obtain follow-on patents with
+claims that have the same effective
+filing date as those of the original
+patent, patent owners may pursue
+multiple patents with claims that vary
+in only minor ways from each other. A
+patent owner may also, under certain
+circumstances (for example, when two
+applications are filed on the same day),
+obtain patents that are not part of the
+same patent family for obvious variants
+of an invention. As a result,
+obviousness-type double patenting (also
+referred to as nonstatutory double
+patenting) may exist between patents
+and/or applications in the same patent
+family or in a different patent family.
+Under the doctrine of obviousness-type
+double patenting, the USPTO rejects
+patentably indistinct claims filed in
+patent applications when these
+applications and the applications and/or
+patents whose claims form the basis of
+the nonstatutory double patenting: (1)
+have the same inventive entity, at least
+one common (joint) inventor, a common
+applicant, and/or a common owner/
+assignee; or (2) are not commonly
+owned but are owned by parties to a
+joint research agreement.
+Under current practice, a patent
+applicant or patent owner (also referred
+to as a patentee) may, in most instances,
+obviate nonstatutory double patenting
+by filing a terminal disclaimer meeting
+the requirements of 37 CFR 1.321(c) or
+(d). A terminal disclaimer will ensure
+that the term of the patent with the
+terminal disclaimer will not extend
+beyond the term of the patent forming
+the basis of the nonstatutory double
+patenting. To prevent the harassment of
+an alleged infringer by multiple parties,
+under current 37 CFR 1.321(c) or (d) a
+terminal disclaimer must state that the
+patent in which the terminal disclaimer
+is filed shall be enforceable only for and
+during the period that the patent is
+commonly owned, or commonly
+enforced, with the patent which formed
+the basis for the nonstatutory double
+patenting.
+Even with the protections currently
+provided by a terminal disclaimer,
+multiple patents tied by terminal
+disclaimers that are directed to obvious
+variants of an invention could deter
+competition due to the prohibitive cost
+of challenging each patent separately in
+litigation or administrative proceedings.
+Currently, a terminal disclaimer filed
+to obviate nonstatutory double patenting
+over a conflicting patent must include a
+disclaimer of term, if any, extending
+beyond the term of the conflicting
+patent and a common ownership or
+common enforcement agreement. Under
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00003 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+40440 Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules
+the proposed rule, the USPTO will not
+issue a patent to a common owner or
+inventor with a claim that conflicts with
+a claim of a second patent unless the
+terminal disclaimer includes an
+additional agreement that the patent
+with the terminal disclaimer will not be
+enforced if any claim of the second
+patent is invalidated by prior art. That
+means to resolve a dispute where there
+are multiple patents tied by terminal
+disclaimers, competitors could focus on
+addressing the validity of the claims of
+a single patent. As is the case under
+current practice, a terminal disclaimer
+under the proposed rule would be
+unidirectional, encumbering only the
+patent with the terminal disclaimer and
+not the conflicting patent. The reason
+for this is that a terminal disclaimer is
+signed only by the owner of the patent
+with the terminal disclaimer, and that
+patent and the conflicting patent might
+not be commonly owned when the
+terminal disclaimer is filed. See 35
+U.S.C. 253 (providing for filing of a
+terminal disclaimer by the owner of the
+patent in which it is filed). The
+proposed rule is intended to promote
+competition by lowering the cost of
+challenging groups of patents tied by
+terminal disclaimers, resulting in
+reduced barriers to market entry and
+lower costs for consumers. The
+proposed rule furthers the objectives of
+Executive Order 14036 on ‘‘Promoting
+Competition in the American
+Economy,’’ 86 FR 36987 (July 14, 2021).
+As an example of how the proposed
+rule would lower costs of challenging
+multiple related patents, in a litigation
+in which a patent owner is enforcing a
+patent along with several other patents
+that are tied by one or more terminal
+disclaimers to that patent, a competitor
+could seek to have the court narrow any
+validity disputes to address only that
+patent. Narrowing validity disputes in
+litigation to only one such patent could
+result in more focused claim
+construction hearings, lower litigation
+costs, and faster resolution. Similarly, a
+competitor could petition for an inter
+partes or post-grant review of just a
+single patent to which multiple patents
+are tied by one or more terminal
+disclaimers with the proposed
+agreement. The outcome of the postgrant challenge to the claims in the
+selected patent may also resolve the
+enforceability of the multiple patents
+tied to that selected patent. Because
+only one patent can be challenged per
+post-grant petition, the proposed
+terminal disclaimer rule would lower
+the cost of administrative proceedings
+by enabling a challenger to seek the
+freedom to operate through the review
+of only one patent, as opposed to
+seeking the review of a number of
+patents claiming obvious variants of a
+single invention.
+I. Background
+A. Request for Comments on Whether
+Any Changes Need To Be Made to the
+Patent System Regarding Nonstatutory
+Double Patenting
+In a recent request for comments, the
+USPTO sought public input on whether
+changes are needed in terminal
+disclaimer practice to help ensure that
+the U.S. patent system properly and
+adequately protects innovation while
+not unnecessarily harming competition.
+See Request for Comments on USPTO
+Initiatives To Ensure the Robustness
+and Reliability of Patent Rights, 87 FR
+60130 (October 4, 2022) (‘‘Request for
+Comments’’). In the Request for
+Comments, the USPTO recognized that
+existing practice may not adequately
+address concerns that multiple patents
+directed to obvious variants of an
+invention could deter competition if the
+number of patents is prohibitively
+expensive to challenge in post-grant
+proceedings before the PTAB or in
+district court. To address this issue, the
+Request for Comments asked whether
+applicants seeking patents on obvious
+variations to prior claims should be
+required to stipulate that the claims are
+not patentably distinct from the
+previously considered claims as a
+condition of filing a terminal disclaimer
+to obviate an obviousness-type double
+patenting rejection. The Request for
+Comments also recognized that, under
+current practice, patents tied together
+with a terminal disclaimer after an
+obviousness-type double patenting
+rejection must be separately challenged
+on validity grounds. The Request for
+Comments asked whether the filing of a
+terminal disclaimer in these patents
+should be an admission of obviousness
+and, if so, whether the patents, when
+their validity is challenged after
+issuance, should stand and fall together.
+The USPTO received comments
+expressing a range of views on the
+questions posed in the Request for
+Comments. Some comments supported
+the stipulation requirement and the
+proposition that the filing of a terminal
+disclaimer should be an admission of
+obviousness such that patents tied by
+terminal disclaimers should stand and
+fall together. These include comments
+suggesting that a stipulation could
+clarify the intrinsic record or simplify
+subsequent litigation. Some comments
+stated that a stipulation or admission
+could reduce the cost and risk of
+challenging multiple duplicative patents
+and lower drug prices for drugs that are
+no longer considered innovative. Some
+comments also indicated that a
+stipulation could create an incentive for
+applicants to address nonstatutory
+double patenting questions on the
+merits and that this would encourage
+innovators to create more inventions,
+stimulating investment into innovation.
+Other comments opposed the
+stipulation requirement and the
+proposition that the filing of a terminal
+disclaimer should be an admission of
+obviousness such that patents tied by
+terminal disclaimers should stand and
+fall together. These include comments
+asserting that the decision of whether to
+file a terminal disclaimer is often driven
+by a desire to expedite prosecution and
+reduce costs rather than by the merits of
+the nonstatutory double patenting
+rejection, that a stipulation requirement
+would cause delays and increase
+burdens on applicants, and/or that a
+stipulation requirement would
+encourage applicants to file a large
+number of claims in a single
+application. Comments opposed to
+treating the filing of a terminal
+disclaimer as an admission of
+obviousness include comments citing
+SimpleAir, Inc. v. Google LLC, 884 F.3d
+1160 (Fed. Cir. 2018), or earlier Federal
+Circuit cases, for the proposition that a
+terminal disclaimer should not be
+considered an admission or give rise to
+a presumption/estoppel. Comments
+opposing the changes in terminal
+disclaimer practice discussed in the
+Request for Comments also include
+comments asserting the following:
+validity is determined on a claim-byclaim basis; claims are presumed valid
+under 35 U.S.C. 282; the fact that prior
+art invalidates a claim in one of two
+patents tied together by a terminal
+disclaimer does not necessarily mean
+that the same prior art would invalidate
+a claim in the other patent; and/or these
+changes raise questions of due process
+and fairness.
+In addition, some comments broadly
+opposed any changes to terminal
+disclaimer practice. Commenters were
+concerned that such changes would
+increase the burden on applicants. Some
+commenters asserted that the stipulation
+requirement described in the Request
+for Comments would be a substantive
+rule that the USPTO does not have
+authority to make.
+Upon consideration of the comments,
+the USPTO has opted not to propose a
+rule requiring a stipulation that the
+claims are not patentably distinct or an
+agreement by the disclaimant that filing
+a terminal disclaimer is an admission of
+obviousness. The proposed rule does
+not concern the validity of claims.
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00004 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40441
+Instead, the proposed rule would
+require an agreement by the disclaimant
+that the patent with the terminal
+disclaimer will be enforced only under
+certain conditions. To the extent an
+applicant believes claims are patentably
+distinct, they may either challenge the
+rejection or move those claims to an
+application in which a terminal
+disclaimer has not been, and will not be,
+filed. A rule requiring that terminal
+disclaimers filed to obviate nonstatutory
+double patenting include language
+placing conditions upon enforcement
+was previously upheld as within the
+USPTO’s rulemaking authority. See In
+re Van Ornum, 686 F.2d 937 (CCPA
+1982).
+B. Current Practice
+Nonstatutory double patenting may be
+obviated, in most instances, by filing a
+terminal disclaimer. The terminal
+disclaimer will ensure that the term of
+the patent with the terminal disclaimer
+will not extend beyond the term of the
+patent forming the basis of the
+nonstatutory double patenting. In
+addition, the enforcement provision of
+the terminal disclaimer will prevent the
+harassment of an alleged infringer by
+multiple parties. Under current USPTO
+regulations, two types of terminal
+disclaimers may be used to obviate
+nonstatutory double patenting. The first
+type is filed pursuant to 37 CFR 1.321(c)
+and must include a provision that the
+patent in which the terminal disclaimer
+is filed (that is, the subject patent) or
+any patent granted on the application in
+which the terminal disclaimer is filed
+(that is, any patent granted on the
+subject application) shall be enforceable
+only for and during the period that the
+subject patent or any patent granted on
+the subject application is commonly
+owned with the reference patent or any
+patent granted on the reference
+application which formed the basis for
+the nonstatutory double patenting. The
+second type is filed pursuant to 37 CFR
+1.321(d) and must include a provision
+that the subject patent or any patent
+granted on the subject application shall
+be enforceable only for and during such
+period that the subject patent or any
+patent granted on the subject
+application and the reference patent or
+any patent granted on the reference
+application which formed the basis for
+the nonstatutory double patenting are
+not separately enforced. The second
+type obviates nonstatutory double
+patenting based on a non-commonly
+owned reference patent or application
+that is excepted or disqualified as prior
+art as a result of the subject matter of the
+reference patent or application and the
+claimed invention in the subject patent
+or application being treated as
+commonly owned on the basis of a joint
+research agreement.
+Currently, claims in patents tied by a
+terminal disclaimer filed under 37 CFR
+1.321(c) or (d) to obviate nonstatutory
+double patenting must be separately
+challenged on validity grounds. See 35
+U.S.C. 282(a); see also SimpleAir, Inc. v.
+Google LLC, 884 F.3d 1160, 1167–68
+(Fed. Cir. 2018) (‘‘[O]ur cases foreclose
+the inference that filing a terminal
+disclaimer functions as an admission
+regarding the patentability of the
+resulting claims.’’); Motionless Keyboard
+Co. v. Microsoft Corp., 486 F.3d 1376,
+1385 (Fed. Cir. 2007) (‘‘A terminal
+disclaimer simply is not an admission
+that a later-filed invention is obvious.’’);
+Ortho Pharm. Corp. v. Smith, 959 F.2d
+936, 941 (Fed. Cir. 1992) (rejecting the
+argument that the patent applicant
+admitted to obviousness-type double
+patenting by filing a terminal
+disclaimer); Quad Envtl. Techs. Corp. v.
+Union Sanitary Dist., 946 F.2d 870, 874
+(Fed. Cir. 1991) (‘‘[T]he filing of a
+terminal disclaimer simply serves the
+statutory function of removing the
+rejection of double patenting, and raises
+neither presumption nor estoppel on the
+merits of the rejection.’’). The current
+state of the law exposes competitors
+attempting to enter the market to
+potentially high costs because they may
+have to defend against patents to
+obvious variants of a single invention
+despite the presence of terminal
+disclaimers.
+II. Proposed Changes
+A. Changes to Current Practice
+The USPTO proposes to revise the
+enforcement provisions in 37 CFR
+1.321(c) and (d) to require that a
+terminal disclaimer filed to obviate
+nonstatutory double patenting include
+an agreement by the disclaimant that the
+subject patent or any patent granted on
+the subject application shall be
+enforceable only if the patent is not tied
+and has never been tied directly or
+indirectly to a patent by one or more
+terminal disclaimers filed to obviate
+nonstatutory double patenting in which:
+(1) any claim has been finally held
+unpatentable or invalid under 35 U.S.C.
+102 or 103 (statutory provisions for
+anticipation or obviousness as referred
+to in the SUMMARY above) by a Federal
+court in a civil action or by the USPTO,
+and all appeal rights have been
+exhausted; or (2) a statutory disclaimer
+of a claim is filed after any challenge
+based on 35 U.S.C. 102 or 103 to that
+claim has been made. The new
+requirement for a terminal disclaimer in
+this proposed rule differs from the
+stipulation described in the Request for
+Comments discussed above. See 87 FR
+at 60134. Specifically, the proposed rule
+does not require an applicant or a
+patentee to make a statement in the
+terminal disclaimer regarding
+conflicting claims being patentably
+indistinct. The new requirement has the
+likely advantages of reducing litigation
+and administrative proceeding costs and
+increasing predictability compared with
+the stipulation requirement in the
+Request for Comments because a
+comparison of claims is not necessary to
+determine which claims are subject to a
+stipulation (or an agreement), including
+claims that are amended during
+prosecution after the terminal
+disclaimer is filed. The proposed
+agreement would not affect the validity
+of the claims in the subject patent or any
+patent granted on the subject
+application because it is a voluntary
+agreement by the patentee that the
+patent with the terminal disclaimer will
+be enforceable only under certain
+conditions and does not touch on the
+validity of the claims. The new
+requirement solves the current problem
+of requiring a competitor to invalidate
+multiple patents tied by terminal
+disclaimers in order to have the freedom
+to operate. To the extent an applicant
+believes claims are patentably distinct,
+they may either challenge the rejection
+or move those claims to an application
+in which a terminal disclaimer has not
+been, and will not be, filed.
+(1) Meaning of Direct and Indirect Tying
+a. Direct Tying—By One Terminal
+Disclaimer
+The subject patent or any patent
+granted on the subject application is
+tied directly by a terminal disclaimer to
+another patent when: (1) the terminal
+disclaimer is filed in the subject patent
+or application; and (2) the other patent,
+or the application that issued as the
+other patent, is the reference patent or
+application identified in the terminal
+disclaimer. The tying by a terminal
+disclaimer is unidirectional and is
+effective only for the patent with the
+terminal disclaimer. Therefore, a
+terminal disclaimer that directly ties a
+subject patent or any patent granted on
+a subject application to a reference
+patent or any patent granted on a
+reference application does not directly
+tie the reference patent or any patent
+granted on the reference application to
+the subject patent or any patent granted
+on the subject application. Direct tying
+is illustrated by example 1 in section
+(II)(A)(3) below.
+If timely requested, a recorded
+terminal disclaimer may be withdrawn
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00005 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+40442 Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules
+before the application in which it is
+filed issues as a patent, or if a terminal
+disclaimer is filed in a reexamination
+proceeding, before the reexamination
+certificate issues. See section 1490,
+subsection VIII of the Manual of Patent
+Examining Procedure (MPEP) (Ninth
+Edition, Revision 07.2022, February
+2023). After a patent or reexamination
+certificate issues, a recorded terminal
+disclaimer will not be nullified. Id. For
+a terminal disclaimer filed in a patent,
+the recorded terminal disclaimer is
+considered part of the original patent.
+See 35 U.S.C. 253(b) and 37 CFR
+1.321(a). By contrast, a terminal
+disclaimer filed in a reexamination
+proceeding is a proposed amendment to
+the patent that does not take effect until
+the reexamination certificate issues. See
+MPEP 2288.
+Where a terminal disclaimer is filed
+in an application, if the terminal
+disclaimer is withdrawn before a patent
+issues from the application, then the
+patent containing the withdrawn
+terminal disclaimer is not tied and has
+never been tied to the patent identified
+in the withdrawn terminal disclaimer
+(or to any patent granted on the
+application identified in the withdrawn
+terminal disclaimer).
+b. Indirect Tying—By Two or More
+Terminal Disclaimers
+The subject patent or any patent
+granted on the subject application is
+tied indirectly by two terminal
+disclaimers to another patent when: (1)
+a terminal disclaimer filed in the subject
+patent or application identifies an
+intermediate patent/application as the
+reference patent or application; and (2)
+a terminal disclaimer filed in the
+intermediate patent/application
+identifies the other patent, or the
+application that issued as the other
+patent, as the reference patent or
+application. This is illustrated by
+example 2 in section (II)(A)(3) below.
+As discussed above with respect to
+direct tying, terminal disclaimers may
+be withdrawn from an application in
+certain circumstances. The following
+four illustrations show the effect on
+tying of withdrawing a terminal
+disclaimer from an intermediate
+application where a terminal disclaimer
+is also filed in a subject application.
+(1) Where the terminal disclaimer
+filed in the intermediate application
+identifies the other patent and is
+withdrawn before a patent is granted on
+the subject application, the patent
+granted on the subject application was
+never tied indirectly to the other patent.
+(2) Where the terminal disclaimer
+filed in the intermediate application
+identifies the other patent and is
+withdrawn after a patent is granted on
+the subject application, the indirect
+tying to the other patent is undone but
+the patent granted on the subject
+application was at one point tied
+indirectly to the other patent.
+(3) Where the terminal disclaimer
+filed in the intermediate application
+identifies the application that later
+issues as the other patent and is
+withdrawn before a patent is granted on
+the subject application or before the
+other patent issues, the patent granted
+on the subject application was never
+tied indirectly to the other patent.
+(4) Where the terminal disclaimer
+filed in the intermediate application
+identifies the application that later
+issues as the other patent and is
+withdrawn after a patent is granted on
+the subject application and after the
+other patent issues, the indirect tying to
+the other patent is undone but the
+patent granted on the subject
+application was at one point tied
+indirectly to the other patent.
+Tying by more than two terminal
+disclaimers is illustrated by example 3
+in section (II)(A)(3) below.
+(2) Meaning of ‘‘A Claim Has Been
+Finally Held Unpatentable or Invalid’’
+The term ‘‘finally held unpatentable’’
+refers to a final determination by the
+USPTO in a trial established by the
+Leahy-Smith America Invents Act (AIA)
+(Pub. L. 112–29 (2011)) or a
+reexamination proceeding that one or
+more claims in a patent are
+unpatentable after all appeals have been
+concluded or appeal rights exhausted.
+The term ‘‘finally held . . . invalid’’
+relates to a final decision entered in a
+Federal court in a civil action holding
+one or more claims of a patent invalid
+after all appeals have been concluded or
+appeal rights exhausted. The proposed
+agreement is independent of the relative
+timing of the terminal disclaimer and
+the final holding of unpatentability or
+invalidity over prior art. Additionally,
+the proposed agreement cannot be
+avoided by filing a statutory disclaimer
+of a claim under 35 U.S.C. 253(a) after
+any challenge based on 35 U.S.C. 102 or
+103 to that claim has been made.
+(3) Examples
+The following examples illustrate the
+meaning of: (1) direct and indirect tying
+in the proposed rule, and (2) the
+possible consequences of the agreement
+in the proposed rule.
+In the examples, all terminal
+disclaimers include the agreement in
+the proposed rule and are filed to
+obviate nonstatutory double patenting,
+unless otherwise noted.
+A single capital letter identifies both
+an application and any patent that
+issues from that application, with the
+letter ‘‘A’’ in parentheses used to
+identify the application and the letter
+‘‘P’’ in parentheses used to identify the
+patent. Thus, X(P) is any patent that has
+issued from application X(A).
+An arrow represents a terminal
+disclaimer filed to obviate nonstatutory
+double patenting. The arrow starts at the
+subject patent or application and points
+toward the reference patent or
+application.
+The patents and applications in these
+examples may be in the same patent
+family or in a different patent family.
+The enumeration of the terminal
+disclaimers using terms such as ‘‘first,’’
+‘‘second,’’ etc. does not refer to when
+the terminal disclaimers are filed but is
+instead used for identification purposes.
+Example 1
+The subject patent or any patent
+granted on the subject application is
+tied directly to the reference patent or
+any patent granted on the reference
+application by a terminal disclaimer
+filed in the subject patent or application
+to obviate nonstatutory double patenting
+based on the reference patent or
+application.
+Thus, if a terminal disclaimer is filed
+in X(P) or X(A) identifying W(P) or
+W(A) as a reference patent or
+application, then X(P) is tied directly to
+W(P). Example 1 may be represented
+visually as:
+W ← X
+The tying by a terminal disclaimer is
+unidirectional. Therefore, in this
+example, W(P) is not tied to X(P) by the
+terminal disclaimer filed in X.
+In this example, X(P) is the subject
+patent or any patent granted on the
+subject application, and W(P) is the
+reference patent or any patent granted
+on the reference application. As a result,
+if a claim of W(P) is finally held
+unpatentable or invalid over prior art,
+X(P) may not be enforced. However, if
+a claim of X(P) is finally held
+unpatentable or invalid over prior art,
+W(P) may still be enforced because a
+terminal disclaimer with the agreement
+in the proposed rule was not filed in W
+identifying X as a reference patent or
+application.
+If the terminal disclaimer filed in
+X(A) is withdrawn before X(A) issues as
+a patent, then X(P) may be enforced
+even if a claim in W(P) is finally held
+unpatentable or invalid over prior art
+because X(P) was never tied to W(P).
+We can further explain example 1 in
+practical terms. For instance, applicant
+overcomes a nonstatutory double
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00006 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40443
+patenting rejection in application X(A)
+based on reference patent W(P) by filing
+a terminal disclaimer with the
+agreement in the proposed rule, thereby
+obtaining patent X(P). Under the current
+rule, both patents X(P) and W(P) may
+block competitors and need to be
+separately invalidated or licensed to
+gain freedom to operate. Under the
+proposed rule, if a claim of patent W(P)
+is finally held invalid or unpatentable
+over prior art, competitors would avoid
+the enforcement of patent X(P) based on
+the agreement in the proposed rule in
+the terminal disclaimer in patent X(P).
+However, if a claim of patent X(P) is
+finally held invalid or unpatentable over
+prior art, competitors would not be able
+to, solely on this basis, avoid the
+enforcement of patent W(P) because a
+terminal disclaimer containing the
+proposed agreement was not filed in W
+identifying X as a reference patent or
+application.
+Additionally, multiple subject patents
+or applications may have terminal
+disclaimers identifying the same
+reference patent or application. Under
+the proposed rule, if a claim of the
+reference patent or any patent granted
+on the reference application is finally
+held invalid or unpatentable over prior
+art, competitors would avoid the
+enforcement of these multiple patents
+based on the proposed agreement in the
+terminal disclaimers filed in these
+patents.
+Example 2
+Extending example 1 (where the
+terminal disclaimer filed in X includes
+the proposed agreement), if a second
+terminal disclaimer is filed in Y(P) or
+Y(A) identifying X(P) or X(A) as a
+reference patent or application, then
+Y(P) is tied indirectly to W(P). This
+would be the case even if X(A) is
+abandoned or remains pending.
+Example 2 may be represented visually
+as:
+W ← X ← Y
+Consistent with example 1, Y(P) is
+tied directly to X(P), and X(P) is tied
+directly to W(P). In this example, X(P)
+or X(A), as the case may be, is an
+intermediate patent/application because
+the two terminal disclaimers tie Y(P) to
+W(P).
+In this example, W(P) is not tied to
+X(P) or Y(P), and X(P) is not tied to Y(P).
+In this example, Y(P) is a subject
+patent or any patent granted on a subject
+application for the terminal disclaimer
+filed in Y, and W(P) is a reference patent
+or any patent granted on a reference
+application for the terminal disclaimer
+filed in X. In this example, X is an
+intermediate patent/application that is
+the reference patent or application for
+the terminal disclaimer filed in Y and
+the subject patent or application for the
+terminal disclaimer filed in X. As a
+result, if a claim of W(P) is finally held
+unpatentable or invalid over prior art,
+and the terminal disclaimer in Y(P)
+contains the proposed agreement, Y(P)
+may not be enforced.
+As in example 1, if a claim of W(P)
+is finally held unpatentable or invalid
+over prior art, X(P) may not be enforced.
+Similarly, if a claim of X(P) is finally
+held unpatentable or invalid over prior
+art, Y(P) may not be enforced.
+If the terminal disclaimer filed in
+X(A) identifying W(P) is withdrawn
+before Y(A) issues as a patent, then Y(P)
+would still be enforceable in the event
+that a claim in W(P) is finally held
+unpatentable or invalid over prior art
+because Y(P) was never tied to W(P). On
+the other hand, if the terminal
+disclaimer filed in X(A) identifying
+W(P) is withdrawn after Y(A) has issued
+as a patent, then Y(P) may not be
+enforced in the event that a claim in
+W(P) is finally held unpatentable or
+invalid over prior art because Y(P) was
+once tied to W(P).
+Note that even if the terminal
+disclaimer filed in X did not contain the
+proposed agreement (because it was
+filed prior to the implementation of this
+proposed rule), Y(P) is still tied to W(P).
+In this situation, if a claim in W(P) is
+finally held unpatentable or invalid over
+prior art, X(P) may still be enforced
+(because the terminal disclaimer filed in
+X does not contain the proposed
+agreement) even though Y(P) may not be
+enforced.
+Example 3
+Indirect tying may also occur through
+multiple intermediate patents/
+applications. Extending example 2, if a
+third terminal disclaimer is filed in Z(P)
+or Z(A) identifying Y(P) or Y(A) as a
+reference patent or application, then
+Z(P) is tied indirectly to W(P). This
+would be the case even if X(A) and/or
+Y(A) are/is abandoned or remain(s)
+pending. Example 3 may be represented
+visually as:
+W ← X ← Y ← Z
+In this example, all the tying
+relationships of example 2 remain.
+Also in this example, Z(P) is a subject
+patent or any patent granted on a subject
+application for the terminal disclaimer
+filed in Z, and W(P) is a reference patent
+or any patent granted on a reference
+application for the terminal disclaimer
+filed in X. X(P) or X(A) and Y(P) or
+Y(A), as the case may be, are
+intermediate patents/applications
+because the three terminal disclaimers
+tie Z(P) to W(P). As a result, if a claim
+of W(P) is finally held unpatentable or
+invalid over prior art and if the terminal
+disclaimer filed in Z(A) contains the
+proposed agreement, Z(P) may not be
+enforced.
+As in example 2, if a claim of W(P)
+is finally held unpatentable or invalid
+over prior art, Y(P) and X(P) may not be
+enforced; if a claim of X(P) is finally
+held unpatentable or invalid over prior
+art, Y(P) and Z(P) may not be enforced;
+and if a claim of Y(P) is finally held
+unpatentable or invalid over prior art,
+Z(P) may not be enforced.
+Example 4
+This example shows three patents tied
+directly and indirectly by terminal
+disclaimers. In this example, a first
+terminal disclaimer is filed in X(P) or
+X(A) identifying W(P) or W(A) as a
+reference patent or application, directly
+tying X(P) to W(P).
+W ← X
+A second terminal disclaimer is filed
+in W(P) or W(A) identifying X(P) or
+X(A) as a reference patent or
+application, directly tying W(P) to X(P).
+W u X
+A third terminal disclaimer is filed in
+Y(P) or Y(A) identifying X(P) or X(A) as
+a reference patent or application,
+directly tying Y(P) to X(P).
+W u X ← Y
+A fourth terminal disclaimer is filed
+in X(P) or X(A) identifying Y(P) or Y(A)
+as a reference patent or application,
+directly tying X(P) to Y(P).
+W u X u Y
+A fifth terminal disclaimer is filed in
+Y(P) or Y(A) identifying W(P) or W(A)
+as a reference patent or application,
+directly tying Y(P) to W(P).
+W ← Y
+A sixth terminal disclaimer is filed in
+W(P) or W(A) identifying Y(P) or Y(A)
+as a reference patent or application,
+directly tying W(P) to Y(P).
+W u Y
+Example 4 may be represented
+visually as:
+W u X u Y and W u Y
+In this example, in addition to W(P),
+X(P), and Y(P) each being directly tied
+to one another, they each are indirectly
+tied to one another. As a result, if a
+claim in any one of W(P), X(P), or Y(P)
+is finally held unpatentable or invalid
+over prior art and if the terminal
+disclaimers filed in W, X, and Y contain
+the proposed agreement, the other two
+patents may not be enforced.
+Example 5
+The following example illustrates two
+patents that are not indirectly tied by
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00007 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+40444 Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules
+terminal disclaimers even though each
+has a terminal disclaimer identifying the
+same reference patent or application,
+due to the unidirectionality of tying by
+a terminal disclaimer.
+In this example, a first terminal
+disclaimer is filed in X(P) or X(A)
+identifying Y(P) or Y(A) as a reference
+patent or application, and a second
+terminal disclaimer is filed in Z(P) or
+Z(A) identifying Y(P) or Y(A) as a
+reference patent or application. Example
+5 may be represented visually as:
+X → Y ← Z
+In this example, X(P) and Z(P) are
+both tied directly to Y(P). As a result, if
+a claim in Y(P) is finally held
+unpatentable or invalid over prior art
+and if the proposed agreement is
+contained in the terminal disclaimers
+filed in X and Z, X(P) and Z(P) cannot
+be enforced.
+However, Z(P) is not tied to X(P), X(P)
+is not tied to Z(P), and Y(P) is not tied
+to either X(P) or Z(P). Thus, if a claim
+in X(P) or Z(P) is finally held
+unpatentable or invalid over prior art,
+there is no effect on whether the other
+two patents may be enforced.
+(4) Ways To Address Nonstatutory
+Double Patenting
+To obviate nonstatutory double
+patenting, patent owners and applicants
+can voluntarily file a terminal
+disclaimer with the proposed
+agreement. If applicants and patent
+owners are concerned about the new
+requirement and seek to avoid the
+consequences of the proposed
+agreement, applicants and patent
+owners have the option of not filing a
+terminal disclaimer with the proposed
+agreement. The nonstatutory double
+patenting may be dealt with in a number
+of ways.
+An applicant facing a nonstatutory
+double patenting rejection in an
+application has a number of options to
+avoid filing a terminal disclaimer with
+the proposed agreement such as:
+(1) combining the conflicting claims
+into a single application,
+(2) canceling or amending any
+conflicting claims in the application or
+in the other application containing the
+conflicting claims that formed the basis
+of the nonstatutory double patenting,
+(3) arguing that rejected claims in the
+application are patentably distinct from
+the claims of the reference patent or
+application, or
+(4) filing a reissue application of the
+patent whose claims formed the basis of
+the nonstatutory double patenting in
+order to add canceled conflicting claims
+from the application into the reissue
+application, provided that the added
+claims do not introduce new matter into
+the reissue application.
+Alternatively, an applicant may
+separate the patentably distinct claims
+into another application and file a
+terminal disclaimer with the proposed
+agreement in the application with the
+indistinct claims.
+If the applicant amends the claims
+after the filing of the terminal disclaimer
+such that the claims no longer conflict
+with the claims in the reference patent
+or application, the applicant may file a
+petition under 37 CFR 1.182 to
+withdraw the terminal disclaimer prior
+to the issuance of the application to
+avoid the effect of the proposed
+agreement on patentably distinct claims
+and any potential loss of patent term. As
+discussed above, after patent grant, a
+recorded terminal disclaimer will not be
+withdrawn. See MPEP 1490, subsection
+VIII.
+B. Changes Consistent With Current
+Practice
+(1) Who May File a Disclaimer
+The proposed rule makes no change
+to who may file a terminal disclaimer.
+Consistent with 35 U.S.C. 253, the
+USPTO proposes to refer to the party
+with the ownership interest making the
+disclaimer in 37 CFR 1.321 as the
+‘‘disclaimant’’ rather than the patentee,
+applicant, assignee, or grantee as
+currently prescribed in the regulations.
+(2) Clarify That a Terminal Disclaimer
+Can Be Filed in a Patent To Obviate
+Nonstatutory Double Patenting
+Current 37 CFR 1.321(c) and (d) state
+that a terminal disclaimer may be filed
+in an application or in a reexamination
+proceeding but do not explicitly state
+that the terminal disclaimer to obviate
+nonstatutory double patenting can be
+filed in a patent not subject to a
+reexamination proceeding. Consistent
+with the guidance set forth in the MPEP,
+a terminal disclaimer may be filed in a
+patent under 37 CFR 1.321(c) or (d) that
+is not subject to a reexamination
+proceeding. See MPEP 1490, subsection
+II. Proposed 37 CFR 1.321(c) and (d) are
+amended to explicitly state that a
+terminal disclaimer may be filed in a
+patent to obviate nonstatutory double
+patenting.
+(3) Changes To Reflect Current
+Terminology in the MPEP
+Consistent with current usage in the
+MPEP (see, for example, chapters 800
+and 1400), the USPTO proposes the
+following changes in 37 CFR 1.321: (1)
+replace ‘‘judicially created double
+patenting’’ with the phrase
+‘‘nonstatutory double patenting,’’ (2)
+refer to the patent in which a terminal
+disclaimer is filed and the patent subject
+to a reexamination proceeding in which
+the terminal disclaimer is filed as the
+‘‘subject patent,’’ (3) refer to the
+application in which a terminal
+disclaimer is filed as the ‘‘subject
+application,’’ and (4) refer to the patent
+or application forming the basis for the
+nonstatutory double patenting as the
+‘‘reference patent or application.’’
+(4) Changes To Conform With Current
+Language in the MPEP
+MPEP 1490, subsection VII, provides
+examples of acceptable terminal
+disclaimer language to use for terminal
+disclaimers filed under 37 CFR 1.321(c)
+or (d). In a few of the examples, the
+language states that the patentee/
+applicant agrees to the enforcement
+provision of current 37 CFR 1.321(c)(3)
+or (d)(3). Consistent with this guidance
+set forth in the MPEP, the USPTO
+proposes to amend 37 CFR 1.321(c)(3)
+and (d)(3) by adding ‘‘agreeing’’ in the
+enforcement provision.
+III. Discussion of Proposed Rules
+The following is a discussion of
+proposed amendments to 37 CFR part 1:
+The USPTO proposes to amend
+§ 1.321(a) and (b) by replacing ‘‘grantee’’
+with ‘‘disclaimant.’’
+The USPTO proposes to amend
+§ 1.321(a)(3) by replacing ‘‘patentee’s
+ownership interest’’ with ‘‘the
+disclaimant’s ownership interest.’’
+The USPTO proposes to amend
+§ 1.321(b)(1) by redesignating current
+§ 1.321(b)(1) as § 1.321(b)(1)(i) and
+adding new subparagraph
+§ 1.321(b)(1)(ii) to incorporate the
+requirements of § 1.321(b)(1) in effect on
+September 15, 2012. This proposal
+eliminates the need for the public to
+consult § 1.321 in effect on September
+15, 2012, when filing a terminal
+disclaimer in an application filed before
+September 16, 2012, and makes the
+proposed § 1.321 applicable to all
+applications, regardless of their filing
+date. ‘‘Inventor’’ and ‘‘applicant’’ are no
+longer synonymous for applications
+filed on or after September 16, 2012. See
+MPEP 605 and Changes To Implement
+the Inventor’s Oath or Declaration
+Provisions of the Leahy-Smith America
+Invents Act, 77 FR 48776, 48778–79
+(August 14, 2012) (final rule). The term
+‘‘applicant’’ in proposed § 1.321(b)(1)(i)
+can include an inventor(s), an
+assignee(s), or others with a sufficient
+proprietary interest, whereas the term
+‘‘applicant’’ in proposed § 1.321(b)(1)(ii)
+refers to the inventor(s).
+The USPTO proposes to amend
+§ 1.321(b)(3) by replacing ‘‘applicant’s
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00008 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40445
+ownership interest’’ with ‘‘the
+disclaimant’s ownership interest.’’
+The USPTO proposes to amend
+§ 1.321(c) by replacing ‘‘judicially
+created double patenting’’ with
+‘‘nonstatutory double patenting.’’
+Additionally, proposed § 1.321(c)
+would explicitly provide for the filing of
+a terminal disclaimer in a patent not
+subject to a reexamination proceeding.
+As is the case today, when a terminal
+disclaimer under proposed § 1.321(c) is
+filed to obviate nonstatutory double
+patenting in a reexamination
+proceeding, it should be filed in the
+reexamination proceeding and not in
+the patent file. See 37 CFR 1.321(c) and
+MPEP 1490, subsection III.A.
+The USPTO proposes to amend
+§ 1.321(c)(3) by adding ‘‘agreeing,’’
+which is consistent with current
+practice (see MPEP 1490, subsection
+VII).
+The USPTO proposes to amend
+§ 1.321(d) to specify that the type of
+double patenting that may be obviated
+by filing a terminal disclaimer is
+‘‘nonstatutory double patenting.’’
+Additionally, proposed § 1.321(d)
+would explicitly provide for the filing of
+a terminal disclaimer in a patent not
+subject to a reexamination proceeding.
+As is the case today, when a terminal
+disclaimer under proposed § 1.321(d) is
+filed to obviate nonstatutory double
+patenting in a reexamination
+proceeding, it should be filed in the
+reexamination proceeding and not in
+the patent file. See 37 CFR 1.321(d) and
+MPEP 1490, subsection III.A.
+The USPTO proposes to amend
+§ 1.321(d)(3) by adding ‘‘agreeing,’’
+which is consistent with current
+practice (see MPEP 1490, subsection
+VII).
+The USPTO proposes to amend
+§ 1.321(c), (c)(3), (d), and (d)(3) to
+identify the patent or application
+forming the basis for the nonstatutory
+double patenting as the ‘‘reference
+patent or application.’’
+The USPTO proposes to amend
+§ 1.321(c)(2), (c)(3), (d)(2), and (d)(3) to
+identify an application in which a
+terminal disclaimer is filed to obviate
+nonstatutory double patenting as a
+‘‘subject application’’ and a patent in
+which a terminal disclaimer is filed to
+obviate nonstatutory double patenting
+as a ‘‘subject patent.’’ The term ‘‘subject
+patent’’ includes both patents that are
+undergoing a reexamination proceeding
+and patents that are not undergoing a
+reexamination proceeding.
+The USPTO proposes to amend
+§ 1.321(c)(3) and (d)(3) to require that a
+terminal disclaimer filed to obviate
+nonstatutory double patenting include
+an agreement by the disclaimant that the
+patent in which the terminal disclaimer
+is filed, or any patent granted on an
+application in which the terminal
+disclaimer is filed, will be enforceable
+only if the patent is not tied and has
+never been tied directly or indirectly to
+a patent by one or more terminal
+disclaimers filed to obviate nonstatutory
+double patenting in which: (1) any
+claim has been finally held
+unpatentable or invalid under 35 U.S.C.
+102 or 103 in a Federal court in a civil
+action or at the USPTO, and all appeal
+rights have been exhausted; or (2) a
+statutory disclaimer of a claim is filed
+after any challenge based on 35 U.S.C.
+102 or 103 to that claim has been made.
+IV. Rulemaking Considerations
+A. Administrative Procedure Act
+The changes proposed by this
+rulemaking involve rules of agency
+practice and procedure, and/or
+interpretive rules, and do not require
+notice-and-comment rulemaking. See
+Perez v. Mortg. Bankers Ass’n, 575 U.S.
+92, 97, 101 (2015) (explaining that
+interpretive rules ‘‘advise the public of
+the agency’s construction of the statutes
+and rules which it administers’’ and do
+not require notice and comment when
+issued or amended); Cooper Techs. Co.
+v. Dudas, 536 F.3d 1330, 1336–37 (Fed.
+Cir. 2008) (stating that 5 U.S.C. 553, and
+thus 35 U.S.C. 2(b)(2)(B), do not require
+notice-and- comment rulemaking for
+‘‘interpretative rules, general statements
+of policy, or rules of agency
+organization, procedure, or practice’’);
+and JEM Broadcasting Co. v. F.C.C., 22
+F.3d 320, 328 (D.C. Cir. 1994)
+(explaining that rules are not legislative
+because they do not ‘‘foreclose effective
+opportunity to make one’s case on the
+merits’’).
+Nevertheless, the USPTO is
+publishing this proposed rule for
+comment to seek the benefit of the
+public’s views on the Office’s proposed
+regulatory changes.
+B. Regulatory Flexibility Act (RFA)
+For the following reasons, the Senior
+Counsel for Regulatory and Legislative
+Affairs of the USPTO has certified to the
+Chief Counsel for Advocacy of the Small
+Business Administration that this rule
+will not have a significant economic
+impact on a substantial number of small
+entities. See 5 U.S.C. 605(b).
+The USPTO is proposing to revise the
+enforcement provisions in § 1.321(c)
+and (d) to require that a terminal
+disclaimer filed to obviate nonstatutory
+double patenting include an agreement
+by the disclaimant that the subject
+patent, or any patent granted on the
+subject application, shall be enforceable
+only if the patent is not tied and has
+never been tied directly or indirectly to
+a patent by one or more terminal
+disclaimers filed to obviate nonstatutory
+double patenting: (1) in which any
+claim has been finally held
+unpatentable or invalid under 35 U.S.C.
+102 or 103 by a Federal court in a civil
+action or by the USPTO, and all appeal
+rights have been exhausted; or (2) in
+which a statutory disclaimer of a claim
+is filed after any challenge based on 35
+U.S.C. 102 or 103 to that claim has been
+made. Thus, the rulemaking does not
+propose to substantively change when
+an applicant or patent owner may file a
+terminal disclaimer under § 1.321.
+The Small Business Administration
+(SBA) small business size standards that
+are applicable to most analyses
+conducted to comply with the RFA are
+set forth in 13 CFR 121.201. These
+regulations generally define small
+businesses as those with fewer than a
+specified maximum number of
+employees or less than a specified level
+of annual receipts for the entity’s
+industrial sector or North American
+Industry Classification System (NAICS)
+code. As provided by the RFA, and after
+consulting with the SBA, the USPTO
+formally adopted an alternate size
+standard for the purpose of conducting
+an analysis or making a certification
+under the RFA for patent-related
+regulations. See Business Size Standard
+for Purposes of United States Patent and
+Trademark Office Regulatory Flexibility
+Analysis for Patent-Related Regulations,
+71 FR 67109 (Nov. 20, 2006), 1313 Off.
+Gaz. Pat. Office 60 (Dec. 12, 2006). The
+USPTO’s alternate small business size
+standard is SBA’s previously
+established size standard that identifies
+the criteria entities must meet to be
+entitled to pay reduced patent fees. See
+13 CFR 121.802. If patent applicants
+identify themselves on a patent
+application as qualifying for reduced
+patent fees, the USPTO captures this
+data in its patent application data
+repository (formerly the Patent
+Application Monitoring and Locating
+(PALM) system and now called the One
+Patent Service Gateway (OPSG) system),
+which tracks information on each patent
+application submitted to the Office.
+Unlike the SBA small business size
+standards set forth in 13 CFR 121.201,
+the size standard for the USPTO is not
+industry specific. The Office’s definition
+of a small business concern for RFA
+purposes is a business or other concern
+that: (1) meets the SBA’s definition of a
+‘‘business concern or concern’’ set forth
+in 13 CFR 121.105; and (2) meets the
+size standards set forth in 13 CFR
+121.802 for the purpose of paying
+reduced patent fees, namely, an entity:
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00009 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+40446 Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules
+1This cost represents the report’s median charges
+for services categorized as ‘‘Application
+amendment/argument, relatively complex—
+biotech/chemical’’ and ‘‘Application amendment/
+argument, relatively complex—electrical/
+computer.’’
+(a) whose number of employees,
+including affiliates, does not exceed 500
+persons; and (b) which has not assigned,
+granted, conveyed, or licensed (and is
+under no obligation to do so) any rights
+in the invention to any person who
+made it and could not be classified as
+an independent inventor, or to any
+concern that would not qualify as a
+nonprofit organization or a small
+business concern under this definition.
+See Business Size Standard for Purposes
+of United States Patent and Trademark
+Office Regulatory Flexibility Analysis for
+Patent-Related Regulations, 71 FR at
+67112 (Nov. 20, 2006), 1313 Off. Gaz.
+Pat. Office at 63 (Dec. 12, 2006). For
+purposes of this certification, the
+USPTO defines small entities to include
+entities who are paying small or micro
+entity fee rates at the USPTO.
+The USPTO estimates that
+approximately 20% of applicants and
+patent owners (including small entity
+applicants and patent owners, who
+account for approximately 27% of
+patent filings) that are considering the
+filing of a terminal disclaimer to obviate
+nonstatutory double patenting will opt
+not to file a terminal disclaimer
+containing the proposed agreement, at
+least during an initial period after the
+effective date of the final rule. As
+mentioned earlier herein, applicants
+and patent owners who choose not to
+file a terminal disclaimer with the
+proposed agreement have a number of
+alternatives to obviate nonstatutory
+double patenting. The USPTO estimates
+that the vast majority of applicants and
+patent owners who choose not to file a
+terminal disclaimer with the proposed
+agreement will opt to argue and/or
+amend claims to obviate nonstatutory
+double patenting.
+The number of instances in which
+applicants and patent owners have to
+obviate nonstatutory double patenting is
+relatively low. The USPTO issues
+roughly 650,000 nonfinal and final
+Office actions per fiscal year, of which
+175,500 (or 27%) are issued to small
+entities. Of the 175,500 Office actions
+issued to small entities, approximately
+14%, or approximately 24,570, contain
+at least one nonstatutory double
+patenting rejection, and approximately
+4%, or approximately 7,020, contain
+only a nonstatutory double patenting
+rejection(s).
+To estimate the potential impact on
+small entities from this proposed
+rulemaking, the USPTO refers to the
+2023 Report of the Economic Survey,
+published by the Committee on
+Economics of Legal Practice of the
+American Intellectual Property Law
+Association, which estimates a median
+cost of $3,500 per Office action
+response.1
+For purposes of this certification, the
+USPTO estimates that all of the
+approximately 20% of the small entity
+applicants and patent owners who the
+USPTO estimates will choose not to file
+a terminal disclaimer with the proposed
+agreement will opt to argue and/or
+amend claims to obviate the
+nonstatutory double patenting
+rejection(s). The USPTO therefore
+estimates that the proposed rulemaking
+could have a potential annual cost to
+small entities of $17,199,000 (24,570 ×
+20% × $3,500) for responding to an
+Office action containing at least one
+nonstatutory double patenting rejection
+by arguing and/or amending claims,
+rather by than filing a terminal
+disclaimer.
+Furthermore, the USPTO estimates
+that, on the upper range, approximately
+50%, or approximately 2,457 (24,570 ×
+20% × 50%), of the responses filed will
+fail to obviate at least one nonstatutory
+double patenting rejection. These cases
+may potentially incur the additional
+cost to small entities of $8,599,500
+(2,457 × $3,500) to respond to an
+additional Office action. Therefore, the
+USPTO estimates that the upper range
+of cost that the proposed rulemaking
+could have on the approximately 20%
+of potentially impacted small entities is
+$25,798,500 ($17,199,000 + $8,599,500).
+The estimated cost will therefore not
+affect a substantial number
+(approximately 20%) of small entities.
+For at least two reasons, the USPTO
+believes these estimates to represent the
+upper range of the potential impact on
+small entities. First, the preceding
+estimates do not account for the cost
+savings, including filing fee savings,
+from not filing a terminal disclaimer.
+The USPTO charges a fee of $170 for
+filing a terminal disclaimer. Based on
+the estimated 4,914 small entity
+applicants that opt to not file a terminal
+disclaimer, the USPTO estimates
+terminal disclaimer filing fee savings of
+$835,380. In addition, the USPTO
+estimates that it takes an estimated 0.25
+hours (15 minutes) for applicants and
+patent owners to file a terminal
+disclaimer. The 2023 Report of the
+Economic Survey estimates an hourly
+attorney fee of $447. Based on the
+estimated 4,914 small entity applicants
+that opt to not file a terminal disclaimer,
+the USPTO estimates cost savings of
+$549,140. Therefore, the total cost
+savings for those not filing a terminal
+disclaimer because of the proposed
+rulemaking is $1,384,520.
+Second, the preceding cost estimates
+are based on all Office actions
+containing at least one nonstatutory
+double patenting rejection, including
+Office actions containing at least one
+other rejection that is not a nonstatutory
+double patenting rejection. As stated
+above, the USPTO estimates that 7,020
+Office actions contain only a
+nonstatutory double patenting
+rejection(s). Thus, in 17,550
+(24,570¥7,020) Office actions, small
+entity applicants and patent owners
+would have to respond to at least one
+rejection that is not a nonstatutory
+double patenting rejection. It therefore
+follows that at least some portions of the
+annual costs in the preceding estimates
+for these 17,550 Office actions should be
+excluded as they would be attributed to
+responding to those other rejection(s).
+Thus, the total upper range of
+estimated cost to the 24,570 small entity
+applicants and patent owners impacted
+by this rule would be $24,413,980
+($25,798,500¥$1,384,520). The USPTO
+does not have the data to determine the
+distribution of this cost across the
+24,570 small entity applicants and
+patent owners that would be impacted
+by this rule. Thus, for purposes of this
+certification, the USPTO estimates an
+average of less than $1,000 in impact to
+the 24,570 small entities. However, as
+mentioned above, this estimate is likely
+to be overstated as some of that impact
+would be attributed to costs related to
+responding to a rejection that is not a
+nonstatutory double patenting rejection.
+For the foregoing reasons, the changes
+proposed in this rulemaking will not
+have a significant economic impact on
+a substantial number of small entities.
+C. Executive Order 12866 (Regulatory
+Planning and Review)
+This rulemaking has been determined
+to be not significant under Executive
+Order 12866 (September 30, 1993), as
+amended by Executive Order 14094
+(April 6, 2023).
+D. Executive Order 13563 (Improving
+Regulation and Regulatory Review)
+The USPTO has complied with
+Executive Order 13563 (January 18,
+2011). Specifically, and as discussed
+above, the USPTO has, to the extent
+feasible and applicable: (1) made a
+reasoned determination that the benefits
+justify the costs of the rule; (2) tailored
+the rule to impose the least burden on
+society consistent with obtaining the
+regulatory objectives; (3) selected a
+regulatory approach that maximizes net
+benefits; (4) specified performance
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00010 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40447
+objectives; (5) identified and assessed
+available alternatives; (6) involved the
+public in an open exchange of
+information and perspectives among
+experts in relevant disciplines, affected
+stakeholders in the private sector, and
+the public as a whole, and provided
+online access to the rulemaking docket;
+(7) attempted to promote coordination,
+simplification, and harmonization
+across government agencies and
+identified goals designed to promote
+innovation; (8) considered approaches
+that reduce burdens and maintain
+flexibility and freedom of choice for the
+public; and (9) ensured the objectivity of
+scientific and technological information
+and processes.
+E. Executive Order 13132 (Federalism)
+This rulemaking pertains strictly to
+Federal agency procedures and does not
+contain policies with federalism
+implications sufficient to warrant the
+preparation of a Federalism Assessment
+under Executive Order 13132 (August 4,
+1999).
+F. Executive Order 13175 (Tribal
+Consultation)
+This rulemaking will not: (1) have
+substantial direct effects on one or more
+Indian Tribes; (2) impose substantial
+direct compliance costs on Indian Tribal
+governments; or (3) preempt Tribal law.
+Therefore, a Tribal summary impact
+statement is not required under
+Executive Order 13175 (November 6,
+2000).
+G. Executive Order 13211 (Energy
+Effects)
+This rulemaking is not a significant
+energy action under Executive Order
+13211 because this rulemaking is not
+likely to have a significant adverse effect
+on the supply, distribution, or use of
+energy. Therefore, a Statement of Energy
+Effects is not required under Executive
+Order 13211 (May 18, 2001).
+H. Executive Order 12988 (Civil Justice
+Reform)
+This rulemaking meets applicable
+standards to minimize litigation,
+eliminate ambiguity, and reduce burden
+as set forth in sections 3(a) and 3(b)(2)
+of Executive Order 12988 (February 5,
+1996).
+I. Executive Order 13045 (Protection of
+Children)
+This rulemaking does not concern an
+environmental risk to health or safety
+that may disproportionately affect
+children under Executive Order 13045
+(April 21, 1997).
+J. Executive Order 12630 (Taking of
+Private Property)
+This rulemaking will not affect a
+taking of private property or otherwise
+have taking implications under
+Executive Order 12630 (March 15,
+1988).
+K. Congressional Review Act
+Under the Congressional Review Act
+provisions of the Small Business
+Regulatory Enforcement Fairness Act of
+1996 (5 U.S.C. 801 et seq.), prior to
+issuing any final rule, the USPTO will
+submit a report containing the final rule
+and other required information to the
+United States Senate, the United States
+House of Representatives, and the
+Comptroller General of the Government
+Accountability Office. The changes
+proposed in this rulemaking are not
+expected to result in an annual effect on
+the economy of $100 million or more; a
+major increase in costs or prices; or
+significant adverse effects on
+competition, employment, investment,
+productivity, innovation, or the ability
+of United States-based enterprises to
+compete with foreign-based enterprises
+in domestic and export markets.
+Therefore, this rulemaking is not
+expected to result in a ‘‘major rule’’ as
+defined in 5 U.S.C. 804(2).
+L. Unfunded Mandates Reform Act of
+1995
+The changes proposed in this
+rulemaking do not involve a Federal
+intergovernmental mandate that will
+result in the expenditure by State, local,
+and Tribal governments, in the
+aggregate, of $100 million (as adjusted)
+or more in any one year, or a Federal
+private sector mandate that will result
+in the expenditure by the private sector
+of $100 million (as adjusted) or more in
+any one year, and will not significantly
+or uniquely affect small governments.
+Therefore, no actions are necessary
+under the provisions of the Unfunded
+Mandates Reform Act of 1995. See 2
+U.S.C. 1501 et seq.
+M. National Environmental Policy Act of
+1969
+This rulemaking will not have any
+effect on the quality of the environment
+and is thus categorically excluded from
+review under the National
+Environmental Policy Act of 1969. See
+42 U.S.C. 4321 et seq.
+N. National Technology Transfer and
+Advancement Act of 1995
+The requirements of section 12(d) of
+the National Technology Transfer and
+Advancement Act of 1995 (15 U.S.C.
+272 note) are not applicable because this
+rulemaking does not contain provisions
+that involve the use of technical
+standards.
+O. Paperwork Reduction Act of 1995
+The Paperwork Reduction Act of 1995
+(44 U.S.C. 3501 et seq.) (PRA) requires
+that the USPTO consider the impact of
+paperwork and other information
+collection burdens imposed on the
+public. This rulemaking involves
+information collection requirements that
+are subject to review and approval by
+the Office of Management and Budget
+(OMB) under the Paperwork Reduction
+Act.
+This proposed rulemaking impacts
+the rules of practice pertaining to
+terminal disclaimers. The general
+provisions pertaining to terminal
+disclaimers have been reviewed and
+approved by the OMB under OMB
+control number 0651–0031 and are
+accounted for under the line item
+Statutory Disclaimers (including
+terminal disclaimers) as contained in
+0651–0031. In a 60-day notice published
+January 29, 2024 (89 FR 5500), for the
+renewal of 0651–0031, the USPTO
+provided estimates for this line item and
+those estimates appear below.
+Under this proposed rulemaking, the
+USPTO proposes to modify terminal
+disclaimers to include the additional
+agreement as discussed in the preamble.
+The USPTO estimates that
+approximately 20% of applicants and
+patent owners that are considering the
+filing of a terminal disclaimer to obviate
+nonstatutory double patenting will opt
+not to file a terminal disclaimer
+containing the proposed agreement, at
+least during an initial period after the
+effective date of the final rule.
+Therefore, the USPTO proposed
+estimates below take into account the
+anticipated 20% reduction in terminal
+disclaimer filings.
+The USPTO will be accounting for
+this impact in a proposed new
+information collection that has been
+submitted to the OMB. The proposed
+new information collection will reflect
+an estimated total decrease of 9,990
+respondents, 2,498 burden hours and
+$1,698,300 in filing fees with respect to
+terminal disclaimers, because some
+applicants and patent owners will
+choose not to file a terminal disclaimer
+with the proposed agreement. A
+summary of the change in burden to
+terminal disclaimers follows. The
+proposed new information collection
+will be available at the OMB’s
+Information Collection Review website
+(www.reginfo.gov/public/do/PRAMain).
+Estimated Data Published in the 60-
+day Notice for 0651–0031 (January 29,
+2024):
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00011 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+40448 Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules
+Estimated number of annual
+respondents for statutory disclaimers
+(including terminal disclaimers):
+49,950.
+Estimated number of annual
+responses for statutory disclaimers
+(including terminal disclaimers):
+49,950.
+Estimated total annual respondent
+burden hours for statutory disclaimers
+(including terminal disclaimers):
+12,488.
+Estimated total annual respondent
+hourly cost burden for statutory
+disclaimers (including terminal
+disclaimers): $5,582,136.
+Estimated total annual respondent
+non-hourly cost burden for statutory
+disclaimers (including terminal
+disclaimers): $8,491,500 in the form of
+filing fees.
+Proposed New Information Collection
+Associated with RIN 0651–AD76:
+OMB control number: 0651–NEW.
+Title of collection: Terminal
+disclaimers.
+Needs and uses: The changes under
+proposed § 1.321 on the filing of
+terminal disclaimers would be used by
+an owner (in whole or in part) of a
+patent or a patent to be granted to agree
+that the patent in which the terminal
+disclaimer is filed, or any patent granted
+on an application in which a terminal
+disclaimer is filed, will be enforceable
+only if the patent is not tied and has
+never been tied directly or indirectly to
+a patent by one or more terminal
+disclaimers filed to obviate nonstatutory
+double patenting in which: any claim
+has been finally held unpatentable or
+invalid as anticipated or obvious by a
+Federal court in a civil action or by the
+USPTO, and all appeal rights have been
+exhausted; or a statutory disclaimer of a
+claim is filed after any challenge based
+on anticipation or obviousness to that
+claim has been made.
+The changes would be used by the
+USPTO to ensure it does not issue a
+patent to a common owner or inventor
+with a claim that conflicts with a claim
+of a second patent, unless the terminal
+disclaimer includes the additional
+agreement that the patent with the
+terminal disclaimer will not be enforced
+if any claim of the second patent is
+invalidated by prior art.
+The changes would be used by the
+public to focus on addressing the
+validity of the claims of a single patent
+to resolve a dispute where there are
+multiple patents tied by terminal
+disclaimers.
+Impacted forms in this information
+collection:
+• PTO/AIA/25 (Terminal Disclaimer to
+Obviate a Provisional Double
+Patenting Rejection Over a Pending
+‘‘Reference’’ Application)
+• PTO/SB/25 (Terminal Disclaimer to
+Obviate a Provisional Double
+Patenting Rejection over a Pending
+Second Application)
+• PTO/SB/25a (Terminal Disclaimer in
+a Patent or Proceeding in view of an
+Application)
+• PTO/AIA/26 (Terminal Disclaimer to
+Obviate a Double Patenting Rejection
+Over a ‘‘Prior’’ Patent)
+• PTO/SB/26 (Terminal Disclaimer to
+Obviate a Double Patenting Rejection
+over a Prior Patent)
+• PTO/SB/26a (Terminal Disclaimer in
+a Patent or Proceeding in view of
+Another Patent)
+• PTO/AIA/63 (Terminal Disclaimer to
+Accompany Petition under 37 CFR
+1.137 in a Design Application Filed
+on or after September 16, 2012)
+• PTO/SB/63 (Terminal Disclosure to
+Accompany Petition)
+Type of review: New.
+Affected public: Private Sector.
+Respondent’s Obligation: Required to
+obtain or retain benefits.
+Frequency: On occasion.
+Estimated number of annual
+respondents for statutory disclaimers
+(including terminal disclaimers):
+39,960.
+Estimated number of annual
+responses for statutory disclaimers
+(including terminal disclaimers):
+39,960.
+Estimated total annual respondent
+burden hours for statutory disclaimers
+(including terminal disclaimers): 9,990.
+Estimated total annual respondent
+hourly cost burden for statutory
+disclaimers (including terminal
+disclaimers): $4,465,530.
+Estimated total annual respondent
+non-hourly cost burden for statutory
+disclaimers (including terminal
+disclaimers): $6,793,200 in the form of
+filing fees.
+The USPTO is soliciting public
+comments to:
+(a) evaluate whether the collection of
+information is necessary for the proper
+performance of the functions of the
+Agency, including whether the
+information will have practical utility;
+(b) evaluate the accuracy of the
+Agency’s estimate of the burden of the
+proposed collection of information;
+(c) enhance the quality, utility, and
+clarity of the information to be
+collected; and
+(d) minimize the burden of the
+collection of information on those who
+are to respond, including through the
+use of appropriate automated,
+electronic, mechanical, or other
+technological collection techniques or
+other forms of information technology,
+e.g., permitting the electronic
+submission of responses.
+Please submit comments on this new
+collection of information at
+www.reginfo.gov/public/do/PRAMain.
+Find this particular information
+collection by selecting ‘‘Currently under
+Review’’ or by using the search function
+and entering the title of the collection.
+Please send a copy of your comments to
+the USPTO using the method described
+under ADDRESSES at the beginning of
+this document.
+All comments submitted in response
+to this proposed rulemaking are a matter
+of public record. The USPTO will
+include or summarize the comments
+received in the request to the OMB to
+approve the new information collection
+requirements.
+Notwithstanding any other provision
+of law, no person is required to respond
+to nor shall a person be subject to a
+penalty for failure to comply with a
+collection of information subject to the
+requirements of the PRA unless that
+collection of information displays a
+currently valid OMB control number.
+P. E-Government Act Compliance
+The USPTO is committed to
+compliance with the E-Government Act
+to promote the use of the internet and
+other information technologies, to
+provide increased opportunities for
+citizen access to Government
+information and services, and for other
+purposes.
+List of Subjects in 37 CFR Part 1
+Administrative practice and
+procedure, Biologics, Courts, Freedom
+of information, Inventions and patents,
+Reporting and recordkeeping
+requirements, Small businesses.
+For the reasons stated in the
+preamble, the USPTO proposes to
+amend 37 CFR part 1 as follows:
+PART 1—RULES OF PRACTICE IN
+PATENT CASES
+■ 1. The authority citation for 37 CFR
+part 1 continues to read as follows:
+Authority: 35 U.S.C. 2(b)(2), unless
+otherwise noted.
+■ 2. Revise § 1.321 to read as follows:
+§ 1.321 Statutory disclaimers, including
+terminal disclaimers.
+(a) A patentee owning the whole or
+any sectional interest in a patent may
+disclaim any complete claim or claims
+in a patent. In like manner any patentee
+may disclaim or dedicate to the public
+the entire term, or any terminal part of
+the term, of the patent granted. Such
+disclaimer is binding upon the
+VerDate Sep<11>2014 18:55 May 09, 2024 Jkt 262001 PO 00000 Frm 00012 Fmt 4702 Sfmt 4702 E:\FR\FM\10MYP1.SGM 10MYP1
+khammond on DSKJM1Z7X2PROD with PROPOSALS
+Federal Register / Vol. 89, No. 92 / Friday, May 10, 2024 / Proposed Rules 40449
+disclaimant and its successors or
+assigns. A notice of the disclaimer is
+published in the Official Gazette and
+attached to the printed copies of the
+specification. The disclaimer, to be
+recorded in the Patent and Trademark
+Office, must:
+(1) Be signed by the patentee, or an
+attorney or agent of record;
+(2) Identify the patent and complete
+claim or claims, or term being
+disclaimed. A disclaimer which is not a
+disclaimer of a complete claim or
+claims, or term will be refused
+recordation;
+(3) State the present extent of the
+disclaimant’s ownership interest in the
+patent; and
+(4) Be accompanied by the fee set
+forth in § 1.20(d).
+(b) An applicant may disclaim or
+dedicate to the public the entire term, or
+any terminal part of the term, of a patent
+to be granted. Such terminal disclaimer
+is binding upon the disclaimant and its
+successors or assigns. The terminal
+disclaimer, to be recorded in the Patent
+and Trademark Office, must:
+(1)(i) For patent applications filed
+under 35 U.S.C. 111(a) or 363 on or after
+September 16, 2012, be signed by the
+applicant or an attorney or agent of
+record; or
+(ii) For patent applications filed under
+35 U.S.C. 111(a) or 363 before
+September 16, 2012, be signed:
+(A) By the applicant;
+(B) If there is an assignee of record of
+an undivided part interest, by the
+applicant and such assignee;
+(C) If there is an assignee of record of
+the entire interest, by such assignee; or
+(D) By an attorney or agent of record;
+(2) Specify the portion of the term of
+the patent being disclaimed;
+(3) State the present extent of the
+disclaimant’s ownership interest in the
+patent to be granted; and
+(4) Be accompanied by the fee set
+forth in § 1.20(d).
+(c) Except as provided for in
+paragraph (d) of this section, a terminal
+disclaimer, when filed in a patent, a
+reexamination proceeding, or a patent
+application to obviate nonstatutory
+double patenting of a claimed invention
+based on a reference patent or
+application, must:
+(1) Comply with the provisions of
+paragraphs (b)(2) through (4) of this
+section;
+(2) Be signed in accordance with
+paragraph (b)(1) of this section if filed
+in a patent application (the subject
+application) or in accordance with
+paragraph (a)(1) of this section if filed in
+a patent or in a reexamination
+proceeding (the subject patent); and
+(3) Include a provision agreeing that
+the subject patent or any patent granted
+on the subject application shall be
+enforceable:
+(i) Only for and during such period
+that the subject patent or any patent
+granted on the subject application is
+commonly owned with the reference
+patent or any patent granted on the
+reference application; and
+(ii) Only if the subject patent or any
+patent granted on the subject
+application is not tied and has never
+been tied directly or indirectly to a
+patent by one or more terminal
+disclaimers filed to obviate nonstatutory
+double patenting in which:
+(A) A claim has been finally held
+unpatentable or invalid under 35 U.S.C.
+102 or 103 in a Federal court in a civil
+action or at the USPTO, and all appeal
+rights have been exhausted; or
+(B) A statutory disclaimer of a claim
+is filed after any challenge based on 35
+U.S.C. 102 or 103 to that claim has been
+made.
+(d) A terminal disclaimer, when filed
+in a patent, a reexamination proceeding,
+or a patent application to obviate
+nonstatutory double patenting of a
+claimed invention based on a reference
+patent or application that is not
+commonly owned but was disqualified
+as prior art as set forth in either
+§ 1.104(c)(4)(ii) or (c)(5)(ii) as the result
+of activities undertaken within the
+scope of a joint research agreement,
+must:
+(1) Comply with the provisions of
+paragraphs (b)(2) through (4) of this
+section;
+(2) Be signed in accordance with
+paragraph (b)(1) of this section if filed
+in a patent application (the subject
+application) or be signed in accordance
+with paragraph (a)(1) of this section if
+filed in a patent or in a reexamination
+proceeding (the subject patent); and
+(3) Include a provision waiving the
+right to separately enforce the subject
+patent or any patent granted on the
+subject application and the reference
+patent or any patent granted on the
+reference application, and agreeing that
+the subject patent or any patent granted
+on the subject application shall be
+enforceable:
+(i) Only for and during such period
+that the subject patent or any patent
+granted on the subject application and
+the reference patent or any patent
+granted on the reference application are
+not separately enforced; and
+(ii) Only if the subject patent or any
+patent granted on the subject
+application is not tied and has never
+been tied directly or indirectly to a
+patent by one or more terminal
+disclaimers filed to obviate nonstatutory
+double patenting in which:
+(A) A claim has been finally held
+unpatentable or invalid under 35 U.S.C.
+102 or 103 in a Federal court in a civil
+action or at the USPTO, and all appeal
+rights have been exhausted; or
+(B) A statutory disclaimer of a claim
+is filed after any challenge based on 35
+U.S.C. 102 or 103 to that claim has been
+made.
+Katherine K. Vidal,
+Under Secretary of Commerce for Intellectual
+Property and Director of the United States
+Patent and Trademark Office.
+[FR Doc. 2024–10166 Filed 5–9–24; 8:45 am]
+BILLING CODE 3510–16–P

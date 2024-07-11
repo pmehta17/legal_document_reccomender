@@ -1,0 +1,1767 @@
+This section of the FEDERAL REGISTER
+contains notices to the public of the proposed
+issuance of rules and regulations. The
+purpose of these notices is to give interested
+persons an opportunity to participate in the
+rule making prior to the adoption of the final
+rules.
+Proposed Rules Federal Register
+48339
+Vol. 89, No. 110
+Thursday, June 6, 2024
+1For more information on H–1B nonimmigrant
+classification, see U.S. Citizenship and Immigration
+Services (USCIS), H–1B Specialty Occupations,
+DOD Cooperative Research and Development
+Project Workers, and Fashion Models, https://
+www.uscis.gov/working-in-the-united-states/h-1bspecialty-occupations. For more information on L–
+1 nonimmigrant classification, see USCIS, L–1A
+Intracompany Transferee Executive or Manager,
+https://www.uscis.gov/working-in-the-united-states/
+temporary-workers/l-1a-intracompany-transfereeexecutive-or-manager; and USCIS, L–1B
+Intracompany Transferee Specialized Knowledge,
+https://www.uscis.gov/working-in-the-united-states/
+temporary-workers/l-1b-intracompany-transfereespecialized-knowledge.
+DEPARTMENT OF HOMELAND
+SECURITY
+U.S. Customs and Border Protection
+8 CFR Part 106
+[Docket No. USCBP–2024–0009]
+RIN 1651–AB48
+9–11 Response and Biometric EntryExit Fee for H–1B and L–1 Visas
+AGENCY: U.S. Customs and Border
+Protection, Department of Homeland
+Security.
+ACTION: Notice of proposed rulemaking.
+SUMMARY: The Department of Homeland
+Security (DHS) proposes to amend and
+clarify the regulations concerning the 9–
+11 Response & Biometric Entry-Exit Fee
+for H–1B and L–1 Visas (9–11 Biometric
+Fee). The proposed regulatory changes
+would clarify DHS’s interpretation of
+ambiguous statutory language to require
+that covered employers submit the 9–11
+Biometric Fee for all extension-of-stay
+petitions, regardless of whether a Fraud
+Fee applies, so as to include extensionof-stay petitions that do not involve a
+change of employer. The 9–11 Biometric
+Fee would continue to apply unchanged
+to petitions seeking an initial grant of
+status. The proposed changes will also
+help DHS comply with its congressional
+mandate to implement a biometric
+entry-exit data system.
+DATES: Comments must be received by
+July 8, 2024.
+ADDRESSES: Please submit comments,
+identified by docket number, by the
+following method:
+• Federal eRulemaking Portal: http://
+www.regulations.gov. Follow the
+instructions for submitting comments
+via docket number USCBP–2023–XXXX.
+Instructions: All submissions received
+must include the agency name and
+docket number for this rulemaking. All
+comments received will be posted
+without change to http://
+www.regulations.gov, including any
+personal information provided. For
+detailed instructions on submitting
+comments and additional information
+on the rulemaking process, see the
+‘‘Public Participation’’ heading of the
+SUPPLEMENTARY INFORMATION section of
+this document.
+Docket: For access to the docket to
+read background documents or
+comments received, go to http://
+www.regulations.gov.
+FOR FURTHER INFORMATION CONTACT:
+Larry Panetta, Office of Field
+Operations, U.S. Customs and Border
+Protection, by phone at 202–344–1253
+or email at LARRY.A.PANETTA@
+CBP.DHS.GOV.
+SUPPLEMENTARY INFORMATION:
+I. Public Participation
+Interested persons are invited to
+participate in this rulemaking by
+submitting written data, views, or
+arguments on all aspects of the notice of
+proposed rulemaking. The Department
+of Homeland Security (DHS) and U.S.
+Customs and Border Protection (CBP)
+also invite comments that relate to the
+economic, environmental, or federalism
+effects that might result from this
+proposal.
+Comments that will provide the most
+assistance to DHS and CBP in
+developing these procedures will
+reference a specific portion of the
+proposed rule, explain the reason for
+any recommended change, and include
+data, information, or authority that
+support such recommended change.
+Comments should be submitted through
+the Federal eRulemaking Portal.
+II. Background
+A. Statutory Authorization and History
+1. Initial Supplemental H–1B and L–1
+Fee
+H–1B and L–1 classifications are
+temporary nonimmigrant worker
+classifications. H–1B and L–1
+classifications are authorized under
+sections 101(a)(15)(H)(i)(b) and (L),
+respectively, of the Immigration and
+Nationality Act (INA), as amended (8
+U.S.C. 1101(a)(15)(H)(i)(b), (L)). H–1B
+status is a nonimmigrant classification
+for noncitizens who work in certain
+specialty services or occupations. L–1
+status allows companies to seek a
+temporary intracompany transfer of
+certain noncitizen employees who
+perform executive or managerial
+functions or have specialized
+knowledge.1
+In 2010, Congress established a
+supplemental fee for certain employers
+petitioning for beneficiaries to obtain H–
+1B or L–1 status (2010 Supplemental
+Fee). See section 402 of the Act of
+August 13, 2010, Public Law 111–230,
+124 Stat. 2485, 2487 (Pub. L. 111–230)
+(8 U.S.C. 1101 note). The 2010
+Supplemental Fee applied to employers
+that employ 50 or more employees in
+the United States with more than 50
+percent of the employees in the United
+States in H–1B or L–1 nonimmigrant
+status (covered employers). Sec. 402,
+Public Law 111–230. The statute
+required covered employers to pay an
+increase to ‘‘the filing fee and fraud
+prevention and detection fee’’ in the
+amount of $2,000 or $2,250 for H–1B or
+L–1 petitions, respectively. Sec. 402,
+Public Law 111–230.
+The statutory language in Public Law
+111–230 required covered employers to
+pay the 2010 Supplemental Fee at the
+time that a fraud detection and
+prevention fee (Fraud Fee) is collected.
+Sec. 402, Public Law 111–230. The $500
+Fraud Fee is established under separate
+statutory authority. See sec. 426(a) of
+the H–1B Visa Reform Act of 2004,
+Public Law 108–447, 118 Stat. 2809,
+3357 (the 2004 H–1B Visa Reform Act)
+(8 U.S.C. 1184(c)(12)(A), section
+214(c)(12)(A) of the INA). Pursuant to
+section 426(b) of the 2004 H–1B Visa
+Reform Act, the Department of State, in
+collaboration with DHS and the
+Department of Labor, uses Fraud Fee
+collections to combat fraud in
+immigration processes. 8 U.S.C.
+1356(v)(2), section 286(v)(2) of the INA.
+With limited exceptions, the statute
+requires employers to pay the Fraud Fee
+when petitioning for an initial grant of
+H–1B or L–1 nonimmigrant status or for
+change of employer petitions for
+beneficiaries already in H–1B or L–1
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00001 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+48340 Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules
+2See sec. 402, Public Law 111–230, (establishing
+the initial sunset date for the 2010 Supplemental
+Fee as September 30, 2014), as amended by sec. 302
+of the James Zadroga 9/11 Health and
+Compensation Act of 2010, Public Law 111–347,
+124 Stat. 3623, 3667 (extending the sunset date to
+September 30, 2015).
+3The 9–11 Biometric Fee is a fee related to
+petitions for H–1B and L–1 classification and is
+discussed in those terms in this proposed
+rulemaking. Although not all those seeking H–1B
+and L–1 classification are required to obtain a visa,
+the headings in the statute refer to temporary fee
+increases for H–1B and L–1 visas, and consequently
+the headings in the implementing regulations refer
+to fees for H–1B and L–1 visas. Accordingly, the
+subject heading of this document and the proposed
+regulatory headings also refer to fees for H–1B and
+L–1 visas.
+4See sec. 411 of the Homeland Security Act of
+2002, as amended by sec. 802 of the Trade
+Facilitation and Trade Enforcement Act of 2015,
+Public Law 114–125, 130 Stat. 122, 199 (HSA) (6
+U.S.C. 211); secs. 215.8 and 235.1 of title 8 of the
+Code of Federal Regulations (8 CFR 215.8 and
+235.1).
+5See sec. 402(g), Public Law 114–113
+(establishing the initial sunset date for the 9–11
+Biometric Fee as September 30, 2025), as amended
+by sec. 30203(b) of the Bipartisan Budget Act of
+2018, Public Law 115–123, 132 Stat. 64, 126
+(extending this date to September 30, 2027).
+6See Immigrant Legal Res. Ctr. v. Wolf, 491 F.
+Supp. 3d 520 (N.D. Cal. Sept. 29, 2020) (granting
+plaintiffs’ motion to enjoin the 2020 Fee Rule in its
+entirety by finding plaintiffs met initial burden to
+show then-Acting Secretary of DHS Chad Wolf
+lacked authority to approve the 2020 Fee Rule and
+further that the 2020 Fee Rule violated procedural
+and substantive requirements under the
+Administrative Procedure Act in adopting certain
+asylum- and naturalization-related new fees, fee
+increases, and fee waiver reductions); see also Nw.
+Immigrant Rts. Project v. U.S. Citizenship & Immigr.
+Servs., 496 F. Supp. 3d 31 (D.D.C. Oct. 8, 2020)
+(granting plaintiffs’ motion for preliminary
+injunction challenging the fee increases, new fees,
+and fee waiver reductions adopted in the 2020 Fee
+Rule on similar grounds).
+status. See sec. 426(a) of the 2004 H–1B
+Visa Reform Act.
+Although Public Law 111–230 could
+reasonably be considered as ambiguous
+because, among other things, it was not
+clear whether the increased fee applied
+once per covered petition or twice, that
+is, as an increase to the petition fee and
+separately as an increase to the Fraud
+Fee, DHS interpreted the 2010
+Supplemental Fee to apply only once
+per covered petition and only when the
+Fraud Fee applied. Accordingly, DHS
+implemented regulations applying the
+2010 Supplemental Fee to petitions
+subject to the Fraud Fee seeking initial
+grants of H–1B or L–1 status and change
+of employer petitions for beneficiaries
+already in H–1B or L–1 status,
+consistent with applicability of the
+Fraud Fee. See 76 FR 53764, 53768,
+53781. The 2010 Supplemental Fee
+sunset on September 30, 2015, after an
+extension by Congress.2
+2. 9–11 Response and Biometric EntryExit Fee
+On December 18, 2015, Congress
+established the ‘‘9–11 Response and
+Biometric Entry-Exit Fee’’ for certain H–
+1B and L–1 petitions (9–11 Biometric
+Fee). See Consolidated Appropriations
+Act, 2016, Div. O, sec. 402(g), Public
+Law 114–113, 129 Stat. 2242, 3006 (Pub.
+L. 114–113) (49 U.S.C. 40101 note).3
+Public Law 114–113 instated the 9–11
+Biometric Fee after the 2010
+Supplemental Fee expired. The amount
+of the 2010 Supplemental Fee was
+doubled for the 9–11 Biometric Fee to
+be $4,000 and $4,500 for H–1B and L–
+1 petitions, respectively. Id. At the same
+time, Congress also established the 9–11
+Response and Biometric Exit Account
+(9–11 Biometric Account), into which
+50 percent of the funds from the 9–11
+Biometric Fee collections are deposited,
+up to $1 billion. Id. DHS may use the
+funds available in the 9–11 Biometric
+Account to implement the biometric
+entry and exit data system required by
+section 7208 of the Intelligence Reform
+and Terrorism Prevention Act of 2004,
+Public Law 108–458, 118 Stat. 3638,
+3817 (IRTPA), (8 U.S.C. 1365b). Sec.
+402(g), Public Law 114–113. Section
+7208 of the IRTPA (8 U.S.C. 1365b),
+adopting recommendations by the
+National Commission on Terrorist
+Attacks Upon the United States (also
+known as the 9/11 Commission),
+requires DHS to implement a biometric
+entry-exit system that uses biometric
+data to confirm the identity of travelers
+entering and exiting the United States.
+As the DHS component responsible for
+controlling the border and monitoring
+the arrival and departure of U.S. citizens
+and noncitizens, CBP implements
+biometric operations in the land, sea,
+and air environments.4 Pursuant to
+congressional extension, the 9–11
+Biometric Fee is currently set to expire
+on September 30, 2027.5
+The statutory language establishing
+the 9–11 Biometric Fee is similar to that
+of Public Law 111–230. However, Public
+Law 114–113 has two important
+distinctions, beyond the increased fee
+amounts. First, Congress added the
+word ‘‘combined,’’ thereby resolving a
+potential ambiguity that existed in
+Public Law 111–230 and clarifying that
+the fee increase served as a single fee
+increase rather than as separate fee
+increases to both the filing fee and the
+Fraud Fee. Sec. 402(g), Public Law 114–
+113. Second, with respect to the types
+of petitions for which the fees must be
+submitted, Congress inserted the phrase
+‘‘including an application for an
+extension of such status.’’ Id. This
+addition clarified that the 9–11
+Biometric Fee is required for both
+petitions seeking an initial grant of
+status and extension-of-stay petitions.
+B. Prior DHS Rulemaking Addressing
+the 9–11 Biometric Fee
+Although the statutory changes
+discussed above clarified some of the
+ambiguous language in Public Law 111–
+230, the new legislation, Public Law
+114–113, could still be reasonably
+considered ambiguous concerning the
+issue of whether covered employers
+filing extension-of-stay petitions must
+pay the 9–11 Biometric Fee for all
+extension petitions or only those
+involving a change in employer. At the
+time that the 9–11 Biometric Fee was
+established in 2015, DHS interpreted the
+new language in Public Law 114–113
+consistent with its prior interpretation;
+that is, the 9–11 Biometric Fee only
+applies when the Fraud Fee also
+applies. Accordingly, DHS implemented
+regulations in a final rule published on
+October 24, 2016 (2016 Fee Rule) that
+set forth its interpretation. See 81 FR
+73292.
+In the years following the 2016 Fee
+Rule, DHS monitored the collection of
+the 9–11 Biometric Fee and evaluated
+other permissible interpretations of the
+ambiguous statutory language in Public
+Law 114–113. After careful
+consideration, on November 14, 2019,
+DHS proposed an interpretation
+expanding the circumstances in which
+the 9–11 Biometric Fee would apply
+(2019 Fee NPRM), as well as proposing
+numerous other changes related to fees
+collected by DHS. 84 FR 62280. DHS
+received several comments on the 2019
+Fee NPRM opposing the proposed 9–11
+Biometric Fee. After considering the
+comments, on August 3, 2020, DHS
+adopted the 9–11 Biometric Fee
+interpretation that would require the
+additional fee for all H–1B or L–1
+extension of stay petitions filed by
+covered employers, among other
+changes, in a Final Rule (2020 Fee
+Rule). See 85 FR 46788. For additional
+information on the comments and DHS’
+responses, see the 2020 Fee rule at 85
+FR 46866. However, before the 2020 Fee
+Rule could go into effect, it was
+enjoined in its entirety during the
+course of litigation unrelated to the 9–
+11 Biometric Fee.6 Accordingly, DHS
+never changed its collection practices
+regarding the 9–11 Biometric Fee and
+currently collects the 9–11 Biometric
+Fee only for petitions filed by covered
+employers seeking initial grants of H–1B
+or L–1 status or change of employer
+petitions filed by covered employers for
+beneficiaries already in H–1B or L–1
+status, including change of employer
+petitions requesting an extension of
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00002 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules 48341
+7Although the 2020 Fee Rule was enjoined prior
+to its effective date, the regulatory language at 8
+CFR 106.2(c)(8)–(9) was revised in 2020 to reflect
+the changes adopted in the 2020 Fee Rule. 85 FR
+46788. On January 31, 2024, DHS published a final
+rule replacing the language at 8 CFR 106.2(c)(8)–(9)
+with the pre-2020 Fee Rule version of the
+regulations in order to align the regulations with
+DHS practice in light of the injunction on the 2020
+Fee Rule (2024 Final Rule). 89 FR 6194. In the 2024
+Final Rule, DHS noted that the 9–11 Biometric Fee
+may be the subject of a future rulemaking. Id at
+6240.
+8Section 402(g) of Public Law 114–113 provides
+that DHS may draw from the 9–11 Biometric
+Account to implement the biometric entry-exit data
+system as required by Congress. DHS directs these
+funds to CBP because CBP is the agency ultimately
+responsible for implementing the biometric entryexit data system. See secs. 411(c)(10), (g)(3) of the
+HSA (6 U.S.C. 211(c)(10), (g)(3)); sec. 7208 of the
+IRTPA (8 U.S.C. 1365b).
+9See CBP, DHS/CBP/PIA–056, Privacy Impact
+Assessment for the Traveler Verification Service 1
+(Nov. 14, 2018), https://www.dhs.gov/sites/default/
+files/publications/privacy-pia-cbp056-tvsfebruary2021.pdf.
+10See CBP, DHS/CBP/PIA–056, Privacy Impact
+Assessment for the Traveler Verification Service 4
+(Nov. 14, 2018), https://www.dhs.gov/sites/default/
+files/publications/privacy-pia-cbp056-tvsfebruary2021.pdf. See id. at 4.
+11See id. at 6; CBP, Traveler Verification Service
+for Simplified Travel (2018), https://www.cbp.gov/
+sites/default/files/assets/documents/2018-Aug/
+Traveler_Verification_Service_For_Simplified_
+Travel3.pdf.
+12See CBP, DHS/CBP/PIA–056, Privacy Impact
+Assessment for the Traveler Verification Service 16
+(Nov. 14, 2018), https://www.dhs.gov/sites/default/
+files/publications/privacy-pia-cbp056-tvsfebruary2021.pdf. 13 Imposter and overstay numbers are tracked
+internally by CBP and not published publicly. This
+information is based on information provided by
+CBP’s Office of Field Operations via email on
+September 12, 2023. Partial overstay numbers are
+reported in DHS’s Entry/Exit Overstay Reports,
+available at https://www.dhs.gov/publication/
+entryexit-overstay-report.
+14For more information on CBP’s biometrics
+program, please visit CBP’s website at https://
+biometrics.cbp.gov.
+such status, but not for other extension
+of stay requests.7
+III. Purpose of 9–11 Biometric Fee and
+Need for Rulemaking
+A. The Purpose of the 9–11 Biometric
+Fee
+In Public Law 114–113, Congress
+expressly intended for the 9–11
+Biometric Fee to fund the biometric
+entry and exit programs it mandated
+earlier in order to improve security,
+combat visa and travel document fraud,
+and protect our country against
+terrorism. As discussed above, Congress
+enacted the IRTPA in 2004 and
+implemented recommendations made
+by the 9/11 Commission. See Tit. VII of
+the IRTPA. Section 7208 of the IRTPA
+(8 U.S.C. 1365b) requires DHS to
+implement a biometric entry and exit
+data system. Congress expressed in the
+IRTPA that a biometric entry-exit data
+system is ‘‘an essential investment in
+efforts to protect the United States by
+preventing the entry of terrorists.’’ Sec.
+7208(a) of the IRTPA (8 U.S.C.
+1365b(a)). Moreover, the IRTPA
+explicitly highlights certain goals for
+DHS and the biometric entry-exit system
+in addition to serving as a vital
+counterterrorism mechanism, which
+include efficiently screening travelers,
+integrating and modifying relevant
+databases to address increased volume
+and usage, and improving database
+search capacities. Sec. 7208(h) of the
+IRTPA (8 U.S.C. 1365b(h)).
+In 2015, Congress established the 9–
+11 Biometric Account for the purpose of
+funding the biometric entry-exit system
+that Congress mandated in the IRTPA.
+Sec. 402(g), Public Law 114–113.
+Congress also implemented the 9–11
+Biometric Fee, which replaced and
+doubled the expired 2010 Supplemental
+Fee, in order to fund the 9–11 Biometric
+Account and, by extension, DHS’s
+biometric entry-exit data system. DHS
+believes the interpretation of Public Law
+114–113 proposed in this rulemaking
+would better align the regulations with
+legislative intent and better enable DHS
+to meet its congressional mandates.
+CBP is the primary DHS component
+responsible for implementing an
+integrated, automated entry-exit system
+that matches the biographic data and
+biometric information of noncitizens
+entering and departing the United States
+at land, sea, and air points of entry. See
+sec. 411(c)(10) of the HSA (6 U.S.C.
+211(c)(10)); sec. 7208 of the IRTPA (8
+U.S.C. 1365b). Pursuant to CBP’s
+mission to control the border and
+regulate the arrival and departure of
+both U.S. citizens and noncitizens, CBP
+has the authority to confirm the identity
+of all travelers and verify that the
+travelers are the authorized bearers of
+their travel documents. See sec. 411 of
+the HSA (6 U.S.C. 211); and 8 CFR
+235.1. An integrated biometric entryexit system has provided the most
+accurate way to verify an individual’s
+identity. By operating these systems,
+CBP can therefore improve security and
+effectively combat attempts by terrorists
+who use false travel documents to
+circumvent border checkpoints. Further,
+biometrically verifying that a person
+who presents a travel document is the
+true bearer of that document helps to
+prevent visa and immigration fraud and
+the fraudulent use of legitimate travel
+documentation.
+The funding that DHS receives from
+the 9–11 Biometric Account supports
+critical biometric entry-exit operations
+in the land, sea, and air entry
+environments that are ongoing and must
+be sustained in order to continue their
+use.8 Specifically, the 9–11 Biometric
+Account buttresses the development,
+operations, and maintenance of the
+Traveler Verification Service (TVS).9
+TVS is the facial comparison matching
+service that serves as the backbone of
+CBP’s biometric entry-exit data
+system.10 TVS effectively and efficiently
+matches passengers to the travel
+documents they present to CBP.11
+Maintaining TVS enables CBP to
+continue preserving the United States’
+crucial health, operational, and national
+security interests.12
+DHS’s biometric entry-exit data
+system also directly and positively
+affects the travel industry by restoring
+consumer confidence in travel safety.
+Using biometric technology, air and sea
+partners can facilitate check-in, security,
+and boarding processes that historically
+involved long lines, heavy personal
+interaction, and frequent handling of
+travel documents. The implementation
+of biometric technology, namely facial
+comparison, in all travel environments
+encourages contactless travel that
+involves minimal physical contact,
+which is more efficient and increases
+the safety of travelers, CBP officers, and
+port personnel.
+In addition to streamlining travel and
+restoring consumer confidence, the use
+of facial biometric matching protects the
+identity of travelers and provides
+another layer of security. TVS reduces
+the number of times that travelers must
+show their travel documents, which
+contain personally identifiable
+information, to government and carrier
+personnel throughout both entry and
+exit processes. The use of facial
+biometric matching has also proven to
+be an effective tool in combatting the
+use of stolen and fraudulent travel and
+identity documents. Since the program’s
+inception in 2018, CBP officers at U.S.
+airports have successfully intercepted
+77 impostors who were denied
+admission to the United States and
+identified 1,806 imposters on arrival in
+the land pedestrian environment.
+Further, since June 2017 through
+December 5, 2023, DHS has confirmed
+over 304,004 overstays through the use
+of facial biometric matching at exit.13
+DHS’s current biometric entry-exit
+operations have proven successful in
+enhancing national security and public
+safety.14 Ultimately, lack of adequate
+funding poses a dire threat to DHS’s
+mission, CBP officers, and public safety.
+Without the proposed regulatory
+changes to the collection of the 9–11
+Biometrics Fee, DHS cannot maintain its
+current biometric entry operations or
+continue implementing other essential
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00003 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+48342 Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules
+15 ‘‘Covered employers’’ are those employers with
+more than 50 employees in the United States and
+where more than 50 percent of the employees in the
+United States are in H–1B or L–1 nonimmigrant
+status. Sec. 420(g), Public Law 114–113.
+16See USCIS, Fee Increase for Certain H–1B and
+L–1 Petitions (Pub. L. 114–113), https://
+www.uscis.gov/working-in-the-united-states/
+temporary-workers/h-1b-specialty-occupations-andfashion-models/fee-increase-for-certain-h-1b-and-l1-petitions-public-law-114-113.
+17 Individual L–1 petitions (Form I–129S) filed on
+the basis of a previously approved ‘‘blanket L’’
+petition are currently subject to the Fraud Fee and,
+by extension, the 9–11 Biometric Fee. USCIS
+already considers this a change of employer, even
+if the petitioner is covered under the same ‘‘blanket
+L’’ approval as the previous petitioner. Therefore,
+the proposed changes will not alter current USCIS
+practice in this regard.
+18 Due to limitations in available data, similar
+calculations are not available for L–1 petitions.
+entry and exit programs. Failure to
+maintain or continue implementing
+DHS’s biometric entry and exit
+operations increases risks to security
+vulnerabilities, interoperability and data
+management issues, cyber resilience in
+the event of a cyberattack from criminal
+hackers, system availability and
+reliability, and system scalability to
+meet the demands of travel partners.
+The 9–11 Biometric Fee is essential to
+funding these biometric entry-exit
+programs, and the regulations proposed
+will directly support DHS’s fulfilment of
+its congressional mandates.
+B. Need for Rulemaking
+DHS must interpret ambiguous
+statutory language to implement the
+responsibilities that Congress has
+assigned to the agency. The language in
+Public Law 114–113 establishing the 9–
+11 Biometric Fee is ambiguous
+regarding the fee’s applicability to
+extension-of-stay petitions. DHS must
+therefore resolve the statutory ambiguity
+to determine whether the 9–11
+Biometric Fee applies to all extensionof-stay petitions by covered
+employers.15 As discussed above, Public
+Law 114–113 established the 9–11
+Biometric Fee by again enacting and
+doubling the 2010 Supplemental Fee to
+be $4,000 for H–1B petitions and $4,500
+for L–1 petitions. Congress also added
+new phrasing in two pertinent places
+that guided the Department’s proposed
+interpretation: ‘‘. . . the combined filing
+fee and [Fraud Fee] required to be
+submitted with an application for
+admission [as an H–1B or L
+nonimmigrant], including an
+application for an extension of such
+status, shall be increased.’’ Sec. 402(g),
+Public Law 114–113 (emphasis added).
+Previously, DHS had to determine
+whether the 9–11 Biometric Fee applies
+to all extension petitions by covered
+employers or just those for which the
+Fraud Fee is also charged (change of
+employer petitions for a beneficiary
+already in H–1B or L–1 status, including
+a change of employer petition that
+requests an extension of such status). In
+2016, DHS interpreted the 9–11
+Biometric Fee to apply only when the
+Fraud Fee also applied. 81 FR 73292. In
+2019, DHS considered that applying the
+9–11 Biometric Fee to all extension
+petitions would be a significant new
+substantive expansion of the 9–11
+Biometric Fee compared to the
+interpretation that DHS adopted from
+2010–2015 for the 2010 Supplemental
+Fee. At that time, DHS considered the
+latter reading would be consistent with
+the scope of the 2010 Supplemental Fee
+(although in the higher amounts
+provided by Pub. L. 114–113). See 2019
+Fee NRPM, 84 FR 62280, 62322.
+The construction of the statutory
+ambiguity in Public Law 114–113 that
+DHS adopted in 2016 was not, however,
+the only reasonable one. Another
+reasonable interpretation of that statute
+is that the 9–11 Biometric Fee applies to
+all extension of stay petitions even
+when the Fraud Fee is not applicable.
+Under this alternative interpretation of
+Public Law 114–113, the language
+‘‘including an application for an
+extension of such status’’ is a
+substantive amendment, and the
+insertion of the word ‘‘combined’’ is a
+clarifying one. It is plausible that
+Congress added the reference to
+extension of status so that the 9–11
+Biometric Fee would be collected for all
+extension of stay petitions, not just
+those where a change of employer is
+also requested. Under this
+interpretation, the insertion of the word
+‘‘combined’’ can be viewed as a
+clarifying edit that the increase to the
+fee is applied only once per petition and
+not once for the filing fee and once for
+the Fraud Fee such that it might apply
+two times for some petitions. In that
+case, a covered employer would pay the
+filing fee plus the Fraud Fee plus the
+applicable 9–11 Biometric Fee ($4,000
+for H–1B petitions or $4,500 for L–1
+petitions). When the Fraud Fee does not
+apply, the ‘‘combined filing fee and
+[Fraud Fee]’’ is simply the filing fee plus
+$0, such that covered employers would
+pay the filing fee + $0 for the Fraud Fee
++ the applicable 9–11 Biometric Fee.
+This interpretation would give meaning
+to all of Congress’s alterations to the
+earlier statute.
+Following the passage of Public Law
+114–113, DHS considered alternative
+interpretations of the ambiguous
+language, but ultimately decided, at that
+time, to maintain its earlier
+interpretation, that the 9–11 Biometric
+Fee applies only when the Fraud Fee
+applies. DHS internally noted that
+alternative interpretations were also
+reasonable but chose to maintain the
+status quo for that time while internally
+reviewing alternative interpretations.
+See 2019 Fee NRPM, 84 FR 62280,
+62322. DHS has reexamined this matter
+and believes that its alternative
+interpretation of Public Law 114–113,
+proposed here, is more consistent with
+the goal of the statute to ensure
+employers that employ a substantial
+number of H–1B or L–1 nonimmigrant
+workers pay an additional fee by making
+the 9–11 Biometric Fee applicable to all
+petitions by covered employers,
+regardless of whether or not the Fraud
+Fee also applies. In other words, the 9–
+11 Biometric Fee should apply to all H–
+1B or L–1 petitions filed by covered
+employers seeking initial classification
+of a beneficiary as an H–1B or L–1
+nonimmigrant or an extension of stay
+for those already in such status,
+irrespective whether the extension of
+stay request is for a change of covered
+employers or for the purpose of
+remaining employed with the original
+covered employer.
+In addition to putting forth a
+permissible interpretation of Public Law
+114–113, DHS is also affirming that the
+interpretation in this rulemaking more
+closely aligns with Congress’s objective
+to require an additional fee for covered
+employers, who by definition rely on H–
+1B and L–1 nonimmigrants for 50
+percent of their workforce.16
+Accordingly, a reasonable interpretation
+of Public Law 114–113 is that Congress
+intended for covered employers to pay
+the 9–11 Biometric Fee even when the
+beneficiaries remain with the same
+employer. Without this proposed
+change, covered employers can avoid
+paying the 9–11 Biometric Fee while
+employing a substantial number of H–
+1B and L–1 nonimmigrants as long as
+the beneficiary remains employed by
+the same covered employer.17 The
+ability of these petitioners to avoid
+paying the 9–11 fee entirely in some
+cases would appear to be against the
+Congressional intent in establishing
+these fees. From fiscal year 2018 to
+fiscal year 2022, 29 percent of all H–1B
+petitions were subject to the 9–11
+Biometric Fee. Had this rule been in
+effect for that same time period, the
+percentage of H–1B petitions that would
+have been subject to the 9–11 Biometric
+Fee would have been 84 percent of all
+H–1B petitions.18
+Significantly, a delay in this
+additional funding will continue to
+jeopardize CBP’s ability to meet its
+congressional mandate to enhance
+national security by deploying a fully
+integrated biometric entry-exit data
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00004 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules 48343
+19Since 2004, DHS has worked to develop and
+implement a comprehensive biometric entry and
+exit data system as required by section 7208 of the
+IRTPA. See, e.g., Implementation of the United
+States Visitor and Immigrant Status Indicator
+Technology Program (‘‘US–VISIT’’); Biometric
+Requirements, 69 FR 468 (Jan. 5, 2004). Additional
+resources discussing DHS’s plans to enhance
+biometric operations are DHS’s annual Entry/Exit
+Overstay Reports, available at https://www.dhs.gov/
+publication/entryexit-overstay-report.
+20See Congressional Budget Office, Cost Estimate
+on H.R. 2029, Amendment #1 (2016 Omnibus)
+Table 3 (Dec. 16, 2015), https://www.cbo.gov/sites/
+default/files/114th-congress-2015-2016/
+costestimate/hr2029amendment1divisionsa.pdf.
+21FY 2018–2021 data are based on data provided
+by USCIS via email between 11/30/2021 and 12/21/
+2021.
+22FY 2018–2021 data are based on data provided
+by USCIS via email between 11/30/2021 and 12/21/
+2021. The collection totals for FYs 2020 and 2021
+were $72 million and $57 million, respectively.
+DHS recognizes the impact COVID–19 had on
+collection totals during this time frame but
+emphasizes that collection totals fell short of
+estimated collections prior to the COVID–19
+pandemic.
+23As stated previously, 8 CFR part 106 and the
+other regulatory changes in the 2020 Fee Rule have
+been codified although DHS is enjoined from
+implementing or enforcing them and is still
+charging the fees as set forth in 8 CFR 103.7(b)(1)
+as they existed prior to the 2020 Fee Rule. DHS is
+proposing in this rule to replace the enjoined
+provisions at 8 CFR 106.2(c)(7) and (8) pertaining
+to the 9–11 Biometric Fees. The 9–11 Biometric Fee
+provisions are proposed at 8 CFR 106.2(c)(8) and (9)
+in the 2023 Fee NPRM, and so are proposed as such
+here.
+24 ‘‘Covered employers’’ are those employers with
+more than 50 employees in the United States and
+where more than 50 percent of the employees in the
+United States are in H–1B or L–1 nonimmigrant
+status. Sec. 402(g), Public Law 114–113.
+system. Without additional funding,
+CBP will be unable to maintain its
+current biometric entry operations, as
+well as ensure that TVS continues to be
+available to CBP and external
+stakeholders. CBP will also be unable to
+expand biometric confirmation to
+additional sea and land modalities at
+points of entry to the United States and
+fully implement a comprehensive
+biometric exit system at all land, sea,
+and air exits.19
+Actual collections have fallen short of
+both anticipated collections and what is
+necessary to maintain and expand
+biometric operations. In December 2015,
+the Congressional Budget Office (CBO)
+published a report on the fee provisions
+in Public Law 114–113 and estimated
+annual revenues of $420 million per
+year (except for $380 million in the first
+year of FY 2016) from the 9–11
+Biometric Fee through its lifespan.20
+Pursuant to the statute, 50 percent of
+those annual total collections—or an
+estimated $210 million per year—would
+be deposited into the 9–11 Biometric
+Account and made available to DHS and
+CBP, up to $1 billion. However, actual
+collections pre–COVID–19 repeatedly
+fell well below CBO’s estimates: $158
+million in FY 2016, $125 million in FY
+2017, $119 million in FY 2018, and
+$118 million in FY 2019.21
+Notwithstanding the impact of COVID–
+19 on collections during FYs 2020–21,22
+DHS believes that collections have
+fallen short of CBO projections
+primarily because the current statutory
+interpretation fails to apply the 9–11
+Biometric Fee to all extension petitions
+regardless of whether there is a change
+of employer. Both the previous
+interpretation and the current
+interpretation of Public Law 114–113
+are reasonable based on the wording in
+the statute; therefore, DHS is proposing
+to amend the regulations to better align
+with its Congressional mandate to
+implement a fully integrated biometric
+entry-exit system.
+IV. Proposed Changes to Regulations
+A. Proposed Amendment to Collection
+of 9–11 Biometric Fees
+DHS proposes to amend the
+regulations at 8 CFR 106.2(c)(8) and (9)
+to specify that the 9–11 Biometric Fee
+will apply to all H–1B and L–1
+extension-of-stay petitions in addition
+to all previously covered H–1B and L–
+1 petitions.23 Accordingly, DHS
+proposes to replace the phrase ‘‘certain
+petitioners’’ with ‘‘all petitioners’’ in the
+subparagraphs concerning both H–1B
+and L–1 petitioners. This proposed
+change will allow DHS to charge all
+covered petitioners the 9–11 Biometric
+Fee, including those seeking extension
+petitions that do not involve a change of
+employer, as opposed to only those
+petitioners whose petitions are also
+subject to the Fraud Fee.
+B. Proposed Clarifying Amendments
+DHS also proposes certain clarifying
+amendments. First, DHS proposes to
+insert the phrase ‘‘except for petitioners
+filing an amended petition without an
+extension of stay request.’’ Amended
+petitions are filed to notify USCIS of a
+material change in the terms or
+conditions of employment or the
+beneficiary’s eligibility as specified in
+the original approved petition. See
+USCIS, Form I–129, Instructions for
+Petition for Nonimmigrant Worker,
+https://www.uscis.gov/sites/default/
+files/document/forms/i-129instr.pdf.
+Under the proposed regulations,
+covered petitioners filing an H–1B or L–
+1 amended petition that does not
+include an extension of stay request
+would not be required to submit the 9–
+11 Biometric Fee.
+DHS further proposes to clarify the
+method by which it determines whether
+a petitioner is a covered employer.
+Currently, DHS counts all full-time and
+part-time employees who hold H–1B or
+L–1 status in order to determine
+whether an employer meets the
+definition of ‘‘covered employer’’ by
+reaching the 50 percent threshold. DHS
+requires the 9–11 Biometric Fee once
+the threshold is met to be considered a
+covered employer. DHS proposes
+adding the words ‘‘in the aggregate’’ to
+both provisions in 8 CFR 106.2(c)(8) and
+(9) to clarify its current practice.
+V. Statutory and Regulatory Reviews
+A. Executive Orders 12866, 14094, and
+13563
+Executive Order 12866 (Regulatory
+Planning and Review), as amended by
+Executive Order 14094 (Modernizing
+Regulatory Review), and Executive
+Order 13563 (Improving Regulation and
+Regulatory Review) direct agencies to
+assess the costs and benefits of available
+regulatory alternatives and, if regulation
+is necessary, to select regulatory
+approaches that maximize net benefits
+(including potential economic,
+environmental, public health and safety
+effects, distributive impacts, and
+equity). Executive Order 13563
+emphasizes the importance of
+quantifying both costs and benefits,
+reducing costs, harmonizing rules, and
+promoting flexibility.
+The Office of Management and Budget
+(OMB) has not designated this proposed
+rule a significant regulatory action
+under section 3(f) of Executive Order
+12866, as amended by Executive Order
+14094. Accordingly, OMB has not
+reviewed this proposed rule.
+As a result of this rule, DHS expects
+H–1B and L–1 transfer payments from
+fee payers to the U.S. Government to
+increase by a combined total of $157.3
+million annually. This will ensure that
+covered employers 24 would have to pay
+the 9–11 Biometric Fee as well as
+increase funds to implement and
+maintain CBP’s biometrics programs.
+Public Law 114–113 exempts employers
+that do not employ 50 or more
+employees with more than 50 percent of
+employees under H–1B and/or L–1
+status from the 9–11 Biometric Fee.
+1. Purpose of the Rule
+In 2020, after evaluating alternative
+interpretations of Public Law 114–113,
+DHS adopted the 2020 Fee Rule, which
+made the 9–11 Biometric Fee applicable
+to all petitions by covered employers,
+except for amended petitions without an
+extension of stay request, regardless of
+whether the Fraud Fee also applies.
+DHS believes that Congress’s intent with
+the 9–11 Biometric Fee was twofold.
+First, to ensure that covered employers
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00005 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+48344 Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules
+25See sec. 402(g), Public Law 114–113
+(establishing the initial sunset date for the 9–11
+Biometric Fee as September 30, 2025), as amended
+by sec. 30203(b) of the Bipartisan Budget Act of
+2018, Public Law 115–123, 132 Stat. 64, 126
+(extending this date to September 30, 2027.) 26FY 2018–2021 data are based on data provided
+by USCIS via email between 11/30/2021 and 12/21/
+2021 and FY 2022 data was provided by USCIS via
+email between 3/17/23 and 5/8/23.
+would generally have to pay an
+additional fee of $4,000 or $4,500 for H–
+1B or L–1 petitions, respectively.
+Second, to fund congressionally
+mandated biometric entry and exit
+programs that protect against terrorism.
+However, the interpretation that DHS
+adopted in the 2020 Fee Rule never
+went into effect because the 2020 Fee
+Rule was enjoined in its entirety during
+litigation unrelated to the 9–11
+Biometric Fee. DHS maintains that the
+interpretation adopted in the 2020 Fee
+Rule is most consistent with the
+statute’s goals. Therefore, DHS is
+proposing to adopt regulations that
+better align with Congress’s intent for
+Public Law 114–113. The proposed
+change would expand the instances in
+which the 9–11 Biometric Fee applies
+by applying the 9–11 Biometric Fee to
+all H–1B or L–1 petitions seeking initial
+grants of status or an extension of stay,
+regardless of whether the Fraud Fee
+applies. By implementing this
+alternative interpretation of ambiguous
+language in Public Law 114–113, DHS is
+effectuating Congressional intent
+because the increased collections will
+provide necessary funds for the
+implementation and maintenance of
+biometric entry and exit data systems as
+required by Congress under section
+7208 of the IRTPA.
+CBP is responsible for implementing
+an integrated and automated entry-exit
+system that matches biographic data and
+biometrics of noncitizens entering and
+departing the United States. CBP
+currently relies on the 9–11 Biometric
+Fee to fund several processes and
+programs such as TVS, which benefit
+the public by increasing consumer
+confidence in travel safety and speeding
+up the boarding process while
+encouraging contactless travel. CBP’s
+use of biometrics has also proven to be
+effective in combatting the use of stolen
+and fraudulently presented travel and
+identity documents. The 9–11 Biometric
+Fee funds biometrics programs that also
+benefit other government agencies by
+providing assurance that the travelers
+arriving match their travel documents.
+2. Transfer Payments From Rule
+Fees paid to government agencies for
+goods and services provided by the
+agency are considered transfer payments
+because they are monetary payments
+from payers to the government and do
+not affect the total resources available to
+society. Costs associated with the
+provision of these goods and services
+are considered government costs of the
+regulation. Therefore, in this regulatory
+impact analysis, DHS discusses the
+additional transfer payments that H–1B
+and L–1 petitioners will experience as a
+result of this rule in qualitative, and
+when possible, quantitative, and
+monetized terms. This analysis
+evaluates the impact on transfer
+payments for H–1B petitions and L–1
+petitions separately due to the
+differences in fee amounts and the data
+available. The period of analysis is for
+fiscal years (FY) 2023–2027. CBP bases
+its estimates on data from FY 2018–2022
+due to data limitations.25
+Currently, of the H–1B and L–1
+petitions submitted by covered
+employers, only those requesting new
+employment or a change of employer
+are required to pay the 9–11 Biometric
+Fee. This rule will increase transfer
+payments from H–1B and L–1
+petitioners by also applying the 9–11
+Biometric Fee to H–1B and L–1
+extension-of-stay petitions filed by
+covered employers.
+The H–1B submissions currently
+subject to the 9–11 Biometric Fee and
+the resulting transfer payments are
+shown in Table 1.26 Projected annual
+submissions are an average of
+submissions from FY 2018–2022.
+Multiplying the projected submissions
+by the fee amount of $4,000 provides
+the projected annual transfer payments
+in the baseline. Transfer payments
+shown in Table 1 are not a result of this
+rule and are not added to those in Table
+2 when totaling the additional transfer
+payments as a result of this rule; these
+fee payments are already occurring in
+the baseline. The values of Table 1 and
+Table 2 can be added together for an
+estimate of the total petitions subject to
+the 9–11 Biometric Fee and the transfer
+payments for covered H–1B employers
+under this rule.
+TABLE 1—BASELINE ANNUAL H–1B SUBMISSIONS AND TRANSFER PAYMENTS
+Fiscal year A—New
+employment
+E—Change
+of employer
+Total
+submissions Fee amount
+Total actual &
+projected transfer
+payments
+2018 ................................................................................. 16,511 7,016 23,527 $4,000 $93,907,000
+2019 ................................................................................. 17,669 5,878 23,547 4,000 93,924,000
+2020 ................................................................................. 10,149 4,616 14,765 4,000 58,692,000
+2021 ................................................................................. 8,583 4,431 13,014 4,000 51,860,500
+2022 ................................................................................. 6,715 3,925 10,640 4,000 43,664,000
+2023 ................................................................................. 11,926 5,174 17,100 4,000 68,400,000
+2024 ................................................................................. 11,926 5,174 17,100 4,000 68,400,000
+2025 ................................................................................. 11,926 5,174 17,100 4,000 68,400,000
+2026 ................................................................................. 11,926 5,174 17,100 4,000 68,400,000
+2027 ................................................................................. 11,926 5,174 17,100 4,000 68,400,000
+• Fee requirements are not changing for these categories under this rule.
+• Projected submissions for 2023–2027 are based on the average of submissions for 2018–2022 rounded up.
+• Total Actual Transfer Payments differ from expected values based on calculations (Total Submissions × Fee Amount) due to differences in
+the timing of filings and when collections take place.
+Table 2 shows the number of
+additional annual H–1B submissions to
+which the 9–11 Biometric Fee would
+apply upon the implementation of this
+rule. As done in Table 1, the projected
+submissions for FY 2023–2027 are an
+average of the FY 2018–2022
+submissions and multiplying the
+projected submissions by the $4,000 fee
+provides the projected annual transfer
+payments that would result if this rule
+is finalized as proposed.
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00006 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules 48345
+TABLE 2—ANNUAL H–1B SUBMISSIONS NEWLY SUBJECT TO FEE
+Fiscal year
+B—Continuation
+of
+previously
+approved
+employment
+without change
+C—Change in
+previously
+approved
+employment
+D—New
+concurrent
+employment
+F—Amended
+petition
+Total
+submissions
+Fee
+amount
+Total actual &
+projected
+transfer
+payments
+2018 ....................... 20,925 7,403 9 16,705 45,042 $0 $0
+2019 ....................... 27,127 7,362 24 9,127 43,640 0 0
+2020 ....................... 21,337 7,373 27 13,708 42,445 0 0
+2021 ....................... 7,826 2,667 105 8,727 19,325 0 0
+2022 ....................... 4,440 2,479 144 4,314 11,377 0 0
+2023 ....................... 16,331 5,457 62 10,517 32,367 4,000 129,468,000
+2024 ....................... 16,331 5,457 62 10,517 32,367 4,000 129,468,000
+2025 ....................... 16,331 5,457 62 10,517 32,367 4,000 129,468,000
+2026 ....................... 16,331 5,457 62 10,517 32,367 4,000 129,468,000
+2027 ....................... 16,331 5,457 62 10,517 32,367 4,000 129,468,000
+• The categories listed in this table are based on options for question 2 in part 2 of Form I–129.
+• The 9–11 Biometric Fee is only applicable to petitions in these categories which also include an extension of stay request and do not reflect
+the total number of petitions received.
+• The 9–11 Biometric Fee was not required for submissions pursuant to the categories listed this table for 2018–2022.
+• Projected submissions for 2023–2027 are based on the average of submissions for 2018–2022 rounded up.
+The numbers of H–1B petitions
+shown in Table 1 are based on
+petitioners’ responses to Form I–129
+Part 2, Questions 2 and 4, indicating the
+purpose of the request was New
+Employment or a Change of Employer.
+DHS assumes that petitioners newly
+required to pay the 9–11 Biometric Fee
+as a result of this rule will continue
+participating in the H–1B and L–1
+programs at their current rate because
+this is a known fee and an expected cost
+of participation in the program. Similar
+information collected in L Classification
+Supplement Items 4.a and 4.b is not
+preserved in USCIS’s administrative
+data. Consequently, DHS estimates the
+number of L–1 petitions with 50 or more
+employees and more than 50 percent of
+employees in H–1B/L–1 status that are
+currently subject to the fee by dividing
+the L–1 collections deposited in the CBP
+and Treasury accounts by the $4,500 fee
+amount, as shown in Table 3. Due to the
+lack of data regarding L Classification
+Supplement Items 4.a and 4.b, DHS
+estimated the projected submissions
+that will be subject to the fee as a result
+of this proposed rule by calculating the
+ratio of H–1B submissions newly subject
+to the fee to the H–1B submissions
+currently subject to the fee for FY 2018–
+2022. This multiplier (1.8929) was then
+applied to the number of projected L–
+1 submissions subject to the fee to find
+the projected L–1 submissions newly
+subject to the fee as a result of this rule
+and is shown in Table 3. This
+methodology assumes that the ratio of
+new fee payers to baseline fee payers is
+the same for L–1 and H–1B. To the
+extent it differs, the transfers will be
+higher or lower than projected. We
+request comment on this assumption.
+TABLE 3—ANNUAL L–1 SUBMISSIONS SUBJECT TO FEE
+[Current and new]
+Fiscal year
+Calculated &
+projected
+submissions
+currently
+subject to
+fee
+Projected
+submissions
+newly
+subject to
+fee
+Total
+submissions Fee amount
+Actual &
+projected
+transfer
+payments
+Projected
+transfer
+payments
+resulting
+from rule
+Total actual
+& projected
+transfer
+payments
+2018 ............................. 5,586 0 5,586 $4,500 $25,137,000 $0 $25,137,000
+2019 ............................. 5,411 0 5,411 4,500 24,349,046 0 24,349,046
+2020 ............................. 2,935 0 2,935 4,500 13,207,954 0 13,207,954
+2021 ............................. 1,082 0 1,082 4,500 4,869,499 0 4,869,499
+2022 ............................. 1,314 0 1,314 4,500 5,912,000 0 5,912,000
+2023 ............................. 3,266 6,183 9,449 4,500 14,697,000 27,823,500 42,520,500
+2024 ............................. 3,266 6,183 9,449 4,500 14,697,000 27,823,500 42,520,500
+2025 ............................. 3,266 6,183 9,449 4,500 14,697,000 27,823,500 42,520,500
+2026 ............................. 3,266 6,183 9,449 4,500 14,697,000 27,823,500 42,520,500
+2027 ............................. 3,266 6,183 9,449 4,500 14,697,000 27,823,500 42,520,500
+• L–1 submissions were calculated by dividing the actual transfer payments by the fee amount for FY 2018–2022.
+• The 9–11 Biometric Fee is only applicable to petitions which also include an extension of stay request and do not reflect the total number of
+petitions received.
+• Projected submissions currently subject to fee for 2023–2027 are based on the average of submissions for 2018–2022.
+• Projected L–1 submissions newly subject to fee are calculated using the ratio of H–1B submissions newly subject to fee to H–1B submissions currently subject to fee from 2018–2022 (a multiplier of 1.8929).
+In undiscounted 2022 dollars, DHS
+believes this rule will result in a
+combined total increase of $157.3
+million annually to H–1B and L–1
+transfer payments. Table 4 provides
+estimates of the undiscounted transfer
+payments and Table 5 provides
+estimates of the discounted transfer
+payments of this rule for fiscal years
+2023 to 2027. From FYs 2023 to 2027,
+H–1B and L–1 petitioners will
+experience a total in transfer payments
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00007 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+48346 Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules
+27Since 2004, DHS has worked to develop and
+implement a comprehensive biometric entry and
+exit data system as required by section 7208 of the
+IRTPA. See, e.g., Implementation of the United
+States Visitor and Immigrant Status Indicator
+Technology Program (‘‘US–VISIT’’); Biometric
+Requirements, 69 FR 468 (Jan. 5, 2004). Additional
+resources discussing DHS’s plans to enhance
+biometric operations are DHS’s annual Entry/Exit
+Overstay Reports, available at https://www.dhs.gov/
+publication/entryexit-overstay-report.
+28 41 out of 264 confirmed small entities sampled
+(41/264 = .1553 or 15.53%).
+of $720.3 million if discounted at three
+percent and $644.9 million if
+discounted at seven percent. Petitioners
+will experience total annualized transfer
+payments of $157.3 million under both
+three and seven percent discount rates.
+TABLE 4—UNDISCOUNTED PROJECTED TRANSFER PAYMENTS FROM THE PROPOSED RULE
+Year
+H–1B Projected
+undiscounted transfer
+payments
+L–1 Projected
+undiscounted transfer
+payments
+Total projected
+undiscounted transfer
+payments
+2023 ......................................................................................................... $129,468,000 $27,823,500 $157,291,500
+2024 ......................................................................................................... 129,468,000 27,823,500 157,291,500
+2025 ......................................................................................................... 129,468,000 27,823,500 157,291,500
+2026 ......................................................................................................... 129,468,000 27,823,500 157,291,500
+2027 ......................................................................................................... 129,468,000 27,823,500 157,291,500
+Total .................................................................................................. 647,340,000 139,117,500 786,457,500
+Note: Estimates may not sum to total due to rounding.
+TABLE 5—TOTAL MONETIZED PRESENT VALUE AND ANNUALIZED ADDITIONAL TRANSFER PAYMENTS FROM THE PROPOSED
+RULE
+Fiscal year 3% Discount rate 7% Discount rate
+2023 ................................................................................................................................................. $152,710,194 $147,001,402
+2024 ................................................................................................................................................. 148,262,324 137,384,488
+2025 ................................................................................................................................................. 143,944,004 128,396,718
+2026 ................................................................................................................................................. 139,751,460 119,996,932
+2027 ................................................................................................................................................. 135,681,030 112,146,666
+Total .......................................................................................................................................... 720,349,013 644,926,205
+Net Present Value .................................................................................................................... 720,349,013 644,926,205
+Annualized Transfer Payments ................................................................................................ 157,291,500 157,291,500
+With this additional funding CBP will
+be able to meet its congressional
+mandate to enhance national security by
+deploying a fully integrated biometric
+entry-exit data system. CBP will be able
+to maintain its current biometric entry
+and exit operations, as well as ensure
+that TVS continues to be available to
+CBP and external stakeholders. CBP will
+also be able to continue its expansion to
+all ports of entry in order to fully
+implement a comprehensive biometric
+exit system at all land, sea, and air
+exits.27
+B. Regulatory Flexibility Act
+The Regulatory Flexibility Act (5
+U.S.C. 601 et. seq.) (RFA), as amended
+by the Small Business Regulatory
+Enforcement Fairness Act of 1996
+(SBREFA), requires agencies to assess
+the impact of regulations on small
+entities. A small entity may be a small
+business (defined as any independently
+owned and operated business not
+dominant in its field that qualifies as a
+small business per the Small Business
+Act); a small not-for-profit organization;
+or a small governmental jurisdiction
+(locality with fewer than 50,000 people).
+As discussed above, this rule will
+result in transfer payments to the U.S.
+Government from employers with 50 or
+more employees and more than 50
+percent of employees in H–1B and/or L–
+1 nonimmigrant status (covered
+employers). DHS used a random sample
+of 399 H–1B/L–1 petitioners provided
+by USCIS to positively identify 264
+small entities based on the size
+standards of the Small Business
+Administration. Only 41 of these small
+entities have more than 50 employees
+and would be subject to the 9–11
+Biometric Fee. The rule also states that
+the 9–11 Biometric Fee is applicable
+only to entities with more than 50
+percent of employees in H–1B or L–1
+status. DHS does not have enough
+information to determine how many
+employers fit this description.
+Therefore, DHS is unable to determine
+whether this rule affects a substantial
+number of small businesses. However,
+DHS can estimate that an approximate
+maximum of 16 percent of small
+businesses will be affected by this
+rule.28
+Petitioning employers with 50 or
+more employees and more than 50
+percent of employees in H–1B or L–1
+status will pay the 9–11 Biometric Fee.
+The fee for H–1B and L–1 petitions
+under Public Law 114–113 is $4,000
+and $4,500, respectively. DHS does not
+have enough information on the number
+of times a petitioning employer would
+pay the 9–11 Biometric Fee due to the
+rule change to determine whether this
+rule has a significant impact on small
+businesses.
+Although DHS was able to estimate
+effects of the rule and create a rough
+estimate of the number of small
+businesses affected by the rule, DHS
+was unable to determine how many
+employers have more than 50 percent of
+its employees in the United States in H–
+1B or L–1 nonimmigrant status, or the
+number of times that an individual
+employer would be subject to the 9–11
+Biometric Fee due to a lack of detailed
+petition data available on filings.
+Therefore, DHS seeks public comment
+on the number of small companies that
+would be subject to this fee and how
+often small companies would pay the 9–
+11 Biometric Fee. DHS has conducted
+the following Initial Regulatory
+Flexibility Analysis.
+1. A Description of the Reasons Why
+Action by the Agency Is Being
+Considered
+DHS is proposing to amend
+regulations to implement an
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00008 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules 48347
+interpretation of the statutory language
+in Public Law 114–113 that DHS now
+believes would better align with
+congressional intent by expanding the
+instances in which the 9–11 Biometric
+Fee would apply. DHS believes this
+interpretation and the consequent
+increased collections would better
+enable DHS to comply with its
+congressional mandate under section
+7208 of the IRTPA to implement and
+maintain biometric entry and exit data.
+2. A Succinct Statement of the
+Objectives of, and Legal Basis for, the
+Proposed Rule
+The 9–11 Biometric Fee is authorized
+under Div. O, section 402(g) of the
+Consolidated Appropriations Act, 2016,
+Public Law 114–113, 129 Stat. 2242,
+3006. This statute set aside 50 percent
+of the funds that come from the 9–11
+Biometric Fee (up to a total of $1
+billion) to be deposited into a 9–11
+Biometric Account. The funds from the
+9–11 Biometric Account are available to
+support the congressionally mandated
+biometric entry-exit data system, as
+described under section 7208 of the
+IRTPA. Annual maintenance costs for
+those biometric entry and exit data
+systems that CBP has already
+implemented currently exceed the
+annual funding received through the 9–
+11 Biometric Fee. These funds are
+insufficient to finish implementing the
+biometric entry operations to additional
+sea and land modalities or to implement
+a comprehensive biometric exit system.
+DHS believes this proposed rule will
+increase collections and provide
+adequate funding to better allow CBP to
+meet Congress’s biometric programs
+mandate and would better align with
+congressional intent.
+3. A Description and, Where Feasible,
+an Estimate of the Number of Small
+Entities to Which the Proposed Rule
+Will Apply
+The proposed rule could potentially
+affect small, covered employers across a
+wide range of industries. CBP used a
+random sample of 399 H–1B and L–1
+petitioners in 2020 to estimate the
+number of small entities affected by this
+rule. Table 6 shows the distribution of
+entities across the sample provided by
+USCIS. From this sample, six entities
+listed an invalid North American
+Industry Classification System (NAICS)
+code and 68 did not report a NAICS
+code, and so CBP cannot make a
+determination on the size of the entity
+or the impact this rule will have on
+them. Of the remaining 325 entities in
+the sample, CBP was able to positively
+identify 264 as small entities based on
+size standards of the Small Business
+Administration. Table 6 shows the
+distribution of small entities across
+industries.
+TABLE 6—NAICS CODES, DESCRIPTIONS, NUMBER, AND PERCENT OF INDUSTRY IN SAMPLE ARE SMALL
+Primary
+NAICS code Industry description
+Number of
+small entities
+in sample
+Number of
+entities in
+sample
+Percent of
+industry in
+sample are small
+511210 .............. Software Publishers .............................................................................. 18 19 95
+541511 .............. Custom Computer Programming Services ........................................... 17 17 100
+561439 .............. Other Business Service Centers (including Copy Shops) ................... 14 15 93
+541618 .............. Other Management Consulting Services .............................................. 11 13 85
+541330 .............. Engineering Services ............................................................................ 9 9 100
+621111 .............. Offices of Physicians (except Mental Health Specialists) .................... 9 9 100
+611110 .............. Elementary and Secondary Schools .................................................... 7 7 100
+541211 .............. Offices of Certified Public Accountants ................................................ 7 7 100
+621493 .............. Freestanding Ambulatory Surgical and Emergency Centers ............... 6 6 100
+561110 .............. Office Administrative Services .............................................................. 5 5 100
+541512 .............. Computer Systems Design Services .................................................... 4 4 100
+423610 .............. Electrical Apparatus and Equipment, Wiring Supplies, and Related
+Equipment Merchant Wholesalers.
+4 4 100
+541110 .............. Offices of Lawyers ................................................................................ 4 6 67
+446110 .............. Pharmacies and Drug Stores ............................................................... 4 4 100
+523930 .............. Investment Advice ................................................................................ 4 4 100
+621210 .............. Offices of Dentists ................................................................................ 4 4 100
+611310 .............. Colleges, Universities, and Professional Schools ................................ 3 4 75
+541714 .............. Research and Technology in Biotechnology (except Nanobiotechnology).
+3 3 100
+541611 .............. Administrative Management and General Management Consulting
+Services.
+3 4 75
+518210 .............. Data Processing, Hosting, and Related Services ................................ 3 3 100
+541690 .............. Other Scientific and Technical Consulting Services ............................ 3 6 50
+621399 .............. Offices of All Other Miscellaneous Health Practitioners ...................... 3 3 100
+541720 .............. Research and Development in the Social Sciences and Humanities .. 3 3 100
+238210 .............. Electrical Contractors and Other Wiring Installation Contractors ......... 3 3 100
+488390 .............. Other Support Activities for Water Transportation ............................... 3 3 100
+541519 .............. Other Computer Related Services ....................................................... 3 3 100
+921120 .............. Legislative Bodies ................................................................................. 3 3 100
+Other ................. Various * ................................................................................................ 104 154 68
+Total .......... ............................................................................................................... 264 325 81
+* Two or fewer small entities in NAICS category.
+Of the 264 confirmed small entities,
+223 had fewer than 50 employees and
+would be statutorily exempt from
+paying the 9–11 Biometric Fee and 40
+small entities had 50 or more
+employees. CBP did not have an
+employee count for one employer and
+cannot determine whether it is affected
+by this rule.
+VerDate Sep<11>2014 17:00 Jun 05, 2024 Jkt 262001 PO 00000 Frm 00009 Fmt 4702 Sfmt 4702 E:\FR\FM\06JNP1.SGM 06JNP1
+lotter on DSK11XQN23PROD with PROPOSALS1
+48348 Federal Register / Vol. 89, No. 110 / Thursday, June 6, 2024 / Proposed Rules
+29 ‘‘50/50 threshold’’ refers to the threshold for
+employers to be subject to the requirements of the
+9–11 Biometric Fee. Employers with 50 or more
+employees and more than 50 percent of employees
+in H–1B or L–1 status will be subject to the
+Biometric Fee for certain H–1B and L–1
+submissions.
+30 41 out of 264 confirmed small entities sampled
+(41/264 = .1553 or 15.53%).
+Based on the sample and the 50/50
+threshold,29 CBP estimates that an
+approximate maximum of 16 percent of
+small entities that hire H–1B or L–1
+employees will be affected by this
+rule.30
+4. A Description of the Projected
+Reporting, Recordkeeping and Other
+Compliance Requirements of the
+Proposed Rule, Including an Estimate of
+the Classes of Small Entities Which Will
+Be Subject to the Requirement and the
+Type of Professional Skills Necessary
+for Preparation of the Report or Record
+The proposed regulation does not
+propose changes to any required
+reporting or recordkeeping. As
+discussed above, this rule could affect
+any small entity that employs 50 or
+more people with more than 50 percent
+of employees in H–1B or L–1
+nonimmigrant status.
+The proposed rule would have
+compliance requirements for affected
+small businesses since it would amend
+the regulations at 8 CFR 106.2(c)(8) and
+(9) to specify that the 9–11 Biometric
+Fee will apply to all H–1B and L–1
+extension-of-stay petitions in addition
+to all previously covered H–1B and L–
+1 petition. As a result, petitioning small
+businesses with 50 or more employees
+and more than 50 percent of employees
+in H–1B or L–1 status affected by the
+proposed rule would pay the 9–11
+Biometric Fee. The fee for H–1B and L–
+1 petitions under Public Law 114–113 is
+$4,000 and $4,500, respectively.
+5. Identification, to the Extent
+Practicable, of All Relevant Federal
+Rules Which May Duplicate, Overlap, or
+Conflict With the Proposed Rule
+This proposed rule does not
+duplicate, overlap, or conflict with any
+Federal rules.
+6. A Description of Any Significant
+Alternatives to the Proposed Rule
+Which Accomplish the Stated
+Objectives of Applicable Statutes and
+Which Minimize Any Significant
+Economic Impact of the Proposed Rule
+on Small Entities
+Alternative 1 (chosen alternative):
+Adopt an alternative statutory
+interpretation to require covered
+employers to pay the 9–11 Biometric
+Fee for I–129 Form petitions, seeking
+initial grants of status as well as all
+extension-of-stay petitions, regardless of
+whether there is a change of employer.
+Alternative 2: No regulatory action.
+DHS has chosen to implement
+Alternative 1. DHS believes that the
+alternative statutory interpretation of
+Public Law 114–113 minimizes the
+impact on small businesses, because
+only entities with 50 or more employees
+and more than 50 percent of employees
+in H–1B or L–1 status must pay the 9–
+11 Biometric Fee, while still allowing
+DHS to receive enough funds for the
+required maintenance of biometric entry
+and exit data systems already in place.
+While Alternative 2 would have a
+smaller impact on small businesses, it
+would leave DHS unable to accomplish
+the stated objectives of the applicable
+statutes. Therefore, DHS believes
+Alternative 1 best balances funding
+requirements and provides the smallest
+possible impact on small businesses
+while doing so.
+Alternative 2 would mean that the
+status quo would continue and DHS
+would lack sufficient funding for the
+implementation and maintenance of a
+congressionally mandated biometric
+entry-exit system because covered
+employers would not need to pay the 9–
+11 Biometric Fee for extensions. This
+alternative would require DHS to
+reallocate funds marked for other
+purposes in order to maintain and finish
+implementing current biometric entry
+operations and implement biometric
+exit operations, as required by section
+7208 of the IRTPA.
+C. Paperwork Reduction Act
+The Paperwork Reduction Act (PRA)
+of 1995 (44 U.S.C. 3507(d)) requires that
+DHS consider the impact of paperwork
+and other information collection
+burdens imposed on the public. An
+agency may not conduct, and a person
+is not required to respond to, a
+collection of information unless the
+collection of information displays a
+valid control number assigned by OMB.
+Form I–129 is covered by OMB
+approved collection 1615–0009. This
+rule makes no changes to this
+information collection, so the provisions
+of the PRA do not apply to this rule.
+List of Subjects in 8 CFR 106
+Citizenship and naturalization, Fees,
+Immigration.
+Proposed Regulatory Amendments
+For the reasons stated in the
+preamble, DHS proposes to amend part
+106 of title 8, Code of Federal
+Regulations (8 CFR part 106), as follows:
+PART 106—USCIS FEE SCHEDULE
+■ 1. The authority citation for part 106
+is revised to read as follows:
+Authority: 8 U.S.C. 1101, 1103, 1254a,
+1254b, 1304, 1356;48 U.S.C. 1806; Pub. L.
+107–296, 116 Stat. 2135 (6 U.S.C. 101 note);
+Pub. L. 115–218, 132 Stat. 1547; Pub. L. 116–
+159, 134 Stat. 709.
+■ 2. Amend § 106.2 by revising
+paragraphs (c)(8) and (c)(9) to read as
+follows:
+§ 106.2 Fees.
+* * * * *
+(c) * * *
+(8) 9–11 Response and Biometric
+Entry-Exit Fee for H–1B Visa. For all
+petitioners filing an H–1B petition who
+employ 50 or more employees in the
+United States, if more than 50 percent
+of the petitioner’s employees in the
+aggregate are in H–1B, L–1A, or L–1B
+nonimmigrant status, except for
+petitioners filing an amended petition
+without an extension of stay request:
+$4,000. This fee will apply to petitions
+filed on or before September 30, 2027.
+(9) 9–11 Response and Biometric
+Entry-Exit Fee for L–1 Visa. For all
+petitioners filing an L–1 petition who
+employ 50 or more employees in the
+United States, if more than 50 percent
+of the petitioner’s employees in the
+aggregate are in H–1B, L–1A, or L–1B
+nonimmigrant status, except for
+petitioners filing an amended petition
+without an extension of stay request:
+$4,500. This fee will apply to petitions
+filed on or before September 30, 2027.
+* * * * *
+Alejandro N. Mayorkas,
+Secretary, U.S. Department of Homeland
+Security.
+[FR Doc. 2024–12396 Filed 6–5–24; 8:45 am]
+BILLING CODE 9111–14–P

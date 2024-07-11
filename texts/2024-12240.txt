@@ -1,0 +1,630 @@
+47536 Federal Register / Vol. 89, No. 107 / Monday, June 3, 2024 / Notices
+DEPARTMENT OF COMMERCE
+International Trade Administration
+[Docket No. 240530–0148]
+Request for Comments on Commerce
+Supply Chain Risk Assessment and
+IPEF Supply Chains
+AGENCY: International Trade
+Administration, Department of
+Commerce.
+ACTION: Notice; request for public
+comments.
+SUMMARY: The Department of Commerce
+(Commerce) seeks public comment to
+inform its work on assessing and
+analyzing risk in global supply chains.
+This includes input into a
+determination of an initial list of
+‘‘critical sectors’’ and ‘‘key goods’’ as
+provided under the Indo-Pacific
+Economic Framework for Prosperity
+(IPEF) Agreement Relating to Supply
+Chain Resilience (Supply Chain
+Agreement). The United States’ initial
+list will be shared with the IPEF Supply
+Chain Council members and will inform
+work undertaken pursuant to the
+Agreement. Comments will also inform
+other analytical tools and methodologies
+developed by Commerce’s Industry &
+Analysis unit to support resilient supply
+chains for U.S. industry.
+DATES: To be assured of consideration,
+submit any written comments by the
+June 21 deadline. Commerce may
+consider comments filed after the
+deadline.
+ADDRESSES: You may submit comments,
+identified by 240530–0148 by the
+following methods:
+Online Submission (Strongly
+Preferred): Submit all electronic public
+comments via the Federal e-Rulemaking
+Portal. Go to https://
+www.regulations.gov and enter 240530–
+0148 in the Search.
+Email Submission to IPEFSCA@
+trade.gov: Comments submitted by
+email should be machine-readable and
+should not be copy-protected.
+FOR FURTHER INFORMATION CONTACT:
+Kevin Doyle, Policy Advisor for IPEF,
+International Trade Administration,
+U.S. Department of Commerce, 1401
+Constitution Ave NW; telephone 202–
+779–0376; or emails at IPEFSCA@
+trade.gov.
+Ahmad Khalil, Managing Director,
+Risk Assessment and Advanced
+Analytics, Supply Chain Center,
+International Trade Administration,
+Industry and Analysis unit, U.S.
+Department of Commerce, 1401
+Constitution Ave NW; telephone 202–
+779–0376; or emails at
+supplychaincenter@trade.gov.
+Please direct media inquiries to ITA’s
+Office of Public Affairs at publicaffairs@
+trade.gov.
+SUPPLEMENTARY INFORMATION:
+Background
+Building supply chain resilience is a
+top priority of the Department of
+Commerce, building on a long history of
+supply chain work led by the Industry
+& Analysis (I&A) unit in the
+International Trade Administration
+(ITA). I&A is comprised of a broad set
+of industry experts with unique
+commercial perspectives in
+understanding supply chains and
+informing and driving policy action. In
+2023, the Department launched a firstof its-kind Supply Chain Center to serve
+as an analytic engine to help drive
+decision-making and policy action on
+efforts to strengthen supply chain
+resilience, leveraging I&A’s deep
+industry expertise, quantitative data,
+and advanced analytics to help make
+the government’s work on supply chains
+more proactive and impactful. The
+Center is facilitating collaboration
+across I&A, other parts of Commerce,
+and other government agencies to
+support a proactive approach by the
+U.S. government in getting ahead of
+supply chain challenges, to be strategic
+in setting priorities for policy focus and
+action based on data-driven risk
+analysis, and to serve as a force
+multiplier in improving the targeting
+and effectiveness of U.S. government
+investments. Across these efforts, the
+Department depends on close
+partnerships with stakeholders from
+government, industry, academia, labor,
+and civil society.
+Department of Commerce Supply Chain
+Risk Assessment
+Central to the Supply Chain Center’s
+work are efforts to boost the U.S.
+government’s ability to understand
+systemic supply chain risks by building
+a cross-sectoral risk assessment
+framework (the ‘‘tool’’). The tool will
+utilize a comprehensive set of indicators
+to assess current or prospective supply
+chain risk across the U.S. economy,
+with an emphasis on risks to national
+security, including economic security,
+most relevant to the U.S. government.
+The goal is to help the U.S. government
+more comprehensively and
+systematically identify supply chain
+vulnerabilities and pursue in-depth
+analysis for actionable and evidencebased policy recommendations.
+This is the first effort by the U.S.
+government to assess supply chain
+vulnerability across all major sectors of
+the economy. This tool will help the
+U.S. government to determine—at the
+sectoral, and eventually product, level—
+where there are hidden vulnerabilities
+that could be addressed through policy
+action by the U.S. government and/or
+public-private partnerships.
+The supply chain risk assessment
+framework is an iterative tool. The latest
+version of the framework incorporates
+upwards of 40 indicators of risk that
+relate to a sector’s criticality to the U.S.
+government, vulnerability to disruption,
+and resilience in the face of disruption.
+Examples of criticality of a product or
+sector include products listed in the
+White House Critical and Emerging
+Technologies list, the products required
+for the Department of Defense industrial
+base, and products central to U.S. public
+health and safety, such as
+pharmaceuticals and certain nutritional
+foods.
+The vulnerability indicators cover six
+categories of risk: geopolitical;
+economic; logistical; business/financial;
+technological; and environmental.
+Resiliency indicators focus on how
+quickly a sector can bounce back from
+a disruption, considering levels of
+substitutability, unutilized capacity, and
+replacement of key inputs.
+The Center has been consulting with
+relevant external stakeholders in the
+development of this tool as well,
+including reaching out to dozens of
+industry and academic experts. The
+vision and success of this framework
+depend on close collaboration with
+industry stakeholders, as well as those
+from government, academia, civil
+society, labor, and others, to gather
+insights, develop accurate assessments
+of risks and mitigation options, and then
+take targeted and coordinated action to
+VerDate Sep<11>2014 18:00 May 31, 2024 Jkt 262001 PO 00000 Frm 00028 Fmt 4703 Sfmt 4703 E:\FR\FM\03JNN1.SGM 03JNN1
+lotter on DSK11XQN23PROD with NOTICES1
+Federal Register / Vol. 89, No. 107 / Monday, June 3, 2024 / Notices 47537
+advance U.S. supply chain resiliency
+and competitiveness.
+The creation of an economy-wide risk
+tool is an important element of the
+Commerce Department’s Supply Chain
+Center work, though not the only
+instance in which the Center is
+leveraging big data and the qualitative
+insights of industry experts and
+economists. The Center is also
+leveraging analytic tools for targeted
+scans of critical sectors; expanding its
+ability to model scenarios and evaluate
+the potential impacts of proposed policy
+actions; and deepening its proactive
+analysis through case studies and
+replicable and scalable frameworks and
+toolkits for supply chain analysis and
+policy action. The Center is also
+bolstering its ability to produce quickturn analysis in the event of supply
+chain disruptions by building
+partnerships with academia, civil
+society, labor and others as well as
+standing playbooks that can help inform
+policy responses and industry
+engagement.
+IPEF List of Critical Sectors and Key
+Goods
+Commerce’s supply chain resilience
+efforts are also being advanced through
+the Supply Chain Agreement. Launched
+in May 2022 with 13 regional partners—
+Australia, Brunei Darussalam, Fiji,
+India, Indonesia, Japan, the Republic of
+Korea, Malaysia, New Zealand, the
+Philippines, Singapore, Thailand, and
+Vietnam—IPEF seeks to establish a
+platform for long-term economic
+engagement and cooperation, and to
+tackle present-day challenges.
+Negotiations among the 14 IPEF
+partners for the Supply Chain
+Agreement substantially concluded on
+May 27, 2023, and a signing ceremony
+of the Agreement was held on
+November 14 of that same year. The
+Supply Chain Agreement entered into
+force on February 24, 2024, after the
+fifth partner deposited its instrument of
+ratification, acceptance, or approval. As
+of May 6, 2024, a total of six partners—
+Japan, the United States, Singapore, Fiji,
+India, and the Republic of Korea—have
+deposited their instruments, in that
+order.
+Parties to the Supply Chain
+Agreement intend to collaborate on
+initiatives aimed at strengthening the
+resilience and competitiveness of target
+supply chains, better preparing for and
+responding to supply chain disruptions,
+and enhancing the role of workers
+across these supply chains. To do this,
+the Supply Chain Agreement establishes
+three supply chain bodies tasked with
+facilitating various forms of
+cooperation—a Supply Chain Council, a
+Crisis Response Network, and a Labor
+Rights Advisory Board. Parties to the
+Supply Chain Agreement shall, and
+signatories that have not deposited an
+instrument of ratification, acceptance, or
+approval may designate representatives
+to these bodies to discuss and carry out
+this work.
+Article 10 of the Supply Chain
+Agreement requires the development of
+initial lists of ‘‘critical sectors’’ and ‘‘key
+goods,’’ which will then be shared
+through the Supply Chain Council. The
+Parties can change or update these lists
+at any time. As the U.S. Government’s
+representative to the Council, the
+Department of Commerce, through the
+International Trade Administration
+(ITA), is leading the process to prepare
+and submit this list on behalf of the
+United States, and intends to update the
+list periodically, as appropriate and as
+envisioned under the Supply Chain
+Agreement.
+These lists will, among other things,
+inform discussions among the members
+of the IPEF Supply Chain Council on
+opportunities for collaboration under
+the Supply Chain Agreement through
+the IPEF Supply Chain Council. Such
+collaboration could take the form of
+actions to promote business
+matchmaking, encourage investment, or
+improve policy coordination in areas
+impacting supply chains, among others.
+The Council may establish teams to
+develop Action Plans to provide
+recommendations to promote resilience
+and competitiveness for critical sectors
+or key goods based on the lists
+provided. Those critical sectors and key
+goods that appear on three or more lists
+are eligible for the development of an
+Action Plan.
+Article 1 of the Supply Chain
+Agreement provides the following
+definitions of ‘‘critical sectors’’ and ‘‘key
+goods’’:
+• critical sectors means sectors that
+produce goods and supply any related
+essential services critical to a Party’s
+national security, public health and
+safety, or prevention of significant or
+widespread economic disruptions, as
+identified by that Party in accordance
+with Article 10;
+• key goods means raw, in-process, or
+manufactured materials, articles, or
+commodities, the absence of which
+could have a significant effect on a
+Party’s national security, public health
+and safety, or prevention of significant
+or widespread economic disruptions, as
+identified by that Party in accordance
+with Article 10;
+Article 10 of the Supply Chain
+Agreement further outlines the factors
+intended to be considered in identifying
+respective critical sectors and key
+goods. These include:
+(a) the impact of a potential shortage
+on its national security, public health
+and safety, or prevention of significant
+or widespread economic disruptions;
+(b) the level of dependence on a single
+supplier or a single country, region, or
+geographic location;
+(c) geographic factors including actual
+or potential transport constraints,
+especially for its island or remote
+regions;
+(d) the availability and reliability of
+alternative suppliers or supply
+locations;
+(e) the extent of imports required to
+meet domestic demand;
+(f) the availability of domestic
+production capacity; or
+(g) the extent of interconnectedness
+with other critical sectors or key goods.
+The Department of Commerce
+recognizes the importance of a
+deliberative and inclusive review and
+selection process for identifying the
+United States’ initial list of critical
+sectors and key goods under the Supply
+Chain Agreement.
+To assist in these endeavors,
+Commerce requests information from
+the public on the topics provided below.
+Request for Written Comments
+Instructions: This notice is intended
+to improve Commerce’s understanding
+of public views on how the Department
+and I&A should assess risk in global
+supply chains, including what
+indicators and data sets it should
+include in the development of an
+economy-wide risk assessment tool, and
+how to apply the factors outlined in the
+Supply Chain Agreement in its
+determination of the United States’
+initial list of critical sectors and key
+goods under the Supply Chain
+Agreement. This notice is a general
+solicitation for public comments and
+further sets forth specific topics for
+discussion and comment. Commerce
+seeks broad input from all interested
+stakeholders, including U.S. industry,
+researchers, labor organizations,
+academia, and civil society.
+Commenters are encouraged to address
+any or all of the following questions and
+may respond with general views on how
+to apply these factors or provide specific
+information about a specific sector or
+good. To the extent commenters choose
+to respond to the specific questions
+asked, responses may be formatted as
+the commenter prefers.
+Comments will be reviewed by
+Commerce staff, including the Supply
+Chain Center, the Industry & Analysis
+business unit offices, the IPEF team,
+and, as appropriate, Commerce
+VerDate Sep<11>2014 18:00 May 31, 2024 Jkt 262001 PO 00000 Frm 00029 Fmt 4703 Sfmt 4703 E:\FR\FM\03JNN1.SGM 03JNN1
+lotter on DSK11XQN23PROD with NOTICES1
+47538 Federal Register / Vol. 89, No. 107 / Monday, June 3, 2024 / Notices
+contractors, and may be used to inform
+the agency’s work on supply chain risk
+analysis as outlined above, as well as in
+identifying the United States’ initial list
+of critical sectors and key goods for
+cooperation under the Supply Chain
+Agreement. Commerce intends to share
+the information received with relevant
+U.S. government departments and
+agencies, consistent with the BidenHarris Administration’s whole-ofgovernment approach to strengthening
+supply chains.
+Topics
+General Methodology Questions (To
+Inform Commerce’s Supply Chain Risk
+Assessment Framework)
+• What tools, approaches, and
+methodologies do you recommend that
+Commerce utilize in order to identify
+priority products and sectors at elevated
+risk of supply chain disruption,
+particularly those of relevance to the
+United States based on national
+security, including economic security?
+• More specifically, what definitions,
+indicators, and data sets do you
+recommend that Commerce use to
+evaluate the following aspects of supply
+chain risk:
+Æ Criticality of the product or sector
+to the United States
+Æ Vulnerability of the product or
+sector to supply chain disruption
+Æ Resiliency of the product or sector
+in the face of a supply chain
+disruption
+• What tools, approaches, and
+methodologies could Commerce use to
+assess a supply chain’s areas of greatest
+vulnerability? How can those
+vulnerabilities be quantified and tracked
+over time?
+• What factors influence your
+organization’s evaluation of risk in your
+supply chains? What additional data,
+information, or analysis from the U.S.
+government would you view as valuable
+in this assessment?
+• How should the U.S. government
+leverage technological advancements to
+foster data collection, analysis, and
+dissemination for both public and
+private entities?
+• What data, indicia, or criteria might
+help Commerce identify those supply
+chains where the market would be least
+likely to prevent or quickly resolve a
+disruption?
+IPEF-Related Questions (To Inform the
+U.S. List of Critical Sectors and Key
+Goods Under the Supply Chain
+Agreement)
+• How should Commerce assess
+‘‘significant or widespread economic
+disruptions’’ for purposes of the Supply
+Chain Agreement? What thresholds or
+metrics should Commerce consider in
+assessing the risk of such disruptions for
+the purposes of identifying critical
+sectors and key goods?
+• Which, if any, of the factors listed
+in Article 10 of the Supply Chain
+Agreement should Commerce prioritize
+in making its determinations of critical
+sectors or key goods for cooperation
+under the Supply Chain Agreement?
+Please offer a justification.
+• In your view, bearing in mind the
+seven factors outlined above, what
+sectors and goods best fit the criteria for
+‘‘critical sectors’’ and ‘‘key goods’’ for
+cooperation under the Supply Chain
+Agreement and why?
+• For those sectors and goods that
+Commerce should consider ‘‘critical
+sectors’’ and ‘‘key goods’’ for
+cooperation under the Supply Chain
+Agreement, what types of activities,
+either by governments, by companies, or
+via public-private cooperation, would
+be most valuable to the private sector?
+• The U.S. Department of Commerce
+requests U.S. small businesses
+(generally defined by the Small
+Business Administration as firms with
+fewer than 500 employees) or
+organizations representing U.S. small
+business members that submit
+comments to self-identify as such, so
+that we may be aware of issues of
+particular interest to small businesses.
+Requirements for Submissions
+To be assured of consideration,
+submit any written comments by the
+June 21 deadline. All submissions must
+be in English. Commerce strongly
+encourages submissions via
+Regulations.gov. Commerce may
+consider comments filed after the
+deadline. The docket number is
+240530–0148.
+To submit via Regulations.gov, use
+Docket Number 240530–0148 in the
+‘search for’ field on the home page and
+click ‘search’. The site will provide a
+search results page listing all documents
+associated with this docket. Find a
+reference to this notice by selecting
+‘notice’ under ‘document type’ in the
+‘refine documents results’ section on the
+left side of the screen and click on the
+link entitled ‘comment’. Regulations.gov
+allows users to make submissions by
+filling in a ‘type comment’ field, or by
+attaching a document using the ‘upload
+file’ field. Commerce prefers that you
+provide submissions in an attached
+document named according to the
+following protocol, as appropriate:
+Commenter Name or Organization and
+‘‘Commerce Supply Chain’’. If you
+provide submissions in an attached
+document, please type ‘see attached
+comments’ in the ‘comment’ field on the
+online submission form.
+Please include the name, email
+address, and telephone number of an
+individual Commerce can contact if
+there are issues or questions with the
+submission. You will receive a tracking
+number upon completion of the
+submission procedure at
+Regulations.gov. The tracking number is
+confirmation that Regulations.gov
+received your submission. Keep the
+confirmation for your records.
+Commerce is not able to provide
+technical assistance for Regulations.gov.
+For further information on using
+Regulations.gov, please consult the
+resources provided on the website by
+clicking on ‘How to Use
+Regulations.gov’ on the bottom of the
+home page. You can contact the
+Regulations.gov help desk at
+regulationshelpdesk@gsa.gov or 1–866–
+498–2945 for help with technical
+questions on submitting comments on
+Regulations.gov.
+If you are unable to submit through
+Regulations.gov after seeking assistance
+from the help desk, please contact Kevin
+Doyle at 202–779–0376 or IPEFSCA@
+trade.gov or Ahmad Khalil at 202–963–
+9696 or supplychaincenter@trade.gov
+before transmitting your application and
+in advance of the deadline to arrange for
+an alternative method of transmission.
+ITA will not accept hand-delivered
+submissions. ITA may not consider
+submissions that you do not make in
+accordance with these instructions.
+General information concerning
+Commerce’s Supply Chain Center is
+available at https://www.trade.gov/
+supply-chain-center. Commerce’s work
+on IPEF is available at https://
+www.commerce.gov/ipef.
+Business Confidential Information (BCI)
+Submissions
+If you ask Commerce to treat
+information you submit as BCI, you
+must certify that the information is
+business confidential and that you
+would not customarily release it to the
+public. For any comments submitted
+electronically containing BCI, the file
+name of the business confidential
+version should begin with the characters
+‘BCI.’ You must clearly mark any page
+containing BCI with ‘BUSINESS
+CONFIDENTIAL’ on the top of that
+page. Filers of submissions containing
+BCI also must submit a public version
+that will be placed in the docket for
+public inspection. The file name of the
+public version should begin with the
+character ‘P.’ Follow the ‘BCI’ and ‘P’
+with the name of the individual or
+organization submitting the comments.
+VerDate Sep<11>2014 18:00 May 31, 2024 Jkt 262001 PO 00000 Frm 00030 Fmt 4703 Sfmt 4703 E:\FR\FM\03JNN1.SGM 03JNN1
+lotter on DSK11XQN23PROD with NOTICES1
+Federal Register / Vol. 89, No. 107 / Monday, June 3, 2024 / Notices 47539
+Public Viewing of Review Submissions
+ITA will post written submissions in
+the docket for public inspection, except
+properly designated BCI. You can view
+comments on Regulations.gov by
+entering Docket Number 240530–0148
+in the search field on the home page.
+Public Burden Statement
+A Federal agency may not conduct or
+sponsor, and a person is not required to
+respond to, nor shall a person be subject
+to a penalty for failure to comply with
+an information collection subject to the
+requirements of the Paperwork
+Reduction Act of 1995 unless the
+information collection has a currently
+valid OMB Control Number. The
+approved OMB Control Number for this
+information collection is 0690–0038.
+Without this approval, we could not
+conduct this information collection.
+Public reporting for this information
+collection is estimated to be
+approximately 2 hours per response,
+including the time for reviewing
+instructions, searching existing data
+sources, gathering and maintaining the
+data needed, and completing and
+reviewing the information collection.
+All responses to this information
+collection are voluntary. Send
+comments regarding this burden
+estimate or any other aspect of this
+information collection, including
+suggestions for reducing this burden to
+the International Trade Administration
+Paperwork Reduction Act Program:
+pra@trade.gov or to Katelynn Byers, ITA
+PRA Process Administrator:
+Katelynn.Byers@trade.gov.
+Dated: May 30, 2024.
+Sharon H Yuan,
+Counselor and Chief Negotiator for IPEF.
+[FR Doc. 2024–12240 Filed 5–30–24; 4:15 pm]
+BILLING CODE 3510–25–P
