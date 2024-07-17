@@ -1,0 +1,42 @@
+Simplicity, Sustainability and Performance for the Modern Enterprise
+Managing data sprawl across on-premises infrastructure and public cloud environments can be complex. Traditional storage solutions often struggle to keep pace with the ever-growing volume and diversity of data. Additionally, ensuring data security, compliance, and accessibility across a hybrid landscape requires a robust and efficient data management strategy.
+This is where data platforms come into play. These platforms offer a centralized and scalable way to store, manage, and analyze data, regardless of its location. By integrating seamlessly with hybrid cloud environments, data platforms empower organizations to break down data silos and unlock the true potential of their information assets.
+However, simply deploying a data platform isn't enough. As data volumes continue to explode, the burden of storage becomes a two-fold challenge: managing ever-increasing costs and environmental impact. Traditional storage approaches can be energy-intensive and wasteful, contributing to a growing environmental footprint and increasing costs. Sustainable storage solutions are no longer a luxury, but a necessity for businesses looking to manage their data effectively and responsibly.
+Sustainability: A Priority for the Future  
+Sustainability is no longer just an ethical consideration – it can be a competitive advantage. Customers are increasingly making purchasing decisions based on a company's environmental commitment. Regulations around energy consumption are also becoming stricter. By prioritizing sustainability, organizations can reduce their environmental impact as well as burnish their brand image and attract environmentally conscious customers and partners.
+
+Here at Hitachi Vantara, we’re committed to developing data storage solutions that are not only powerful and secure, but also help our customers meet their sustainability goals and are simple enough for them to use and integrate seamlessly with their existing data infrastructure.  
+Our storage is often considered the world’s most sustainable storage on the planet. Perhaps that’s one of the reasons why no other vendor has CFP-certified their flash storage offerings (Hitachi Vantara is the only one, still!).
+
+Introducing Virtual Storage Platform One Block: Beyond Performance
+Today we’re announcing the General Availability (GA) of Hitachi Virtual Storage Platform (VSP) One Block Storage Appliances. First communicated in October 2023, this marks the second major milestone in our Virtual Storage Platform One strategy to deliver data infrastructure solutions that help organizations transform how they manage and leverage their data, in the age of AI. In line with our mission to enable customers to unlock new revenue and drive sustainable growth with data.
+
+Virtual Storage Platform One addresses the sustainability challenge head-on, combining exceptional performance and efficiency with innovative features like Dynamic Carbon Reduction and Advanced Data Reduction. By minimizing energy consumption and maximizing storage utilization, the Virtual Storage Platform One helps organizations achieve their sustainability goals while empowering them to thrive in the data-driven era.
+Virtual Storage Platform One storage system doubles down on what our customers prioritize: reliability, simplicity, sustainability, security, and cloud connectivity. It also extends the guarantees Hitachi Vantara is very well known for in the industry across block, file and object solutions. Something that our competitors are not doing.
+At Hitachi, we're committed to developing environmentally responsible solutions. Virtual Storage Platform One builds on this commitment with several sustainability features:
+Carbon Footprint Certifications: Virtual Storage Platform One carries these certifications, demonstrating our dedication to reducing our environmental impact, with Energy Star coming soon.
+Dynamic Carbon Reduction: This innovative feature automatically switches CPUs into eco mode during low activity periods, significantly reducing energy consumption. Imagine a car that seamlessly shifts to a lower gear to save fuel – that's the concept behind dynamic carbon reduction.
+Always-On Adaptive Data Reduction: Virtual Storage Platform One streamlines data reduction with its always-on approach. This eliminates the need for manual user configuration, while simultaneously optimizing storage efficiency and reducing energy consumption.
+These features combine to deliver a sustainable storage solution that helps businesses to minimize their environmental footprint.
+
+Sustainable Leadership
+Hitachi's commitment to sustainability goes beyond individual features. VSP One Block Storage is designed as a holistic solution, and the combination of its features allows us to deliver a product with a 38% lower carbon footprint compared to competitors. This achievement is a testament to our dedication to environmental responsibility. Sustainability is in our DNA. Read our Sustainability Report.
+
+Unwavering Security and Confidence
+Virtual Storage Platform One places data security at the forefront, featuring Thin Image Advanced. This technology safeguards data confidentiality, compliance, and protection against security threats. Furthermore, it extends Hitachi Vantara’s  industry-leading customer assurances across your entire data plane, encompassing block, file, and object storage. This comprehensive approach gives organizations the peace of mind that their data is always secure.
+
+Effortless Cloud Integration and Scalability
+Forward-thinking enterprises require reliable vendors who offer scalable IT solutions and expert professional services. These organizations prioritize innovation, robust security, and cost-efficiency to achieve seamless cloud integration and maximize operational efficiency. Hitachi Vantara continues to excel in professional services, including consulting and design expertise. This empowers clients to plan and build sustainable business processes and adoption strategies, optimizing their hybrid-cloud IT infrastructure and operations.
+
+Virtual Storage Platform One seamlessly integrates with public, near private, private, and hybrid cloud environments. This flexibility allows companies to harness the power of the cloud while maintaining complete control over their data.
+The Hitachi Global Services organization, alongside its certified technology partners, delivers tailored services that prioritize professional expertise, advanced tools, and proven methodologies. This approach ensures an organization’s IT infrastructure can swiftly adapt to evolving business needs, guaranteeing agility, resilience, and cost-effectiveness. Upfront system optimization ensures peak performance from the outset. Discover how to accelerate time-to-market and achieve exceptional outcomes with Hitachi Professional Services.
+
+Embracing Sustainability Without Sacrificing on Performance
+Virtual Storage Platform One Block Storage Appliances empower businesses to achieve both performance and sustainability goals. With its innovative features like Dynamic Carbon Reduction and eco-conscious design, Virtual Storage Platform One helps organizations to minimize their environmental footprint without sacrificing performance.
+
+Don't just store your data, transform it into a competitive advantage with the sustainable power of the Virtual Storage Platform One Block Storage Appliances. Learn how we can enable organizations to operate more efficiently, reduce costs, and demonstrate their commitment to a sustainable future. Visit our solution page: One Data Platform. No Limits.
+
+Additional Resources:
+TECHNICAL BLOG: Hitachi Vantara Revolutionizes Midrange Storage with Virtual Storage Platform One Block Storage Appliances
+Virtual Storage Platform One Block Storage Appliances Explainer Video
+PRESS RELEASE: Hitachi Vantara Announces Availability of Virtual Storage Platform One, Providing the Data Foundation for Unified Hybrid Cloud Storage
