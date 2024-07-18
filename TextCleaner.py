@@ -1,7 +1,7 @@
 import os
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+import nltk 
+from nltk.corpus import stopwords 
+from nltk.tokenize import word_tokenize 
 
 
 class TextCleaner:
