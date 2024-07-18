@@ -1,33 +1,39 @@
 import os
 import nltk
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
 
 class TextCleaner:
-    def __init__(self):
-        nltk.download('punkt')
+    def __init__(self, input_folder, output_folder):
+        self.input_folder = input_folder
+        self.output_folder = output_folder
         nltk.download('stopwords')
-        self.stop_words = set(stopwords.words('english'))
+        nltk.download('punkt')
 
-    def clean_text(self, text):
-        tokens = word_tokenize(text.lower())  # Tokenize and lowercase
-        cleaned_tokens = [token for token in tokens if token.isalpha() and token not in self.stop_words]
-        cleaned_text = ' '.join(cleaned_tokens)
-        return cleaned_text
-
-    def process_file(self, file_path, output_folder):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-            cleaned_text = self.clean_text(text)
-            output_file_path = os.path.join(output_folder, os.path.basename(file_path))
-            with open(output_file_path, 'w', encoding='utf-8') as output_file:
-                output_file.write(cleaned_text)
-
-    def clean_folder(self, input_folder, output_folder):
+        # Create output folder if it doesn't exist
         if not os.path.exists(output_folder):
             os.makedirs(output_folder)
 
-        for file_name in os.listdir(input_folder):
-            if file_name.endswith('.txt'):
-                file_path = os.path.join(input_folder, file_name)
-                self.process_file(file_path, output_folder)
+    def remove_stopwords(self, text):
+        stop_words = set(stopwords.words('english'))
+        words = word_tokenize(text)
+        filtered_words = [word for word in words if word.lower() not in stop_words]
+        return ' '.join(filtered_words)
+
+    def clean_texts(self):
+        for filename in os.listdir(self.input_folder):
+            if filename.endswith('.txt'):
+                with open(os.path.join(self.input_folder, filename), 'r', encoding='utf-8') as file:
+                    text = file.read()
+                    cleaned_text = self.remove_stopwords(text)
+
+                    # Write cleaned text to new file in output folder
+                    output_filename = os.path.join(self.output_folder, filename)
+                    with open(output_filename, 'w', encoding='utf-8') as output_file:
+                        output_file.write(cleaned_text)
+
+                print(f'Processed {filename}.')
+
+        print('All files processed.')
+
