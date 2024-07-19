@@ -1,8 +1,7 @@
 import os
-import nltk 
-from nltk.corpus import stopwords 
-from nltk.tokenize import word_tokenize 
-
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 class TextCleaner:
     def __init__(self, input_folder, output_folder):
@@ -28,12 +27,13 @@ class TextCleaner:
                     text = file.read()
                     cleaned_text = self.remove_stopwords(text)
 
+                    # Construct output filename with "_cleaned.txt" suffix
+                    output_filename = f"{os.path.splitext(filename)[0]}_cleaned.txt"
+
                     # Write cleaned text to new file in output folder
-                    output_filename = os.path.join(self.output_folder, filename)
-                    with open(output_filename, 'w', encoding='utf-8') as output_file:
+                    with open(os.path.join(self.output_folder, output_filename), 'w', encoding='utf-8') as output_file:
                         output_file.write(cleaned_text)
 
                 print(f'Processed {filename}.')
 
         print('All files processed.')
-
