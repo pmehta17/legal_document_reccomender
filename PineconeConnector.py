@@ -25,6 +25,8 @@ class PineconeConnector:
 
     ## Embedding model is [BERT large model (uncased)], which outputs vectors of [1024] dimensions
     ## Cosine similarity so search is not skewed by magnitude
+
+
     def create_index(index_name):
         if index_name not in pc.list_indexes().names():
             pc.create_index(
